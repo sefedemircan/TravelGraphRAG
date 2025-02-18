@@ -1,0 +1,1001 @@
+yolcu_id,havayolu,kalkış_şehri,varış_şehri,uçuş_tarihi,uçuş_sınıfı,bilet_ücreti,uçuş_tipi,bagaj_hakkı,uçuş_süresi
+1,KLM,Trabzon,Ankara,2023-06-26,Ekonomi,1600,Yurt İçi,15 kg,1 saat
+2,KLM,Trabzon,Dubai,2023-08-24,Ekonomi,6843,Yurt Dışı,23 kg,6 saat
+3,AnadoluJet,Erzurum,Diyarbakır,2023-01-09,Premium Ekonomi,2012,Yurt İçi,15 kg,1 saat
+4,Pegasus,İzmir,Ankara,2023-10-28,First Class,1718,Yurt İçi,15 kg,2 saat
+5,Pegasus,Bodrum,Sidney,2023-08-16,Business,6204,Yurt Dışı,23 kg,10 saat
+6,KLM,İstanbul,Prag,2023-06-08,First Class,5576,Yurt Dışı,23 kg,11 saat
+7,British Airways,Bodrum,Berlin,2023-05-22,First Class,4752,Yurt Dışı,23 kg,5 saat
+8,Pegasus,Antalya,Amsterdam,2023-07-03,Ekonomi,4689,Yurt Dışı,23 kg,3 saat
+9,Lufthansa,Diyarbakır,Dubai,2023-05-16,Ekonomi,10432,Yurt Dışı,23 kg,11 saat
+10,Qatar Airways,Trabzon,Londra,2023-01-28,Business,12292,Yurt Dışı,23 kg,4 saat
+11,AnadoluJet,Diyarbakır,Dubai,2023-10-16,First Class,13397,Yurt Dışı,23 kg,10 saat
+12,SunExpress,Bodrum,Diyarbakır,2023-02-23,Premium Ekonomi,1172,Yurt İçi,15 kg,2 saat
+13,Emirates,Erzurum,Tokyo,2023-06-13,Ekonomi,8307,Yurt Dışı,23 kg,7 saat
+14,Türk Hava Yolları,İstanbul,Antalya,2023-08-29,First Class,2484,Yurt İçi,15 kg,2 saat
+15,Emirates,Ankara,Madrid,2023-09-29,Premium Ekonomi,8441,Yurt Dışı,23 kg,4 saat
+16,Air France,Bodrum,Londra,2023-09-23,Ekonomi,7219,Yurt Dışı,23 kg,9 saat
+17,Qatar Airways,Trabzon,Bodrum,2023-01-02,Business,1287,Yurt İçi,15 kg,1 saat
+18,SunExpress,Ankara,New York,2023-09-23,Premium Ekonomi,14505,Yurt Dışı,23 kg,7 saat
+19,British Airways,Antalya,Berlin,2023-04-08,First Class,5919,Yurt Dışı,23 kg,8 saat
+20,Türk Hava Yolları,Trabzon,Erzurum,2023-02-12,Ekonomi,1061,Yurt İçi,15 kg,2 saat
+21,Air France,Trabzon,İzmir,2023-07-09,Ekonomi,1544,Yurt İçi,15 kg,1 saat
+22,KLM,Bodrum,İstanbul,2023-03-17,Business,2025,Yurt İçi,15 kg,1 saat
+23,SunExpress,Dalaman,Trabzon,2023-07-23,First Class,1600,Yurt İçi,15 kg,2 saat
+24,SunExpress,Bodrum,Trabzon,2023-05-24,Premium Ekonomi,2430,Yurt İçi,15 kg,1 saat
+25,Pegasus,İstanbul,İzmir,2023-07-23,Ekonomi,1886,Yurt İçi,15 kg,1 saat
+26,AnadoluJet,Bodrum,Antalya,2023-05-06,Premium Ekonomi,1126,Yurt İçi,15 kg,2 saat
+27,Lufthansa,Van,Seul,2023-07-29,Premium Ekonomi,10852,Yurt Dışı,23 kg,10 saat
+28,KLM,Van,Antalya,2023-04-25,First Class,1209,Yurt İçi,15 kg,2 saat
+29,Lufthansa,Van,İstanbul,2023-05-21,Business,1318,Yurt İçi,15 kg,2 saat
+30,SunExpress,İstanbul,Dubai,2023-07-06,First Class,3589,Yurt Dışı,23 kg,6 saat
+31,Pegasus,Erzurum,Gaziantep,2023-10-19,Ekonomi,1721,Yurt İçi,15 kg,2 saat
+32,KLM,Erzurum,Dalaman,2023-03-09,First Class,1891,Yurt İçi,15 kg,1 saat
+33,Air France,Gaziantep,Berlin,2023-12-16,Business,4053,Yurt Dışı,23 kg,4 saat
+34,British Airways,Trabzon,Gaziantep,2023-08-24,Ekonomi,2420,Yurt İçi,15 kg,2 saat
+35,AnadoluJet,Antalya,Sidney,2023-04-01,First Class,7448,Yurt Dışı,23 kg,6 saat
+36,AnadoluJet,Trabzon,Berlin,2023-02-13,First Class,8644,Yurt Dışı,23 kg,4 saat
+37,KLM,Diyarbakır,Paris,2023-11-13,Business,6688,Yurt Dışı,23 kg,7 saat
+38,British Airways,Bodrum,Trabzon,2023-12-11,Business,1203,Yurt İçi,15 kg,1 saat
+39,British Airways,Trabzon,Diyarbakır,2023-01-28,First Class,2284,Yurt İçi,15 kg,1 saat
+40,Emirates,Ankara,Dubai,2023-02-07,Ekonomi,6888,Yurt Dışı,23 kg,7 saat
+41,Pegasus,İzmir,Sidney,2023-09-27,Premium Ekonomi,13562,Yurt Dışı,23 kg,11 saat
+42,KLM,Trabzon,Antalya,2023-04-15,First Class,1738,Yurt İçi,15 kg,1 saat
+43,KLM,İstanbul,New York,2023-04-28,Business,9573,Yurt Dışı,23 kg,8 saat
+44,SunExpress,İstanbul,Trabzon,2023-04-08,Premium Ekonomi,2084,Yurt İçi,15 kg,2 saat
+45,Pegasus,Gaziantep,Berlin,2023-08-08,Ekonomi,3253,Yurt Dışı,23 kg,11 saat
+46,Air France,Erzurum,Viyana,2023-03-10,Ekonomi,6607,Yurt Dışı,23 kg,5 saat
+47,AnadoluJet,Bodrum,Tokyo,2023-10-14,Ekonomi,14045,Yurt Dışı,23 kg,6 saat
+48,Türk Hava Yolları,Gaziantep,Barselona,2023-10-20,Premium Ekonomi,7921,Yurt Dışı,23 kg,5 saat
+49,Pegasus,Ankara,Bodrum,2023-04-20,Ekonomi,2352,Yurt İçi,15 kg,2 saat
+50,SunExpress,Erzurum,Antalya,2023-08-16,Ekonomi,1115,Yurt İçi,15 kg,1 saat
+51,Air France,Van,Londra,2023-09-29,Ekonomi,6131,Yurt Dışı,23 kg,3 saat
+52,Emirates,Dalaman,Roma,2023-07-18,Business,14479,Yurt Dışı,23 kg,10 saat
+53,Lufthansa,Trabzon,Dubai,2023-06-07,Ekonomi,3819,Yurt Dışı,23 kg,7 saat
+54,Air France,Bodrum,Madrid,2023-10-07,Ekonomi,8318,Yurt Dışı,23 kg,10 saat
+55,AnadoluJet,Erzurum,Ankara,2023-02-07,Premium Ekonomi,1010,Yurt İçi,15 kg,1 saat
+56,Pegasus,Ankara,Amsterdam,2023-12-02,Ekonomi,5621,Yurt Dışı,23 kg,6 saat
+57,KLM,Trabzon,Berlin,2023-09-05,Business,8853,Yurt Dışı,23 kg,3 saat
+58,Qatar Airways,Erzurum,Gaziantep,2023-11-05,First Class,889,Yurt İçi,15 kg,1 saat
+59,SunExpress,Antalya,Bodrum,2023-01-25,Business,2471,Yurt İçi,15 kg,2 saat
+60,Türk Hava Yolları,Bodrum,Van,2023-02-18,Business,1138,Yurt İçi,15 kg,1 saat
+61,AnadoluJet,Ankara,İzmir,2023-05-23,Premium Ekonomi,1535,Yurt İçi,15 kg,2 saat
+62,Emirates,Van,İzmir,2023-08-08,Ekonomi,1421,Yurt İçi,15 kg,2 saat
+63,Türk Hava Yolları,Ankara,Amsterdam,2023-06-08,First Class,3757,Yurt Dışı,23 kg,5 saat
+64,Lufthansa,İstanbul,Sidney,2023-08-31,Ekonomi,3459,Yurt Dışı,23 kg,7 saat
+65,British Airways,Antalya,Diyarbakır,2023-09-01,First Class,1665,Yurt İçi,15 kg,2 saat
+66,Air France,Diyarbakır,Sidney,2023-05-16,Premium Ekonomi,2019,Yurt Dışı,23 kg,8 saat
+67,British Airways,Antalya,Dubai,2023-09-20,First Class,14823,Yurt Dışı,23 kg,8 saat
+68,Air France,Trabzon,Sidney,2023-03-11,Ekonomi,12830,Yurt Dışı,23 kg,5 saat
+69,Pegasus,Erzurum,İstanbul,2023-02-11,Ekonomi,2115,Yurt İçi,15 kg,1 saat
+70,Türk Hava Yolları,Diyarbakır,İzmir,2023-04-12,Ekonomi,1978,Yurt İçi,15 kg,1 saat
+71,Qatar Airways,Gaziantep,Toronto,2023-10-16,Business,5429,Yurt Dışı,23 kg,7 saat
+72,SunExpress,Diyarbakır,Berlin,2023-01-08,Ekonomi,4815,Yurt Dışı,23 kg,3 saat
+73,Türk Hava Yolları,Trabzon,Amsterdam,2023-05-28,Business,8843,Yurt Dışı,23 kg,6 saat
+74,Pegasus,Van,Antalya,2023-02-20,Ekonomi,2089,Yurt İçi,15 kg,2 saat
+75,Türk Hava Yolları,Dalaman,Barselona,2023-05-12,Premium Ekonomi,12281,Yurt Dışı,23 kg,6 saat
+76,SunExpress,İzmir,Bodrum,2023-04-08,Business,2181,Yurt İçi,15 kg,2 saat
+77,Air France,Dalaman,Dubai,2023-03-04,First Class,11674,Yurt Dışı,23 kg,8 saat
+78,SunExpress,Diyarbakır,Erzurum,2023-11-01,Business,879,Yurt İçi,15 kg,2 saat
+79,Pegasus,Erzurum,Doha,2023-08-29,First Class,14352,Yurt Dışı,23 kg,12 saat
+80,AnadoluJet,İstanbul,Bodrum,2023-04-19,Business,2243,Yurt İçi,15 kg,1 saat
+81,Lufthansa,Van,Ankara,2023-09-30,Premium Ekonomi,923,Yurt İçi,15 kg,1 saat
+82,Lufthansa,Dalaman,Toronto,2023-01-30,Premium Ekonomi,4934,Yurt Dışı,23 kg,8 saat
+83,Emirates,İzmir,Trabzon,2023-12-11,Ekonomi,1502,Yurt İçi,15 kg,1 saat
+84,Türk Hava Yolları,Dalaman,Erzurum,2023-06-19,Business,1108,Yurt İçi,15 kg,2 saat
+85,KLM,İstanbul,Trabzon,2023-12-30,First Class,1037,Yurt İçi,15 kg,2 saat
+86,KLM,Bodrum,Barselona,2023-07-11,Ekonomi,11689,Yurt Dışı,23 kg,3 saat
+87,Türk Hava Yolları,Bodrum,Van,2023-10-04,Ekonomi,1159,Yurt İçi,15 kg,1 saat
+88,Lufthansa,İzmir,Berlin,2023-07-05,Premium Ekonomi,9237,Yurt Dışı,23 kg,3 saat
+89,Air France,Gaziantep,Dalaman,2023-02-26,First Class,2270,Yurt İçi,15 kg,2 saat
+90,AnadoluJet,Trabzon,Antalya,2023-08-15,First Class,1934,Yurt İçi,15 kg,1 saat
+91,SunExpress,İzmir,Amsterdam,2023-03-14,First Class,7629,Yurt Dışı,23 kg,4 saat
+92,Türk Hava Yolları,Antalya,İzmir,2023-05-08,Business,1997,Yurt İçi,15 kg,1 saat
+93,KLM,Dalaman,Doha,2023-05-17,First Class,7807,Yurt Dışı,23 kg,8 saat
+94,Emirates,Van,Antalya,2023-03-30,Business,1063,Yurt İçi,15 kg,2 saat
+95,Air France,Dalaman,Paris,2023-03-06,Business,14411,Yurt Dışı,23 kg,12 saat
+96,AnadoluJet,Diyarbakır,Doha,2023-05-25,Business,8552,Yurt Dışı,23 kg,12 saat
+97,Pegasus,Bodrum,Barselona,2023-05-04,Premium Ekonomi,13845,Yurt Dışı,23 kg,3 saat
+98,Lufthansa,Bodrum,Antalya,2023-10-08,Business,2122,Yurt İçi,15 kg,1 saat
+99,Emirates,Van,Sidney,2023-08-18,Ekonomi,9854,Yurt Dışı,23 kg,12 saat
+100,Lufthansa,Bodrum,Antalya,2023-09-10,Business,1154,Yurt İçi,15 kg,2 saat
+101,British Airways,Van,İzmir,2023-10-12,Premium Ekonomi,2367,Yurt İçi,15 kg,1 saat
+102,Emirates,Erzurum,Prag,2023-01-06,Premium Ekonomi,13309,Yurt Dışı,23 kg,7 saat
+103,KLM,Gaziantep,İzmir,2023-08-24,First Class,1398,Yurt İçi,15 kg,1 saat
+104,Emirates,Diyarbakır,Bodrum,2023-12-26,First Class,1446,Yurt İçi,15 kg,1 saat
+105,Pegasus,İstanbul,Berlin,2023-07-25,Premium Ekonomi,14426,Yurt Dışı,23 kg,8 saat
+106,Türk Hava Yolları,Antalya,İstanbul,2023-04-15,Business,2102,Yurt İçi,15 kg,1 saat
+107,KLM,Bodrum,Viyana,2023-03-23,Ekonomi,4971,Yurt Dışı,23 kg,9 saat
+108,British Airways,İstanbul,Dalaman,2023-03-23,Premium Ekonomi,876,Yurt İçi,15 kg,1 saat
+109,Pegasus,Dalaman,Viyana,2023-06-15,First Class,5974,Yurt Dışı,23 kg,10 saat
+110,Emirates,Van,Roma,2023-07-29,First Class,13363,Yurt Dışı,23 kg,7 saat
+111,British Airways,Diyarbakır,İstanbul,2023-07-03,Premium Ekonomi,1209,Yurt İçi,15 kg,1 saat
+112,Qatar Airways,İstanbul,Toronto,2023-01-12,First Class,14579,Yurt Dışı,23 kg,5 saat
+113,Türk Hava Yolları,Dalaman,Ankara,2023-09-17,Business,881,Yurt İçi,15 kg,2 saat
+114,Türk Hava Yolları,Diyarbakır,Dubai,2023-12-12,Business,13970,Yurt Dışı,23 kg,5 saat
+115,AnadoluJet,Gaziantep,Antalya,2023-08-28,First Class,908,Yurt İçi,15 kg,2 saat
+116,Pegasus,Erzurum,İstanbul,2023-11-27,First Class,1497,Yurt İçi,15 kg,2 saat
+117,Lufthansa,Gaziantep,Van,2023-05-16,Ekonomi,2052,Yurt İçi,15 kg,2 saat
+118,KLM,Antalya,Roma,2023-06-26,Ekonomi,7648,Yurt Dışı,23 kg,6 saat
+119,AnadoluJet,Antalya,Van,2023-04-06,Business,1179,Yurt İçi,15 kg,1 saat
+120,SunExpress,Dalaman,Seul,2023-11-06,Business,2755,Yurt Dışı,23 kg,7 saat
+121,Lufthansa,Antalya,Madrid,2023-11-07,Business,13870,Yurt Dışı,23 kg,4 saat
+122,Emirates,Diyarbakır,Paris,2023-06-29,First Class,9931,Yurt Dışı,23 kg,8 saat
+123,SunExpress,Ankara,Dubai,2023-01-17,Ekonomi,3810,Yurt Dışı,23 kg,9 saat
+124,SunExpress,İzmir,Erzurum,2023-03-29,Business,2141,Yurt İçi,15 kg,2 saat
+125,KLM,Gaziantep,Antalya,2023-07-26,Business,1691,Yurt İçi,15 kg,1 saat
+126,Lufthansa,Erzurum,Seul,2023-08-18,Ekonomi,7607,Yurt Dışı,23 kg,9 saat
+127,Emirates,İstanbul,Seul,2023-09-05,First Class,9635,Yurt Dışı,23 kg,8 saat
+128,SunExpress,İstanbul,Van,2023-04-30,Premium Ekonomi,2184,Yurt İçi,15 kg,1 saat
+129,Pegasus,Erzurum,Gaziantep,2023-12-08,First Class,2147,Yurt İçi,15 kg,2 saat
+130,Pegasus,Dalaman,Doha,2023-03-14,Ekonomi,12510,Yurt Dışı,23 kg,4 saat
+131,Pegasus,Van,Erzurum,2023-11-28,Premium Ekonomi,1851,Yurt İçi,15 kg,1 saat
+132,Air France,Dalaman,Trabzon,2023-07-02,First Class,2084,Yurt İçi,15 kg,1 saat
+133,KLM,Gaziantep,Trabzon,2023-04-11,Business,1261,Yurt İçi,15 kg,2 saat
+134,AnadoluJet,Gaziantep,Antalya,2023-12-10,Business,1491,Yurt İçi,15 kg,1 saat
+135,British Airways,İstanbul,Roma,2023-09-20,Premium Ekonomi,13473,Yurt Dışı,23 kg,12 saat
+136,Türk Hava Yolları,Antalya,New York,2023-08-28,Business,10799,Yurt Dışı,23 kg,10 saat
+137,Türk Hava Yolları,Erzurum,Barselona,2023-08-09,Business,9231,Yurt Dışı,23 kg,10 saat
+138,Pegasus,İstanbul,Diyarbakır,2023-04-09,First Class,1369,Yurt İçi,15 kg,1 saat
+139,Qatar Airways,Erzurum,Prag,2023-06-19,First Class,2949,Yurt Dışı,23 kg,8 saat
+140,Qatar Airways,İzmir,Antalya,2023-03-07,Business,929,Yurt İçi,15 kg,2 saat
+141,SunExpress,Dalaman,Londra,2023-03-02,First Class,2104,Yurt Dışı,23 kg,9 saat
+142,Lufthansa,Van,New York,2023-06-12,First Class,7481,Yurt Dışı,23 kg,4 saat
+143,KLM,Trabzon,Madrid,2023-05-09,Premium Ekonomi,14756,Yurt Dışı,23 kg,5 saat
+144,Lufthansa,İstanbul,Antalya,2023-06-03,Business,881,Yurt İçi,15 kg,2 saat
+145,Air France,Van,Trabzon,2023-03-31,Premium Ekonomi,2309,Yurt İçi,15 kg,2 saat
+146,SunExpress,Trabzon,Doha,2023-08-21,First Class,6019,Yurt Dışı,23 kg,4 saat
+147,Air France,Dalaman,Trabzon,2023-03-26,Ekonomi,2338,Yurt İçi,15 kg,2 saat
+148,Emirates,Trabzon,Madrid,2023-09-30,Business,9315,Yurt Dışı,23 kg,6 saat
+149,SunExpress,Trabzon,Bodrum,2023-06-24,First Class,1568,Yurt İçi,15 kg,1 saat
+150,Emirates,İstanbul,Gaziantep,2023-09-22,Premium Ekonomi,2426,Yurt İçi,15 kg,1 saat
+151,Air France,Gaziantep,Berlin,2023-08-07,Premium Ekonomi,2633,Yurt Dışı,23 kg,12 saat
+152,Türk Hava Yolları,İstanbul,Bodrum,2023-08-17,First Class,1768,Yurt İçi,15 kg,1 saat
+153,Emirates,Bodrum,Antalya,2023-06-14,Ekonomi,1470,Yurt İçi,15 kg,1 saat
+154,Qatar Airways,İstanbul,Londra,2023-05-20,Ekonomi,6129,Yurt Dışı,23 kg,12 saat
+155,Lufthansa,Gaziantep,Toronto,2023-10-17,Business,13956,Yurt Dışı,23 kg,7 saat
+156,British Airways,Dalaman,Roma,2023-11-29,Premium Ekonomi,8250,Yurt Dışı,23 kg,7 saat
+157,Air France,Diyarbakır,Antalya,2023-04-13,Business,2125,Yurt İçi,15 kg,2 saat
+158,SunExpress,Gaziantep,Prag,2023-10-19,Premium Ekonomi,13725,Yurt Dışı,23 kg,6 saat
+159,British Airways,İzmir,Erzurum,2023-12-04,First Class,1297,Yurt İçi,15 kg,2 saat
+160,SunExpress,Trabzon,Tokyo,2023-10-03,Ekonomi,6818,Yurt Dışı,23 kg,4 saat
+161,Qatar Airways,İstanbul,Barselona,2023-05-15,First Class,5636,Yurt Dışı,23 kg,8 saat
+162,Lufthansa,Diyarbakır,Tokyo,2023-11-23,Business,12662,Yurt Dışı,23 kg,11 saat
+163,SunExpress,Diyarbakır,Erzurum,2023-11-26,Ekonomi,2111,Yurt İçi,15 kg,2 saat
+164,Air France,Trabzon,İzmir,2023-09-07,Business,1718,Yurt İçi,15 kg,1 saat
+165,KLM,Antalya,Erzurum,2023-04-21,First Class,934,Yurt İçi,15 kg,1 saat
+166,Qatar Airways,Ankara,New York,2023-03-17,Premium Ekonomi,2593,Yurt Dışı,23 kg,8 saat
+167,British Airways,Erzurum,Dalaman,2023-06-29,Ekonomi,1596,Yurt İçi,15 kg,2 saat
+168,Air France,Dalaman,Trabzon,2023-12-22,Ekonomi,2068,Yurt İçi,15 kg,2 saat
+169,AnadoluJet,Antalya,Gaziantep,2023-03-18,Ekonomi,1951,Yurt İçi,15 kg,2 saat
+170,Qatar Airways,Trabzon,Sidney,2023-12-31,Ekonomi,7067,Yurt Dışı,23 kg,12 saat
+171,AnadoluJet,İstanbul,Sidney,2023-10-28,First Class,13021,Yurt Dışı,23 kg,10 saat
+172,Qatar Airways,Ankara,Prag,2023-06-05,First Class,13723,Yurt Dışı,23 kg,7 saat
+173,Pegasus,Trabzon,Ankara,2023-02-22,First Class,1814,Yurt İçi,15 kg,1 saat
+174,AnadoluJet,Dalaman,Ankara,2023-04-20,First Class,2177,Yurt İçi,15 kg,1 saat
+175,AnadoluJet,Van,İzmir,2023-09-11,Ekonomi,1015,Yurt İçi,15 kg,1 saat
+176,Qatar Airways,Gaziantep,Bodrum,2023-11-23,First Class,1486,Yurt İçi,15 kg,2 saat
+177,Lufthansa,İzmir,Toronto,2023-07-16,First Class,7674,Yurt Dışı,23 kg,6 saat
+178,Lufthansa,İstanbul,Diyarbakır,2023-04-22,Business,2241,Yurt İçi,15 kg,2 saat
+179,Lufthansa,Trabzon,Roma,2023-05-19,Ekonomi,2343,Yurt Dışı,23 kg,3 saat
+180,Lufthansa,Diyarbakır,Tokyo,2023-10-21,Business,10176,Yurt Dışı,23 kg,9 saat
+181,Türk Hava Yolları,Trabzon,Dalaman,2023-11-07,Ekonomi,913,Yurt İçi,15 kg,1 saat
+182,Lufthansa,Erzurum,Paris,2023-10-04,First Class,12695,Yurt Dışı,23 kg,10 saat
+183,Türk Hava Yolları,İstanbul,Paris,2023-04-16,First Class,2403,Yurt Dışı,23 kg,9 saat
+184,British Airways,İzmir,Doha,2023-06-20,Business,10399,Yurt Dışı,23 kg,8 saat
+185,Air France,Gaziantep,Sidney,2023-01-05,Premium Ekonomi,12513,Yurt Dışı,23 kg,3 saat
+186,Emirates,Bodrum,Londra,2023-07-31,Ekonomi,12915,Yurt Dışı,23 kg,10 saat
+187,SunExpress,İzmir,Seul,2023-06-15,Business,8214,Yurt Dışı,23 kg,8 saat
+188,AnadoluJet,Antalya,Gaziantep,2023-07-06,Ekonomi,1310,Yurt İçi,15 kg,1 saat
+189,Lufthansa,Trabzon,Doha,2023-03-11,Ekonomi,6468,Yurt Dışı,23 kg,9 saat
+190,Lufthansa,Diyarbakır,Bodrum,2023-08-24,Ekonomi,2243,Yurt İçi,15 kg,1 saat
+191,British Airways,Bodrum,Toronto,2023-06-01,First Class,10265,Yurt Dışı,23 kg,7 saat
+192,British Airways,İzmir,Paris,2023-11-06,Ekonomi,5782,Yurt Dışı,23 kg,3 saat
+193,AnadoluJet,Gaziantep,Roma,2023-01-15,Ekonomi,9902,Yurt Dışı,23 kg,11 saat
+194,Emirates,İzmir,Berlin,2023-06-05,Ekonomi,12637,Yurt Dışı,23 kg,6 saat
+195,Emirates,Dalaman,İzmir,2023-03-08,Ekonomi,1112,Yurt İçi,15 kg,2 saat
+196,Türk Hava Yolları,Erzurum,Madrid,2023-06-11,Ekonomi,2990,Yurt Dışı,23 kg,8 saat
+197,Qatar Airways,Bodrum,Van,2023-09-24,Premium Ekonomi,1275,Yurt İçi,15 kg,1 saat
+198,Pegasus,Antalya,Erzurum,2023-12-06,Ekonomi,1324,Yurt İçi,15 kg,1 saat
+199,Air France,İstanbul,New York,2023-02-17,Premium Ekonomi,3590,Yurt Dışı,23 kg,4 saat
+200,AnadoluJet,Antalya,Trabzon,2023-10-08,Ekonomi,984,Yurt İçi,15 kg,2 saat
+201,Qatar Airways,Van,İstanbul,2023-10-06,First Class,1784,Yurt İçi,15 kg,2 saat
+202,Pegasus,Antalya,Erzurum,2023-06-29,Ekonomi,1782,Yurt İçi,15 kg,1 saat
+203,Air France,Dalaman,Viyana,2023-11-21,Ekonomi,14060,Yurt Dışı,23 kg,7 saat
+204,Qatar Airways,Antalya,Amsterdam,2023-12-02,First Class,11428,Yurt Dışı,23 kg,5 saat
+205,Lufthansa,Gaziantep,İzmir,2023-03-16,Ekonomi,803,Yurt İçi,15 kg,1 saat
+206,Türk Hava Yolları,Van,Gaziantep,2023-06-24,Business,1729,Yurt İçi,15 kg,1 saat
+207,Air France,Gaziantep,Doha,2023-11-27,First Class,7881,Yurt Dışı,23 kg,12 saat
+208,Emirates,Antalya,Dalaman,2023-08-12,Premium Ekonomi,2051,Yurt İçi,15 kg,1 saat
+209,AnadoluJet,Bodrum,Antalya,2023-12-06,Ekonomi,1875,Yurt İçi,15 kg,1 saat
+210,Air France,Van,İstanbul,2023-02-13,First Class,1282,Yurt İçi,15 kg,1 saat
+211,Qatar Airways,Dalaman,Gaziantep,2023-01-24,Ekonomi,2100,Yurt İçi,15 kg,2 saat
+212,KLM,İzmir,Tokyo,2023-10-20,Ekonomi,7008,Yurt Dışı,23 kg,8 saat
+213,Emirates,Bodrum,Prag,2023-11-26,Business,13978,Yurt Dışı,23 kg,7 saat
+214,British Airways,Trabzon,Roma,2023-06-24,First Class,5169,Yurt Dışı,23 kg,5 saat
+215,Air France,Dalaman,Amsterdam,2023-08-16,Ekonomi,7651,Yurt Dışı,23 kg,4 saat
+216,KLM,Gaziantep,Dalaman,2023-04-08,Premium Ekonomi,2382,Yurt İçi,15 kg,1 saat
+217,AnadoluJet,Erzurum,Gaziantep,2023-06-07,Business,900,Yurt İçi,15 kg,2 saat
+218,SunExpress,Antalya,Erzurum,2023-08-28,Premium Ekonomi,2099,Yurt İçi,15 kg,1 saat
+219,AnadoluJet,Trabzon,Berlin,2023-03-15,First Class,4172,Yurt Dışı,23 kg,9 saat
+220,Lufthansa,Diyarbakır,Bodrum,2023-08-17,Premium Ekonomi,895,Yurt İçi,15 kg,1 saat
+221,Pegasus,Erzurum,Dalaman,2023-02-02,First Class,1929,Yurt İçi,15 kg,1 saat
+222,Qatar Airways,Ankara,Prag,2023-06-07,First Class,2228,Yurt Dışı,23 kg,8 saat
+223,SunExpress,Erzurum,Prag,2023-01-24,Business,10838,Yurt Dışı,23 kg,6 saat
+224,SunExpress,Van,Diyarbakır,2023-02-02,Ekonomi,2399,Yurt İçi,15 kg,1 saat
+225,British Airways,Ankara,İzmir,2023-12-12,Ekonomi,2019,Yurt İçi,15 kg,2 saat
+226,AnadoluJet,Trabzon,Bodrum,2023-04-08,Ekonomi,2352,Yurt İçi,15 kg,2 saat
+227,Türk Hava Yolları,Ankara,Antalya,2023-04-21,Premium Ekonomi,2403,Yurt İçi,15 kg,2 saat
+228,Qatar Airways,İstanbul,Diyarbakır,2023-09-06,Ekonomi,1082,Yurt İçi,15 kg,2 saat
+229,British Airways,Erzurum,Toronto,2023-05-10,First Class,10484,Yurt Dışı,23 kg,6 saat
+230,Qatar Airways,Van,Tokyo,2023-01-29,Premium Ekonomi,5889,Yurt Dışı,23 kg,6 saat
+231,Pegasus,Diyarbakır,Seul,2023-05-10,Ekonomi,8013,Yurt Dışı,23 kg,8 saat
+232,Emirates,Ankara,Doha,2023-10-27,Ekonomi,7979,Yurt Dışı,23 kg,9 saat
+233,AnadoluJet,Diyarbakır,Madrid,2023-09-01,Premium Ekonomi,8141,Yurt Dışı,23 kg,7 saat
+234,Lufthansa,Gaziantep,Paris,2023-04-15,Ekonomi,11144,Yurt Dışı,23 kg,8 saat
+235,Türk Hava Yolları,Diyarbakır,Gaziantep,2023-08-30,First Class,2422,Yurt İçi,15 kg,1 saat
+236,Türk Hava Yolları,Ankara,Londra,2023-03-04,Ekonomi,5437,Yurt Dışı,23 kg,9 saat
+237,Türk Hava Yolları,Van,Bodrum,2023-07-01,Business,1381,Yurt İçi,15 kg,2 saat
+238,SunExpress,Van,Paris,2023-12-10,Premium Ekonomi,12891,Yurt Dışı,23 kg,6 saat
+239,British Airways,Erzurum,Seul,2023-08-20,Ekonomi,10525,Yurt Dışı,23 kg,8 saat
+240,Emirates,Gaziantep,Prag,2023-05-10,Ekonomi,9313,Yurt Dışı,23 kg,10 saat
+241,Türk Hava Yolları,Gaziantep,Erzurum,2023-02-24,Business,2399,Yurt İçi,15 kg,1 saat
+242,KLM,Antalya,Van,2023-09-28,Ekonomi,2145,Yurt İçi,15 kg,1 saat
+243,Türk Hava Yolları,İzmir,Ankara,2023-04-15,First Class,2097,Yurt İçi,15 kg,2 saat
+244,Emirates,Ankara,Prag,2023-02-04,Business,5831,Yurt Dışı,23 kg,10 saat
+245,SunExpress,Diyarbakır,Dalaman,2023-03-18,First Class,1625,Yurt İçi,15 kg,1 saat
+246,Pegasus,Gaziantep,Seul,2023-03-20,Business,6636,Yurt Dışı,23 kg,3 saat
+247,Emirates,Trabzon,Sidney,2023-04-16,Premium Ekonomi,11702,Yurt Dışı,23 kg,5 saat
+248,Lufthansa,Gaziantep,Prag,2023-03-12,Ekonomi,10581,Yurt Dışı,23 kg,11 saat
+249,British Airways,Ankara,Seul,2023-12-05,Ekonomi,2775,Yurt Dışı,23 kg,9 saat
+250,Pegasus,Dalaman,Tokyo,2023-09-21,Ekonomi,2855,Yurt Dışı,23 kg,4 saat
+251,Qatar Airways,Trabzon,Diyarbakır,2023-07-31,First Class,1616,Yurt İçi,15 kg,1 saat
+252,British Airways,Van,Antalya,2023-08-02,Business,1108,Yurt İçi,15 kg,1 saat
+253,Türk Hava Yolları,Gaziantep,Madrid,2023-03-21,Business,4526,Yurt Dışı,23 kg,10 saat
+254,Emirates,Diyarbakır,Madrid,2023-08-30,Ekonomi,7359,Yurt Dışı,23 kg,3 saat
+255,Qatar Airways,Ankara,Diyarbakır,2023-03-15,Business,1108,Yurt İçi,15 kg,2 saat
+256,AnadoluJet,Van,Paris,2023-09-19,First Class,11162,Yurt Dışı,23 kg,7 saat
+257,Air France,İzmir,Barselona,2023-10-06,Premium Ekonomi,10326,Yurt Dışı,23 kg,4 saat
+258,Emirates,Ankara,Paris,2023-09-26,First Class,10282,Yurt Dışı,23 kg,7 saat
+259,Emirates,Dalaman,Amsterdam,2023-03-22,First Class,8935,Yurt Dışı,23 kg,9 saat
+260,Pegasus,Erzurum,İzmir,2023-08-20,Business,855,Yurt İçi,15 kg,1 saat
+261,Pegasus,Bodrum,New York,2023-02-07,Ekonomi,14371,Yurt Dışı,23 kg,6 saat
+262,Air France,Bodrum,İstanbul,2023-07-27,Premium Ekonomi,2411,Yurt İçi,15 kg,1 saat
+263,Air France,İstanbul,Sidney,2023-01-09,Premium Ekonomi,10697,Yurt Dışı,23 kg,3 saat
+264,Türk Hava Yolları,Trabzon,Viyana,2023-03-18,Ekonomi,4048,Yurt Dışı,23 kg,11 saat
+265,Emirates,Van,New York,2023-02-19,Business,14228,Yurt Dışı,23 kg,3 saat
+266,Lufthansa,Erzurum,New York,2023-01-27,Ekonomi,11734,Yurt Dışı,23 kg,5 saat
+267,British Airways,Van,Roma,2023-12-20,Ekonomi,13171,Yurt Dışı,23 kg,4 saat
+268,SunExpress,İzmir,Bodrum,2023-03-29,Business,2498,Yurt İçi,15 kg,1 saat
+269,KLM,Antalya,Dalaman,2023-11-02,Premium Ekonomi,2015,Yurt İçi,15 kg,2 saat
+270,Emirates,Diyarbakır,Erzurum,2023-05-27,Premium Ekonomi,858,Yurt İçi,15 kg,1 saat
+271,Pegasus,Gaziantep,Erzurum,2023-09-14,Business,2241,Yurt İçi,15 kg,1 saat
+272,AnadoluJet,Bodrum,New York,2023-10-14,Ekonomi,4341,Yurt Dışı,23 kg,6 saat
+273,Emirates,İzmir,Erzurum,2023-01-10,Business,2244,Yurt İçi,15 kg,2 saat
+274,AnadoluJet,Van,Dubai,2023-10-29,First Class,13317,Yurt Dışı,23 kg,8 saat
+275,SunExpress,İstanbul,Diyarbakır,2023-09-02,First Class,1968,Yurt İçi,15 kg,2 saat
+276,Lufthansa,Dalaman,Gaziantep,2023-10-17,First Class,1969,Yurt İçi,15 kg,1 saat
+277,British Airways,Trabzon,Van,2023-08-29,Ekonomi,812,Yurt İçi,15 kg,2 saat
+278,Türk Hava Yolları,Ankara,Trabzon,2023-08-27,First Class,2186,Yurt İçi,15 kg,2 saat
+279,British Airways,Antalya,New York,2023-12-15,First Class,6556,Yurt Dışı,23 kg,12 saat
+280,KLM,İzmir,Erzurum,2023-04-12,Ekonomi,1128,Yurt İçi,15 kg,2 saat
+281,AnadoluJet,İzmir,Amsterdam,2023-01-22,Ekonomi,8466,Yurt Dışı,23 kg,3 saat
+282,Lufthansa,İstanbul,Diyarbakır,2023-10-16,Premium Ekonomi,1742,Yurt İçi,15 kg,1 saat
+283,AnadoluJet,Erzurum,İzmir,2023-04-11,Premium Ekonomi,1483,Yurt İçi,15 kg,2 saat
+284,Air France,Trabzon,Bodrum,2023-02-09,Ekonomi,1581,Yurt İçi,15 kg,2 saat
+285,AnadoluJet,Antalya,İzmir,2023-06-10,Ekonomi,2086,Yurt İçi,15 kg,2 saat
+286,Qatar Airways,Bodrum,Diyarbakır,2023-03-04,Premium Ekonomi,1818,Yurt İçi,15 kg,2 saat
+287,British Airways,Bodrum,Ankara,2023-11-26,First Class,2074,Yurt İçi,15 kg,1 saat
+288,Emirates,Dalaman,İstanbul,2023-07-12,Premium Ekonomi,927,Yurt İçi,15 kg,2 saat
+289,Emirates,Erzurum,Viyana,2023-11-20,First Class,10666,Yurt Dışı,23 kg,9 saat
+290,Türk Hava Yolları,İstanbul,Van,2023-03-30,Premium Ekonomi,2312,Yurt İçi,15 kg,1 saat
+291,Pegasus,Erzurum,İstanbul,2023-05-11,Ekonomi,881,Yurt İçi,15 kg,1 saat
+292,SunExpress,İstanbul,Antalya,2023-12-01,First Class,2451,Yurt İçi,15 kg,1 saat
+293,KLM,Dalaman,Erzurum,2023-07-30,Business,1977,Yurt İçi,15 kg,2 saat
+294,SunExpress,Bodrum,Roma,2023-11-12,First Class,9646,Yurt Dışı,23 kg,3 saat
+295,KLM,İzmir,Ankara,2023-03-22,Business,1999,Yurt İçi,15 kg,1 saat
+296,Emirates,İzmir,Antalya,2023-09-04,Premium Ekonomi,1893,Yurt İçi,15 kg,2 saat
+297,Qatar Airways,İstanbul,Amsterdam,2023-09-15,Business,6507,Yurt Dışı,23 kg,9 saat
+298,Emirates,İzmir,Trabzon,2023-11-20,Premium Ekonomi,1857,Yurt İçi,15 kg,1 saat
+299,AnadoluJet,Van,Gaziantep,2023-01-17,First Class,2435,Yurt İçi,15 kg,2 saat
+300,Türk Hava Yolları,Ankara,Roma,2023-06-27,Business,11022,Yurt Dışı,23 kg,12 saat
+301,Qatar Airways,Bodrum,Paris,2023-11-20,Ekonomi,8288,Yurt Dışı,23 kg,5 saat
+302,AnadoluJet,Erzurum,İstanbul,2023-12-20,First Class,2371,Yurt İçi,15 kg,2 saat
+303,Pegasus,Ankara,Amsterdam,2023-09-19,Business,10435,Yurt Dışı,23 kg,4 saat
+304,AnadoluJet,Ankara,Madrid,2023-06-28,Premium Ekonomi,12498,Yurt Dışı,23 kg,12 saat
+305,SunExpress,Gaziantep,Barselona,2023-06-05,First Class,6874,Yurt Dışı,23 kg,11 saat
+306,Pegasus,Erzurum,New York,2023-02-13,Ekonomi,10319,Yurt Dışı,23 kg,6 saat
+307,Emirates,Dalaman,Berlin,2023-12-15,Ekonomi,11384,Yurt Dışı,23 kg,7 saat
+308,KLM,Van,Doha,2023-04-15,First Class,14735,Yurt Dışı,23 kg,11 saat
+309,Türk Hava Yolları,Ankara,Paris,2023-02-09,Business,6184,Yurt Dışı,23 kg,9 saat
+310,Qatar Airways,İzmir,İstanbul,2023-11-11,Business,1043,Yurt İçi,15 kg,2 saat
+311,Lufthansa,İstanbul,Viyana,2023-04-15,Business,8349,Yurt Dışı,23 kg,8 saat
+312,SunExpress,Gaziantep,Doha,2023-06-02,Ekonomi,12530,Yurt Dışı,23 kg,3 saat
+313,Pegasus,Bodrum,Erzurum,2023-01-09,Business,843,Yurt İçi,15 kg,2 saat
+314,AnadoluJet,İstanbul,Van,2023-12-13,Ekonomi,2351,Yurt İçi,15 kg,1 saat
+315,SunExpress,Dalaman,Barselona,2023-10-25,Premium Ekonomi,9681,Yurt Dışı,23 kg,12 saat
+316,AnadoluJet,Bodrum,Prag,2023-06-27,First Class,10939,Yurt Dışı,23 kg,3 saat
+317,Qatar Airways,Trabzon,Amsterdam,2023-01-10,Ekonomi,12830,Yurt Dışı,23 kg,8 saat
+318,SunExpress,Erzurum,Dubai,2023-11-18,Premium Ekonomi,6223,Yurt Dışı,23 kg,5 saat
+319,Emirates,Gaziantep,Viyana,2023-06-25,First Class,10453,Yurt Dışı,23 kg,6 saat
+320,Pegasus,Diyarbakır,Dalaman,2023-12-01,Premium Ekonomi,801,Yurt İçi,15 kg,1 saat
+321,AnadoluJet,Diyarbakır,Bodrum,2023-05-31,Ekonomi,1352,Yurt İçi,15 kg,2 saat
+322,KLM,Antalya,Viyana,2023-02-19,Business,12557,Yurt Dışı,23 kg,9 saat
+323,SunExpress,İstanbul,Ankara,2023-06-26,Premium Ekonomi,1685,Yurt İçi,15 kg,2 saat
+324,Emirates,Diyarbakır,Trabzon,2023-05-16,Business,2310,Yurt İçi,15 kg,2 saat
+325,Pegasus,İstanbul,Londra,2023-02-25,First Class,4143,Yurt Dışı,23 kg,5 saat
+326,AnadoluJet,Diyarbakır,Londra,2023-04-10,Ekonomi,5224,Yurt Dışı,23 kg,7 saat
+327,Air France,Van,Toronto,2023-04-10,Ekonomi,13423,Yurt Dışı,23 kg,6 saat
+328,Emirates,Trabzon,Toronto,2023-08-29,Ekonomi,14726,Yurt Dışı,23 kg,10 saat
+329,SunExpress,Gaziantep,İzmir,2023-11-22,First Class,2329,Yurt İçi,15 kg,2 saat
+330,SunExpress,Dalaman,Viyana,2023-04-06,Ekonomi,6038,Yurt Dışı,23 kg,10 saat
+331,Qatar Airways,Gaziantep,Trabzon,2023-11-14,Premium Ekonomi,2160,Yurt İçi,15 kg,2 saat
+332,AnadoluJet,İzmir,Madrid,2023-01-13,Premium Ekonomi,5531,Yurt Dışı,23 kg,4 saat
+333,Qatar Airways,İstanbul,Erzurum,2023-04-25,Premium Ekonomi,2132,Yurt İçi,15 kg,2 saat
+334,Air France,Dalaman,Antalya,2023-04-08,Business,2341,Yurt İçi,15 kg,1 saat
+335,Air France,Ankara,Bodrum,2023-05-26,Business,966,Yurt İçi,15 kg,1 saat
+336,AnadoluJet,Van,Amsterdam,2023-10-07,Business,8486,Yurt Dışı,23 kg,8 saat
+337,SunExpress,Gaziantep,Toronto,2023-06-15,Business,2474,Yurt Dışı,23 kg,7 saat
+338,KLM,Gaziantep,Toronto,2023-05-17,Premium Ekonomi,7737,Yurt Dışı,23 kg,7 saat
+339,AnadoluJet,Erzurum,Londra,2023-04-02,Premium Ekonomi,13997,Yurt Dışı,23 kg,11 saat
+340,KLM,Bodrum,Ankara,2023-08-20,Premium Ekonomi,1662,Yurt İçi,15 kg,1 saat
+341,Qatar Airways,Diyarbakır,Seul,2023-06-29,Ekonomi,9698,Yurt Dışı,23 kg,5 saat
+342,British Airways,Diyarbakır,Berlin,2023-05-05,Business,8309,Yurt Dışı,23 kg,11 saat
+343,Türk Hava Yolları,Gaziantep,Tokyo,2023-07-05,Premium Ekonomi,3883,Yurt Dışı,23 kg,8 saat
+344,Emirates,Bodrum,Sidney,2023-02-27,First Class,13757,Yurt Dışı,23 kg,3 saat
+345,Air France,Ankara,Erzurum,2023-01-10,Business,2430,Yurt İçi,15 kg,2 saat
+346,Lufthansa,Bodrum,İstanbul,2023-04-07,Ekonomi,1220,Yurt İçi,15 kg,2 saat
+347,AnadoluJet,Dalaman,Diyarbakır,2023-06-13,Ekonomi,1376,Yurt İçi,15 kg,1 saat
+348,Türk Hava Yolları,Bodrum,Toronto,2023-04-04,First Class,8357,Yurt Dışı,23 kg,8 saat
+349,British Airways,Trabzon,Barselona,2023-01-09,Premium Ekonomi,8208,Yurt Dışı,23 kg,10 saat
+350,Türk Hava Yolları,Van,Ankara,2023-01-27,First Class,1036,Yurt İçi,15 kg,1 saat
+351,SunExpress,Ankara,Berlin,2023-09-24,Premium Ekonomi,4957,Yurt Dışı,23 kg,8 saat
+352,Türk Hava Yolları,Van,Roma,2023-12-11,Ekonomi,11154,Yurt Dışı,23 kg,9 saat
+353,Air France,Trabzon,Londra,2023-05-09,Business,3861,Yurt Dışı,23 kg,10 saat
+354,Pegasus,Erzurum,Prag,2023-01-13,Business,8973,Yurt Dışı,23 kg,11 saat
+355,British Airways,Diyarbakır,Van,2023-01-01,First Class,1623,Yurt İçi,15 kg,1 saat
+356,British Airways,Dalaman,Toronto,2023-06-26,Business,10813,Yurt Dışı,23 kg,9 saat
+357,SunExpress,Bodrum,Barselona,2023-10-06,First Class,12485,Yurt Dışı,23 kg,11 saat
+358,Air France,Dalaman,Bodrum,2023-01-29,Premium Ekonomi,2217,Yurt İçi,15 kg,2 saat
+359,Pegasus,Bodrum,Erzurum,2023-04-26,Ekonomi,1519,Yurt İçi,15 kg,2 saat
+360,AnadoluJet,Trabzon,Roma,2023-08-21,Ekonomi,6781,Yurt Dışı,23 kg,4 saat
+361,Air France,İstanbul,Tokyo,2023-11-12,Premium Ekonomi,8455,Yurt Dışı,23 kg,4 saat
+362,Emirates,Van,Madrid,2023-01-11,Premium Ekonomi,11975,Yurt Dışı,23 kg,3 saat
+363,Lufthansa,İstanbul,Prag,2023-07-19,Premium Ekonomi,13359,Yurt Dışı,23 kg,7 saat
+364,AnadoluJet,Erzurum,Amsterdam,2023-02-25,Ekonomi,11853,Yurt Dışı,23 kg,12 saat
+365,Türk Hava Yolları,Antalya,Madrid,2023-04-23,Business,10810,Yurt Dışı,23 kg,5 saat
+366,AnadoluJet,İstanbul,Van,2023-04-29,Business,2390,Yurt İçi,15 kg,2 saat
+367,Türk Hava Yolları,Bodrum,İstanbul,2023-02-15,Premium Ekonomi,2156,Yurt İçi,15 kg,2 saat
+368,Lufthansa,Erzurum,Antalya,2023-06-30,First Class,2195,Yurt İçi,15 kg,1 saat
+369,Pegasus,Dalaman,Prag,2023-03-19,Premium Ekonomi,10791,Yurt Dışı,23 kg,8 saat
+370,Pegasus,Trabzon,Madrid,2023-05-28,Premium Ekonomi,5759,Yurt Dışı,23 kg,12 saat
+371,AnadoluJet,İzmir,Sidney,2023-10-07,Ekonomi,13209,Yurt Dışı,23 kg,4 saat
+372,AnadoluJet,Bodrum,Londra,2023-06-15,Business,12261,Yurt Dışı,23 kg,4 saat
+373,Air France,İzmir,Van,2023-06-10,Premium Ekonomi,2411,Yurt İçi,15 kg,1 saat
+374,British Airways,Diyarbakır,Paris,2023-04-28,Ekonomi,8094,Yurt Dışı,23 kg,5 saat
+375,Lufthansa,İstanbul,Viyana,2023-01-10,Business,14170,Yurt Dışı,23 kg,3 saat
+376,Air France,Diyarbakır,Antalya,2023-11-30,Business,1379,Yurt İçi,15 kg,2 saat
+377,Air France,İzmir,Dubai,2023-11-24,Ekonomi,6052,Yurt Dışı,23 kg,9 saat
+378,British Airways,İzmir,Gaziantep,2023-09-03,First Class,1853,Yurt İçi,15 kg,1 saat
+379,Qatar Airways,Dalaman,Bodrum,2023-11-17,Premium Ekonomi,1705,Yurt İçi,15 kg,1 saat
+380,KLM,Van,Toronto,2023-12-12,Premium Ekonomi,13238,Yurt Dışı,23 kg,7 saat
+381,Qatar Airways,Trabzon,Gaziantep,2023-09-02,Premium Ekonomi,1904,Yurt İçi,15 kg,1 saat
+382,AnadoluJet,Erzurum,Toronto,2023-09-13,First Class,8318,Yurt Dışı,23 kg,11 saat
+383,Pegasus,Van,Diyarbakır,2023-04-16,Ekonomi,1895,Yurt İçi,15 kg,1 saat
+384,Lufthansa,Dalaman,Sidney,2023-06-22,Premium Ekonomi,6974,Yurt Dışı,23 kg,10 saat
+385,Türk Hava Yolları,İstanbul,Roma,2023-12-01,Business,11825,Yurt Dışı,23 kg,10 saat
+386,Lufthansa,Trabzon,İstanbul,2023-12-26,First Class,2212,Yurt İçi,15 kg,2 saat
+387,Pegasus,Trabzon,Berlin,2023-04-10,Ekonomi,10941,Yurt Dışı,23 kg,3 saat
+388,AnadoluJet,Ankara,Diyarbakır,2023-04-10,Business,1345,Yurt İçi,15 kg,1 saat
+389,Türk Hava Yolları,Dalaman,Roma,2023-05-25,Premium Ekonomi,10434,Yurt Dışı,23 kg,8 saat
+390,Qatar Airways,Ankara,Doha,2023-06-01,First Class,3256,Yurt Dışı,23 kg,12 saat
+391,Emirates,Bodrum,Viyana,2023-12-19,First Class,3298,Yurt Dışı,23 kg,6 saat
+392,SunExpress,Gaziantep,İstanbul,2023-04-08,Ekonomi,1371,Yurt İçi,15 kg,2 saat
+393,Pegasus,Antalya,Berlin,2023-09-27,First Class,3744,Yurt Dışı,23 kg,11 saat
+394,SunExpress,Diyarbakır,Bodrum,2023-02-11,First Class,1193,Yurt İçi,15 kg,2 saat
+395,AnadoluJet,Gaziantep,Trabzon,2023-04-06,Premium Ekonomi,1121,Yurt İçi,15 kg,1 saat
+396,KLM,İzmir,Roma,2023-12-09,Ekonomi,13900,Yurt Dışı,23 kg,8 saat
+397,Türk Hava Yolları,Antalya,Toronto,2023-05-24,First Class,11935,Yurt Dışı,23 kg,9 saat
+398,SunExpress,Dalaman,Bodrum,2023-10-18,Business,1134,Yurt İçi,15 kg,2 saat
+399,British Airways,Van,Diyarbakır,2023-02-08,Premium Ekonomi,2378,Yurt İçi,15 kg,2 saat
+400,British Airways,Diyarbakır,Paris,2023-04-21,Ekonomi,5139,Yurt Dışı,23 kg,3 saat
+401,Türk Hava Yolları,Dalaman,İzmir,2023-08-20,Ekonomi,2024,Yurt İçi,15 kg,1 saat
+402,Qatar Airways,Antalya,Amsterdam,2023-06-16,Ekonomi,3699,Yurt Dışı,23 kg,8 saat
+403,Lufthansa,Van,Roma,2023-06-06,Premium Ekonomi,9296,Yurt Dışı,23 kg,6 saat
+404,Lufthansa,Bodrum,Erzurum,2023-07-29,First Class,2150,Yurt İçi,15 kg,1 saat
+405,SunExpress,Gaziantep,İzmir,2023-02-06,Business,1766,Yurt İçi,15 kg,2 saat
+406,SunExpress,Ankara,Gaziantep,2023-06-09,Ekonomi,1153,Yurt İçi,15 kg,2 saat
+407,British Airways,Van,Dalaman,2023-06-22,Business,1523,Yurt İçi,15 kg,2 saat
+408,SunExpress,Gaziantep,Viyana,2023-07-09,Ekonomi,12618,Yurt Dışı,23 kg,4 saat
+409,SunExpress,Antalya,Diyarbakır,2023-06-28,Business,1263,Yurt İçi,15 kg,2 saat
+410,AnadoluJet,Bodrum,İstanbul,2023-10-16,Ekonomi,845,Yurt İçi,15 kg,2 saat
+411,Pegasus,Trabzon,İstanbul,2023-11-09,First Class,1855,Yurt İçi,15 kg,1 saat
+412,Türk Hava Yolları,İzmir,Gaziantep,2023-02-09,Ekonomi,1235,Yurt İçi,15 kg,2 saat
+413,Air France,Diyarbakır,Toronto,2023-04-06,Business,10278,Yurt Dışı,23 kg,6 saat
+414,Emirates,Antalya,İstanbul,2023-03-25,Business,1825,Yurt İçi,15 kg,2 saat
+415,Emirates,Antalya,Tokyo,2023-06-20,Business,2167,Yurt Dışı,23 kg,8 saat
+416,Pegasus,İstanbul,Madrid,2023-01-27,Ekonomi,14857,Yurt Dışı,23 kg,8 saat
+417,Türk Hava Yolları,Van,Berlin,2023-03-23,Ekonomi,3135,Yurt Dışı,23 kg,8 saat
+418,British Airways,Trabzon,Londra,2023-05-14,Business,11782,Yurt Dışı,23 kg,10 saat
+419,SunExpress,Van,Dalaman,2023-06-15,Business,2279,Yurt İçi,15 kg,1 saat
+420,Air France,Diyarbakır,Ankara,2023-05-26,Ekonomi,2162,Yurt İçi,15 kg,1 saat
+421,Qatar Airways,İzmir,Viyana,2023-01-25,Ekonomi,6141,Yurt Dışı,23 kg,5 saat
+422,British Airways,Erzurum,Trabzon,2023-12-08,Premium Ekonomi,843,Yurt İçi,15 kg,1 saat
+423,AnadoluJet,Van,Prag,2023-05-08,Premium Ekonomi,3475,Yurt Dışı,23 kg,7 saat
+424,AnadoluJet,Gaziantep,Tokyo,2023-08-05,Premium Ekonomi,2294,Yurt Dışı,23 kg,10 saat
+425,SunExpress,Ankara,Bodrum,2023-03-16,Business,2233,Yurt İçi,15 kg,1 saat
+426,Lufthansa,Bodrum,Madrid,2023-07-18,First Class,11089,Yurt Dışı,23 kg,9 saat
+427,Lufthansa,Erzurum,Trabzon,2023-08-20,Premium Ekonomi,1388,Yurt İçi,15 kg,1 saat
+428,Qatar Airways,İzmir,Diyarbakır,2023-04-10,Premium Ekonomi,2226,Yurt İçi,15 kg,1 saat
+429,Türk Hava Yolları,Dalaman,Londra,2023-06-23,Premium Ekonomi,14370,Yurt Dışı,23 kg,11 saat
+430,Emirates,Dalaman,Sidney,2023-10-15,First Class,10653,Yurt Dışı,23 kg,12 saat
+431,AnadoluJet,Bodrum,Paris,2023-07-19,Ekonomi,12361,Yurt Dışı,23 kg,12 saat
+432,Türk Hava Yolları,Antalya,Seul,2023-11-18,First Class,7075,Yurt Dışı,23 kg,11 saat
+433,Air France,Antalya,Bodrum,2023-05-29,First Class,1727,Yurt İçi,15 kg,1 saat
+434,SunExpress,Dalaman,İzmir,2023-03-25,Ekonomi,997,Yurt İçi,15 kg,1 saat
+435,Lufthansa,Diyarbakır,Barselona,2023-03-19,First Class,4210,Yurt Dışı,23 kg,8 saat
+436,Türk Hava Yolları,Dalaman,Sidney,2023-11-17,Premium Ekonomi,6148,Yurt Dışı,23 kg,11 saat
+437,Air France,Erzurum,Trabzon,2023-10-26,Premium Ekonomi,1132,Yurt İçi,15 kg,2 saat
+438,Emirates,Dalaman,İstanbul,2023-02-26,First Class,1453,Yurt İçi,15 kg,1 saat
+439,Qatar Airways,Bodrum,Antalya,2023-02-28,Business,1089,Yurt İçi,15 kg,2 saat
+440,KLM,Trabzon,Erzurum,2023-04-27,Business,1216,Yurt İçi,15 kg,2 saat
+441,Qatar Airways,Ankara,Diyarbakır,2023-11-09,Premium Ekonomi,1559,Yurt İçi,15 kg,2 saat
+442,British Airways,İzmir,Erzurum,2023-03-16,Premium Ekonomi,1740,Yurt İçi,15 kg,2 saat
+443,Lufthansa,Antalya,Dalaman,2023-10-17,Ekonomi,2248,Yurt İçi,15 kg,1 saat
+444,Türk Hava Yolları,Erzurum,Viyana,2023-07-18,First Class,10440,Yurt Dışı,23 kg,7 saat
+445,Qatar Airways,Ankara,Dubai,2023-04-03,First Class,6754,Yurt Dışı,23 kg,11 saat
+446,Lufthansa,Gaziantep,Berlin,2023-11-21,Premium Ekonomi,8104,Yurt Dışı,23 kg,5 saat
+447,Türk Hava Yolları,Dalaman,Amsterdam,2023-02-27,Business,2990,Yurt Dışı,23 kg,12 saat
+448,Air France,Erzurum,Madrid,2023-10-15,Premium Ekonomi,12013,Yurt Dışı,23 kg,12 saat
+449,Lufthansa,Trabzon,Van,2023-10-31,First Class,1821,Yurt İçi,15 kg,2 saat
+450,Emirates,İzmir,Seul,2023-04-10,First Class,7177,Yurt Dışı,23 kg,10 saat
+451,AnadoluJet,Dalaman,İstanbul,2023-11-14,Business,1390,Yurt İçi,15 kg,1 saat
+452,AnadoluJet,Diyarbakır,Amsterdam,2023-02-27,First Class,5644,Yurt Dışı,23 kg,4 saat
+453,Türk Hava Yolları,Gaziantep,Amsterdam,2023-01-06,Premium Ekonomi,2776,Yurt Dışı,23 kg,6 saat
+454,SunExpress,Antalya,Sidney,2023-02-10,Business,8564,Yurt Dışı,23 kg,9 saat
+455,British Airways,Antalya,Madrid,2023-09-23,Business,9785,Yurt Dışı,23 kg,11 saat
+456,Pegasus,Dalaman,Viyana,2023-12-21,Business,13790,Yurt Dışı,23 kg,6 saat
+457,KLM,Bodrum,Dubai,2023-12-23,Premium Ekonomi,5514,Yurt Dışı,23 kg,10 saat
+458,Qatar Airways,Gaziantep,Bodrum,2023-03-16,First Class,1888,Yurt İçi,15 kg,1 saat
+459,British Airways,Diyarbakır,Bodrum,2023-11-14,Business,2143,Yurt İçi,15 kg,2 saat
+460,Pegasus,Dalaman,Trabzon,2023-02-12,Business,1548,Yurt İçi,15 kg,1 saat
+461,Emirates,Antalya,Diyarbakır,2023-04-10,Ekonomi,2472,Yurt İçi,15 kg,2 saat
+462,British Airways,Ankara,Erzurum,2023-05-03,Business,2067,Yurt İçi,15 kg,1 saat
+463,Air France,Dalaman,İstanbul,2023-08-23,Business,1638,Yurt İçi,15 kg,1 saat
+464,Lufthansa,Diyarbakır,Berlin,2023-10-18,Ekonomi,5505,Yurt Dışı,23 kg,7 saat
+465,British Airways,Erzurum,Barselona,2023-10-02,First Class,13737,Yurt Dışı,23 kg,4 saat
+466,Air France,Gaziantep,Barselona,2023-04-26,Business,12069,Yurt Dışı,23 kg,4 saat
+467,SunExpress,Dalaman,Viyana,2023-11-22,Premium Ekonomi,4061,Yurt Dışı,23 kg,5 saat
+468,Pegasus,İzmir,New York,2023-05-21,Business,10428,Yurt Dışı,23 kg,12 saat
+469,Pegasus,Ankara,Barselona,2023-06-05,Premium Ekonomi,2203,Yurt Dışı,23 kg,3 saat
+470,Emirates,Ankara,Dalaman,2023-03-21,First Class,1853,Yurt İçi,15 kg,1 saat
+471,Türk Hava Yolları,İzmir,Gaziantep,2023-10-18,Premium Ekonomi,1883,Yurt İçi,15 kg,1 saat
+472,SunExpress,Gaziantep,New York,2023-08-02,Ekonomi,14692,Yurt Dışı,23 kg,6 saat
+473,AnadoluJet,Ankara,Viyana,2023-09-12,Business,13812,Yurt Dışı,23 kg,6 saat
+474,Emirates,İzmir,Paris,2023-01-18,Business,4244,Yurt Dışı,23 kg,12 saat
+475,SunExpress,Ankara,Antalya,2023-02-18,Ekonomi,2125,Yurt İçi,15 kg,2 saat
+476,Emirates,Trabzon,İzmir,2023-07-19,First Class,944,Yurt İçi,15 kg,2 saat
+477,Qatar Airways,Trabzon,İstanbul,2023-01-10,Ekonomi,1410,Yurt İçi,15 kg,2 saat
+478,Pegasus,Ankara,İstanbul,2023-01-29,First Class,1982,Yurt İçi,15 kg,1 saat
+479,British Airways,İzmir,Londra,2023-08-13,Business,9467,Yurt Dışı,23 kg,12 saat
+480,Türk Hava Yolları,Gaziantep,Prag,2023-01-17,Business,8202,Yurt Dışı,23 kg,7 saat
+481,KLM,Dalaman,Bodrum,2023-05-08,First Class,2409,Yurt İçi,15 kg,1 saat
+482,Türk Hava Yolları,İstanbul,Doha,2023-01-30,Premium Ekonomi,3474,Yurt Dışı,23 kg,12 saat
+483,Pegasus,Dalaman,Bodrum,2023-09-02,Ekonomi,1901,Yurt İçi,15 kg,1 saat
+484,British Airways,Bodrum,Dubai,2023-12-22,Premium Ekonomi,11753,Yurt Dışı,23 kg,8 saat
+485,Lufthansa,Gaziantep,Diyarbakır,2023-02-13,First Class,1957,Yurt İçi,15 kg,1 saat
+486,Qatar Airways,Van,Trabzon,2023-10-10,Ekonomi,1399,Yurt İçi,15 kg,1 saat
+487,Air France,Dalaman,Prag,2023-09-28,First Class,2367,Yurt Dışı,23 kg,5 saat
+488,Qatar Airways,Antalya,Roma,2023-07-15,Business,5041,Yurt Dışı,23 kg,4 saat
+489,KLM,İzmir,Amsterdam,2023-07-31,Business,9983,Yurt Dışı,23 kg,11 saat
+490,British Airways,Bodrum,Toronto,2023-07-24,Business,9753,Yurt Dışı,23 kg,4 saat
+491,Qatar Airways,Gaziantep,Paris,2023-08-26,First Class,8995,Yurt Dışı,23 kg,6 saat
+492,Lufthansa,Ankara,Paris,2023-11-15,Business,11420,Yurt Dışı,23 kg,5 saat
+493,Emirates,Ankara,Gaziantep,2023-03-11,Premium Ekonomi,1141,Yurt İçi,15 kg,2 saat
+494,AnadoluJet,Erzurum,Diyarbakır,2023-07-13,Ekonomi,822,Yurt İçi,15 kg,1 saat
+495,Türk Hava Yolları,Dalaman,Bodrum,2023-04-03,Ekonomi,1406,Yurt İçi,15 kg,1 saat
+496,British Airways,Antalya,Barselona,2023-08-13,First Class,9254,Yurt Dışı,23 kg,12 saat
+497,Air France,Ankara,Doha,2023-10-03,Business,5268,Yurt Dışı,23 kg,10 saat
+498,Lufthansa,Trabzon,Roma,2023-11-01,Business,8287,Yurt Dışı,23 kg,10 saat
+499,Lufthansa,Antalya,Van,2023-07-18,Ekonomi,2199,Yurt İçi,15 kg,1 saat
+500,Türk Hava Yolları,Bodrum,Sidney,2023-04-02,Premium Ekonomi,12755,Yurt Dışı,23 kg,11 saat
+501,Air France,Van,Antalya,2023-01-26,Business,1108,Yurt İçi,15 kg,2 saat
+502,AnadoluJet,Trabzon,Gaziantep,2023-08-18,Premium Ekonomi,1263,Yurt İçi,15 kg,1 saat
+503,British Airways,Antalya,İstanbul,2023-04-04,First Class,874,Yurt İçi,15 kg,1 saat
+504,Lufthansa,İstanbul,Gaziantep,2023-01-01,First Class,936,Yurt İçi,15 kg,1 saat
+505,Emirates,Antalya,Diyarbakır,2023-10-25,First Class,1661,Yurt İçi,15 kg,2 saat
+506,Qatar Airways,Gaziantep,Prag,2023-09-15,Ekonomi,5459,Yurt Dışı,23 kg,7 saat
+507,Türk Hava Yolları,Gaziantep,Toronto,2023-11-03,Business,11963,Yurt Dışı,23 kg,3 saat
+508,Qatar Airways,İzmir,Trabzon,2023-11-09,Ekonomi,2408,Yurt İçi,15 kg,1 saat
+509,SunExpress,Trabzon,Viyana,2023-02-10,Premium Ekonomi,10896,Yurt Dışı,23 kg,3 saat
+510,Emirates,İzmir,Tokyo,2023-02-24,First Class,12276,Yurt Dışı,23 kg,7 saat
+511,AnadoluJet,Gaziantep,İstanbul,2023-07-31,Ekonomi,1947,Yurt İçi,15 kg,1 saat
+512,Türk Hava Yolları,Gaziantep,Berlin,2023-07-13,Ekonomi,14521,Yurt Dışı,23 kg,4 saat
+513,Qatar Airways,Bodrum,Erzurum,2023-02-24,Ekonomi,1502,Yurt İçi,15 kg,2 saat
+514,Qatar Airways,Bodrum,Erzurum,2023-09-06,Business,1409,Yurt İçi,15 kg,2 saat
+515,Emirates,İzmir,Dalaman,2023-08-08,Ekonomi,897,Yurt İçi,15 kg,2 saat
+516,Türk Hava Yolları,Diyarbakır,Gaziantep,2023-07-13,Ekonomi,1959,Yurt İçi,15 kg,2 saat
+517,AnadoluJet,İzmir,Toronto,2023-12-24,Ekonomi,7914,Yurt Dışı,23 kg,10 saat
+518,Air France,İstanbul,Gaziantep,2023-03-12,First Class,2462,Yurt İçi,15 kg,2 saat
+519,KLM,Gaziantep,Diyarbakır,2023-07-23,Ekonomi,1397,Yurt İçi,15 kg,2 saat
+520,Qatar Airways,Trabzon,Toronto,2023-06-05,Business,13350,Yurt Dışı,23 kg,5 saat
+521,Qatar Airways,Gaziantep,İstanbul,2023-11-03,Business,851,Yurt İçi,15 kg,2 saat
+522,Air France,Dalaman,Antalya,2023-08-26,Premium Ekonomi,1171,Yurt İçi,15 kg,1 saat
+523,Türk Hava Yolları,Ankara,Viyana,2023-06-09,First Class,6697,Yurt Dışı,23 kg,6 saat
+524,AnadoluJet,Gaziantep,Barselona,2023-07-12,First Class,3044,Yurt Dışı,23 kg,5 saat
+525,Lufthansa,Erzurum,Berlin,2023-05-08,Ekonomi,12288,Yurt Dışı,23 kg,9 saat
+526,Türk Hava Yolları,Trabzon,Bodrum,2023-07-10,First Class,2231,Yurt İçi,15 kg,2 saat
+527,Emirates,Antalya,Sidney,2023-02-07,Business,4519,Yurt Dışı,23 kg,10 saat
+528,Air France,İzmir,Prag,2023-10-18,Business,10829,Yurt Dışı,23 kg,9 saat
+529,Türk Hava Yolları,Van,Toronto,2023-12-16,Ekonomi,10729,Yurt Dışı,23 kg,12 saat
+530,Air France,Bodrum,İzmir,2023-01-19,Ekonomi,2479,Yurt İçi,15 kg,1 saat
+531,Air France,Ankara,Gaziantep,2023-10-24,Ekonomi,2459,Yurt İçi,15 kg,2 saat
+532,Qatar Airways,Ankara,Gaziantep,2023-01-01,Premium Ekonomi,1336,Yurt İçi,15 kg,2 saat
+533,British Airways,Erzurum,Antalya,2023-08-11,Business,2152,Yurt İçi,15 kg,2 saat
+534,Lufthansa,Diyarbakır,Toronto,2023-10-30,Business,5776,Yurt Dışı,23 kg,5 saat
+535,Emirates,Ankara,Doha,2023-05-07,First Class,10925,Yurt Dışı,23 kg,5 saat
+536,Emirates,Ankara,İstanbul,2023-08-17,Business,1108,Yurt İçi,15 kg,1 saat
+537,Qatar Airways,İstanbul,Berlin,2023-04-25,First Class,13265,Yurt Dışı,23 kg,12 saat
+538,AnadoluJet,Antalya,Gaziantep,2023-02-22,Ekonomi,2128,Yurt İçi,15 kg,2 saat
+539,Air France,Bodrum,Gaziantep,2023-08-06,First Class,1333,Yurt İçi,15 kg,2 saat
+540,KLM,Diyarbakır,Amsterdam,2023-10-30,Premium Ekonomi,8369,Yurt Dışı,23 kg,7 saat
+541,British Airways,Ankara,Dalaman,2023-06-04,First Class,1946,Yurt İçi,15 kg,1 saat
+542,Lufthansa,Van,Ankara,2023-07-02,Business,1901,Yurt İçi,15 kg,1 saat
+543,Air France,Gaziantep,İzmir,2023-08-04,First Class,980,Yurt İçi,15 kg,1 saat
+544,AnadoluJet,Dalaman,Toronto,2023-05-25,Premium Ekonomi,5059,Yurt Dışı,23 kg,12 saat
+545,Türk Hava Yolları,Gaziantep,Trabzon,2023-09-20,Business,2017,Yurt İçi,15 kg,2 saat
+546,Pegasus,Diyarbakır,Van,2023-01-05,First Class,1497,Yurt İçi,15 kg,2 saat
+547,SunExpress,İzmir,Seul,2023-03-05,Premium Ekonomi,9776,Yurt Dışı,23 kg,12 saat
+548,AnadoluJet,Van,Madrid,2023-08-24,Business,7036,Yurt Dışı,23 kg,12 saat
+549,Türk Hava Yolları,İstanbul,Erzurum,2023-09-12,Business,2033,Yurt İçi,15 kg,1 saat
+550,AnadoluJet,İzmir,Ankara,2023-01-24,Ekonomi,1146,Yurt İçi,15 kg,1 saat
+551,Pegasus,Gaziantep,Toronto,2023-01-07,Premium Ekonomi,7710,Yurt Dışı,23 kg,7 saat
+552,Air France,İzmir,Amsterdam,2023-11-10,Business,8421,Yurt Dışı,23 kg,5 saat
+553,Lufthansa,Trabzon,Diyarbakır,2023-12-21,Premium Ekonomi,1637,Yurt İçi,15 kg,2 saat
+554,Türk Hava Yolları,İstanbul,Dubai,2023-02-13,First Class,2096,Yurt Dışı,23 kg,4 saat
+555,KLM,İzmir,Toronto,2023-06-02,First Class,8566,Yurt Dışı,23 kg,6 saat
+556,Pegasus,Dalaman,Paris,2023-05-13,First Class,14280,Yurt Dışı,23 kg,8 saat
+557,British Airways,Dalaman,Ankara,2023-09-10,Premium Ekonomi,2024,Yurt İçi,15 kg,2 saat
+558,Türk Hava Yolları,Antalya,Roma,2023-05-10,Ekonomi,8520,Yurt Dışı,23 kg,11 saat
+559,British Airways,Trabzon,Berlin,2023-06-06,Business,11184,Yurt Dışı,23 kg,11 saat
+560,Emirates,İzmir,Diyarbakır,2023-10-28,Ekonomi,2034,Yurt İçi,15 kg,1 saat
+561,British Airways,Diyarbakır,Gaziantep,2023-06-07,First Class,1941,Yurt İçi,15 kg,2 saat
+562,Emirates,Dalaman,Sidney,2023-11-30,First Class,14164,Yurt Dışı,23 kg,7 saat
+563,Pegasus,İstanbul,Tokyo,2023-03-15,Premium Ekonomi,14746,Yurt Dışı,23 kg,12 saat
+564,British Airways,İstanbul,Madrid,2023-11-11,Business,7902,Yurt Dışı,23 kg,8 saat
+565,Lufthansa,Bodrum,Paris,2023-06-13,Premium Ekonomi,7116,Yurt Dışı,23 kg,9 saat
+566,Emirates,Gaziantep,Barselona,2023-06-27,Business,11803,Yurt Dışı,23 kg,10 saat
+567,British Airways,Erzurum,Prag,2023-07-27,Premium Ekonomi,12788,Yurt Dışı,23 kg,11 saat
+568,Türk Hava Yolları,Bodrum,Erzurum,2023-10-04,Business,1507,Yurt İçi,15 kg,1 saat
+569,AnadoluJet,Bodrum,Diyarbakır,2023-07-04,Ekonomi,1783,Yurt İçi,15 kg,1 saat
+570,Air France,İzmir,Londra,2023-09-29,Business,12230,Yurt Dışı,23 kg,12 saat
+571,KLM,Erzurum,Seul,2023-08-30,First Class,9808,Yurt Dışı,23 kg,3 saat
+572,AnadoluJet,İstanbul,New York,2023-06-15,Premium Ekonomi,4200,Yurt Dışı,23 kg,9 saat
+573,Pegasus,Dalaman,Diyarbakır,2023-04-23,Premium Ekonomi,1547,Yurt İçi,15 kg,2 saat
+574,Air France,Van,Sidney,2023-08-30,Premium Ekonomi,9807,Yurt Dışı,23 kg,12 saat
+575,SunExpress,Antalya,Dalaman,2023-06-23,First Class,1873,Yurt İçi,15 kg,1 saat
+576,Türk Hava Yolları,Antalya,Toronto,2023-04-24,Ekonomi,11476,Yurt Dışı,23 kg,10 saat
+577,Pegasus,Diyarbakır,İzmir,2023-08-27,Ekonomi,1524,Yurt İçi,15 kg,2 saat
+578,Air France,İstanbul,Gaziantep,2023-08-01,Ekonomi,1497,Yurt İçi,15 kg,1 saat
+579,British Airways,Antalya,Prag,2023-11-10,First Class,5860,Yurt Dışı,23 kg,5 saat
+580,Pegasus,Ankara,Erzurum,2023-12-11,Premium Ekonomi,1385,Yurt İçi,15 kg,1 saat
+581,British Airways,Ankara,Antalya,2023-03-12,First Class,1077,Yurt İçi,15 kg,1 saat
+582,Pegasus,Erzurum,Seul,2023-04-25,Premium Ekonomi,13899,Yurt Dışı,23 kg,11 saat
+583,Air France,Ankara,Diyarbakır,2023-08-09,Premium Ekonomi,1006,Yurt İçi,15 kg,2 saat
+584,AnadoluJet,Ankara,Bodrum,2023-06-06,First Class,1711,Yurt İçi,15 kg,1 saat
+585,Qatar Airways,Diyarbakır,Barselona,2023-12-07,Business,13472,Yurt Dışı,23 kg,5 saat
+586,Türk Hava Yolları,Erzurum,İstanbul,2023-06-13,First Class,1981,Yurt İçi,15 kg,2 saat
+587,SunExpress,Ankara,Madrid,2023-02-11,Premium Ekonomi,2589,Yurt Dışı,23 kg,8 saat
+588,Pegasus,Gaziantep,Paris,2023-04-10,Ekonomi,7998,Yurt Dışı,23 kg,8 saat
+589,AnadoluJet,Van,Amsterdam,2023-10-19,Ekonomi,4855,Yurt Dışı,23 kg,9 saat
+590,Lufthansa,Van,Berlin,2023-09-19,Premium Ekonomi,2900,Yurt Dışı,23 kg,5 saat
+591,Qatar Airways,Dalaman,Diyarbakır,2023-10-14,Business,867,Yurt İçi,15 kg,1 saat
+592,KLM,Gaziantep,İstanbul,2023-09-20,Premium Ekonomi,1040,Yurt İçi,15 kg,2 saat
+593,SunExpress,İstanbul,Tokyo,2023-08-12,Ekonomi,7636,Yurt Dışı,23 kg,8 saat
+594,Emirates,Gaziantep,Seul,2023-11-09,Ekonomi,7290,Yurt Dışı,23 kg,7 saat
+595,British Airways,Van,Madrid,2023-01-12,Ekonomi,7310,Yurt Dışı,23 kg,9 saat
+596,British Airways,Ankara,Sidney,2023-05-15,Business,6671,Yurt Dışı,23 kg,10 saat
+597,Türk Hava Yolları,Erzurum,Trabzon,2023-10-21,Premium Ekonomi,1013,Yurt İçi,15 kg,1 saat
+598,Air France,İzmir,Viyana,2023-07-12,Ekonomi,3548,Yurt Dışı,23 kg,11 saat
+599,KLM,Dalaman,Berlin,2023-12-21,Business,7792,Yurt Dışı,23 kg,6 saat
+600,AnadoluJet,Van,Gaziantep,2023-12-08,Business,811,Yurt İçi,15 kg,1 saat
+601,Air France,İzmir,Madrid,2023-05-20,Business,11547,Yurt Dışı,23 kg,9 saat
+602,Türk Hava Yolları,Antalya,Erzurum,2023-09-03,Premium Ekonomi,2289,Yurt İçi,15 kg,2 saat
+603,Emirates,Bodrum,Doha,2023-03-30,Business,3244,Yurt Dışı,23 kg,6 saat
+604,AnadoluJet,Gaziantep,Dubai,2023-06-01,First Class,14410,Yurt Dışı,23 kg,3 saat
+605,Pegasus,Gaziantep,Doha,2023-10-25,Ekonomi,9022,Yurt Dışı,23 kg,11 saat
+606,Emirates,Gaziantep,Dalaman,2023-12-15,Premium Ekonomi,1245,Yurt İçi,15 kg,1 saat
+607,Emirates,İzmir,İstanbul,2023-02-04,Ekonomi,1055,Yurt İçi,15 kg,1 saat
+608,Türk Hava Yolları,Diyarbakır,Tokyo,2023-02-04,Premium Ekonomi,2838,Yurt Dışı,23 kg,4 saat
+609,Qatar Airways,Diyarbakır,Erzurum,2023-01-13,First Class,1653,Yurt İçi,15 kg,1 saat
+610,Türk Hava Yolları,Ankara,Madrid,2023-03-04,Business,3612,Yurt Dışı,23 kg,5 saat
+611,Air France,İzmir,Erzurum,2023-06-07,Business,1597,Yurt İçi,15 kg,2 saat
+612,AnadoluJet,Van,Amsterdam,2023-03-13,First Class,12201,Yurt Dışı,23 kg,4 saat
+613,SunExpress,Erzurum,Bodrum,2023-11-16,Business,991,Yurt İçi,15 kg,2 saat
+614,SunExpress,Trabzon,Dalaman,2023-07-29,Premium Ekonomi,1184,Yurt İçi,15 kg,2 saat
+615,Pegasus,Dalaman,Gaziantep,2023-08-01,First Class,1915,Yurt İçi,15 kg,2 saat
+616,KLM,Erzurum,Trabzon,2023-12-16,First Class,1382,Yurt İçi,15 kg,1 saat
+617,SunExpress,Trabzon,Doha,2023-09-11,Premium Ekonomi,4177,Yurt Dışı,23 kg,5 saat
+618,Emirates,Antalya,Berlin,2023-01-31,Premium Ekonomi,11030,Yurt Dışı,23 kg,10 saat
+619,Lufthansa,İzmir,Diyarbakır,2023-03-21,Business,950,Yurt İçi,15 kg,2 saat
+620,Lufthansa,Trabzon,Van,2023-04-26,Premium Ekonomi,1901,Yurt İçi,15 kg,2 saat
+621,KLM,Ankara,Viyana,2023-04-17,Business,9363,Yurt Dışı,23 kg,8 saat
+622,Pegasus,Dalaman,Erzurum,2023-12-31,Ekonomi,1199,Yurt İçi,15 kg,2 saat
+623,KLM,Erzurum,Doha,2023-10-27,Business,4056,Yurt Dışı,23 kg,5 saat
+624,Qatar Airways,İstanbul,Antalya,2023-12-27,First Class,2283,Yurt İçi,15 kg,1 saat
+625,Lufthansa,Erzurum,Barselona,2023-02-25,Business,12230,Yurt Dışı,23 kg,10 saat
+626,Lufthansa,Van,Londra,2023-06-14,First Class,9818,Yurt Dışı,23 kg,11 saat
+627,SunExpress,Van,Toronto,2023-04-16,Premium Ekonomi,2867,Yurt Dışı,23 kg,11 saat
+628,KLM,İzmir,Paris,2023-11-24,Business,14529,Yurt Dışı,23 kg,8 saat
+629,Qatar Airways,İstanbul,Doha,2023-02-09,First Class,6778,Yurt Dışı,23 kg,8 saat
+630,Lufthansa,Dalaman,Bodrum,2023-02-07,Premium Ekonomi,827,Yurt İçi,15 kg,2 saat
+631,Emirates,Bodrum,Londra,2023-07-26,Ekonomi,3217,Yurt Dışı,23 kg,7 saat
+632,British Airways,Ankara,Paris,2023-09-07,First Class,5407,Yurt Dışı,23 kg,11 saat
+633,British Airways,Erzurum,Roma,2023-08-18,First Class,14091,Yurt Dışı,23 kg,11 saat
+634,Türk Hava Yolları,Van,Amsterdam,2023-10-27,Ekonomi,14523,Yurt Dışı,23 kg,10 saat
+635,Qatar Airways,Gaziantep,Bodrum,2023-04-02,Business,1955,Yurt İçi,15 kg,1 saat
+636,KLM,Erzurum,İzmir,2023-05-12,First Class,1740,Yurt İçi,15 kg,2 saat
+637,Türk Hava Yolları,Trabzon,Toronto,2023-06-27,Premium Ekonomi,14791,Yurt Dışı,23 kg,6 saat
+638,Qatar Airways,Erzurum,Amsterdam,2023-07-25,Ekonomi,4834,Yurt Dışı,23 kg,4 saat
+639,Emirates,Erzurum,Tokyo,2023-03-23,Ekonomi,3598,Yurt Dışı,23 kg,8 saat
+640,Qatar Airways,Bodrum,Antalya,2023-02-07,Business,1421,Yurt İçi,15 kg,2 saat
+641,British Airways,Erzurum,Londra,2023-01-15,Ekonomi,9092,Yurt Dışı,23 kg,4 saat
+642,Lufthansa,Antalya,İzmir,2023-01-28,Ekonomi,2332,Yurt İçi,15 kg,2 saat
+643,Türk Hava Yolları,İstanbul,İzmir,2023-03-21,First Class,1875,Yurt İçi,15 kg,2 saat
+644,KLM,Bodrum,Trabzon,2023-10-17,First Class,2499,Yurt İçi,15 kg,1 saat
+645,SunExpress,Gaziantep,Erzurum,2023-08-29,Premium Ekonomi,2002,Yurt İçi,15 kg,2 saat
+646,KLM,Diyarbakır,Amsterdam,2023-03-31,First Class,8606,Yurt Dışı,23 kg,7 saat
+647,Air France,Dalaman,Tokyo,2023-04-04,First Class,11028,Yurt Dışı,23 kg,7 saat
+648,Lufthansa,İstanbul,Dubai,2023-11-12,First Class,11890,Yurt Dışı,23 kg,11 saat
+649,Air France,İstanbul,Paris,2023-03-30,First Class,4528,Yurt Dışı,23 kg,3 saat
+650,KLM,Erzurum,Seul,2023-12-07,Premium Ekonomi,4098,Yurt Dışı,23 kg,11 saat
+651,Türk Hava Yolları,Antalya,Berlin,2023-12-26,Business,7613,Yurt Dışı,23 kg,11 saat
+652,Lufthansa,Bodrum,Van,2023-10-10,Ekonomi,1621,Yurt İçi,15 kg,2 saat
+653,Air France,Erzurum,Van,2023-01-01,Premium Ekonomi,1125,Yurt İçi,15 kg,1 saat
+654,Türk Hava Yolları,İstanbul,Berlin,2023-03-20,Premium Ekonomi,5062,Yurt Dışı,23 kg,3 saat
+655,Emirates,İzmir,İstanbul,2023-02-12,Business,1214,Yurt İçi,15 kg,1 saat
+656,AnadoluJet,Erzurum,New York,2023-05-19,First Class,3235,Yurt Dışı,23 kg,7 saat
+657,Air France,Gaziantep,Paris,2023-12-25,Ekonomi,13723,Yurt Dışı,23 kg,5 saat
+658,KLM,Ankara,Erzurum,2023-08-06,Business,1455,Yurt İçi,15 kg,2 saat
+659,SunExpress,Dalaman,Toronto,2023-03-23,Ekonomi,4838,Yurt Dışı,23 kg,3 saat
+660,British Airways,İzmir,Doha,2023-11-06,Ekonomi,6432,Yurt Dışı,23 kg,6 saat
+661,Türk Hava Yolları,İzmir,Seul,2023-12-05,First Class,12107,Yurt Dışı,23 kg,3 saat
+662,Qatar Airways,Erzurum,Viyana,2023-08-23,Ekonomi,7418,Yurt Dışı,23 kg,12 saat
+663,AnadoluJet,Bodrum,Sidney,2023-07-09,First Class,2831,Yurt Dışı,23 kg,5 saat
+664,Pegasus,Diyarbakır,Trabzon,2023-03-29,First Class,2008,Yurt İçi,15 kg,2 saat
+665,AnadoluJet,Bodrum,Viyana,2023-09-06,Ekonomi,7324,Yurt Dışı,23 kg,4 saat
+666,KLM,Diyarbakır,Viyana,2023-03-25,Premium Ekonomi,2455,Yurt Dışı,23 kg,4 saat
+667,Türk Hava Yolları,Diyarbakır,Gaziantep,2023-07-12,Ekonomi,2086,Yurt İçi,15 kg,2 saat
+668,Air France,Antalya,Doha,2023-08-14,Ekonomi,9676,Yurt Dışı,23 kg,10 saat
+669,Lufthansa,Dalaman,Dubai,2023-04-05,Premium Ekonomi,5585,Yurt Dışı,23 kg,8 saat
+670,Pegasus,İstanbul,Prag,2023-10-27,First Class,5923,Yurt Dışı,23 kg,12 saat
+671,British Airways,Bodrum,Roma,2023-10-30,Business,10022,Yurt Dışı,23 kg,7 saat
+672,Qatar Airways,İstanbul,Roma,2023-06-12,Premium Ekonomi,12764,Yurt Dışı,23 kg,7 saat
+673,Pegasus,Trabzon,Gaziantep,2023-07-11,First Class,1797,Yurt İçi,15 kg,2 saat
+674,Lufthansa,Erzurum,New York,2023-11-12,First Class,12964,Yurt Dışı,23 kg,8 saat
+675,SunExpress,Diyarbakır,İzmir,2023-06-03,First Class,1750,Yurt İçi,15 kg,2 saat
+676,Lufthansa,Van,Erzurum,2023-02-17,First Class,1221,Yurt İçi,15 kg,2 saat
+677,Türk Hava Yolları,Ankara,Diyarbakır,2023-06-23,Ekonomi,1881,Yurt İçi,15 kg,1 saat
+678,SunExpress,İstanbul,Madrid,2023-03-19,Business,12041,Yurt Dışı,23 kg,4 saat
+679,Lufthansa,İzmir,New York,2023-03-02,Premium Ekonomi,6006,Yurt Dışı,23 kg,3 saat
+680,AnadoluJet,İstanbul,Toronto,2023-12-25,Ekonomi,8588,Yurt Dışı,23 kg,6 saat
+681,Türk Hava Yolları,İstanbul,Van,2023-11-24,Business,1890,Yurt İçi,15 kg,2 saat
+682,Pegasus,Gaziantep,Antalya,2023-09-28,Ekonomi,2298,Yurt İçi,15 kg,2 saat
+683,Türk Hava Yolları,Bodrum,Dalaman,2023-11-25,Ekonomi,922,Yurt İçi,15 kg,1 saat
+684,SunExpress,Antalya,Erzurum,2023-09-08,First Class,1922,Yurt İçi,15 kg,1 saat
+685,British Airways,Diyarbakır,Doha,2023-03-30,Business,5380,Yurt Dışı,23 kg,6 saat
+686,Pegasus,Van,Diyarbakır,2023-10-24,Ekonomi,983,Yurt İçi,15 kg,2 saat
+687,British Airways,İstanbul,Sidney,2023-01-22,First Class,11755,Yurt Dışı,23 kg,4 saat
+688,Emirates,Erzurum,Paris,2023-07-10,Business,9280,Yurt Dışı,23 kg,8 saat
+689,British Airways,Diyarbakır,Bodrum,2023-08-01,Premium Ekonomi,1801,Yurt İçi,15 kg,2 saat
+690,British Airways,Ankara,Roma,2023-07-05,Ekonomi,7239,Yurt Dışı,23 kg,6 saat
+691,Emirates,Erzurum,Prag,2023-09-06,Ekonomi,12835,Yurt Dışı,23 kg,3 saat
+692,KLM,İzmir,Gaziantep,2023-09-11,Ekonomi,1782,Yurt İçi,15 kg,1 saat
+693,AnadoluJet,Erzurum,Seul,2023-06-19,Premium Ekonomi,7371,Yurt Dışı,23 kg,11 saat
+694,KLM,Antalya,Roma,2023-09-25,Premium Ekonomi,13652,Yurt Dışı,23 kg,12 saat
+695,SunExpress,Dalaman,Bodrum,2023-11-28,Premium Ekonomi,2027,Yurt İçi,15 kg,2 saat
+696,Lufthansa,Trabzon,Dalaman,2023-08-03,Business,1072,Yurt İçi,15 kg,1 saat
+697,Pegasus,Diyarbakır,Madrid,2023-11-22,Premium Ekonomi,3132,Yurt Dışı,23 kg,8 saat
+698,KLM,Bodrum,Toronto,2023-05-05,Ekonomi,9246,Yurt Dışı,23 kg,7 saat
+699,SunExpress,İstanbul,Bodrum,2023-07-14,Ekonomi,1622,Yurt İçi,15 kg,2 saat
+700,KLM,İstanbul,Dalaman,2023-01-22,First Class,1994,Yurt İçi,15 kg,2 saat
+701,Türk Hava Yolları,Ankara,Amsterdam,2023-02-10,Premium Ekonomi,3613,Yurt Dışı,23 kg,8 saat
+702,Türk Hava Yolları,İstanbul,New York,2023-10-18,First Class,13177,Yurt Dışı,23 kg,5 saat
+703,British Airways,Bodrum,İzmir,2023-03-30,Ekonomi,2264,Yurt İçi,15 kg,2 saat
+704,Air France,Gaziantep,Antalya,2023-04-11,First Class,2376,Yurt İçi,15 kg,2 saat
+705,KLM,Ankara,Paris,2023-05-26,Business,3211,Yurt Dışı,23 kg,12 saat
+706,Emirates,Gaziantep,Dalaman,2023-01-30,Business,1211,Yurt İçi,15 kg,2 saat
+707,AnadoluJet,Dalaman,Antalya,2023-08-28,Business,1979,Yurt İçi,15 kg,1 saat
+708,KLM,Bodrum,Dalaman,2023-05-25,First Class,980,Yurt İçi,15 kg,2 saat
+709,AnadoluJet,Erzurum,Tokyo,2023-05-13,First Class,6706,Yurt Dışı,23 kg,4 saat
+710,British Airways,Ankara,Toronto,2023-03-09,First Class,8152,Yurt Dışı,23 kg,3 saat
+711,AnadoluJet,İzmir,Doha,2023-04-26,Business,7978,Yurt Dışı,23 kg,11 saat
+712,SunExpress,Bodrum,Paris,2023-02-03,Ekonomi,6367,Yurt Dışı,23 kg,3 saat
+713,Türk Hava Yolları,Dalaman,Barselona,2023-08-21,Ekonomi,2327,Yurt Dışı,23 kg,9 saat
+714,British Airways,Van,Bodrum,2023-05-23,Premium Ekonomi,1690,Yurt İçi,15 kg,2 saat
+715,SunExpress,Gaziantep,Doha,2023-07-12,Premium Ekonomi,2905,Yurt Dışı,23 kg,8 saat
+716,SunExpress,Gaziantep,Paris,2023-03-06,First Class,13594,Yurt Dışı,23 kg,5 saat
+717,Pegasus,Ankara,Diyarbakır,2023-04-14,Business,1103,Yurt İçi,15 kg,1 saat
+718,KLM,Dalaman,İstanbul,2023-12-13,Business,1105,Yurt İçi,15 kg,2 saat
+719,Lufthansa,Ankara,İstanbul,2023-11-05,Business,1954,Yurt İçi,15 kg,1 saat
+720,Türk Hava Yolları,Antalya,Erzurum,2023-11-29,First Class,2073,Yurt İçi,15 kg,1 saat
+721,British Airways,Erzurum,Toronto,2023-02-07,Premium Ekonomi,9219,Yurt Dışı,23 kg,5 saat
+722,AnadoluJet,Ankara,İstanbul,2023-10-06,First Class,2353,Yurt İçi,15 kg,2 saat
+723,Türk Hava Yolları,Dalaman,Barselona,2023-04-06,Premium Ekonomi,5403,Yurt Dışı,23 kg,8 saat
+724,Emirates,Diyarbakır,New York,2023-01-29,Business,2535,Yurt Dışı,23 kg,5 saat
+725,Emirates,Ankara,Trabzon,2023-04-10,Ekonomi,1724,Yurt İçi,15 kg,2 saat
+726,Qatar Airways,Antalya,Van,2023-09-07,Ekonomi,1040,Yurt İçi,15 kg,2 saat
+727,SunExpress,İstanbul,Gaziantep,2023-11-05,Ekonomi,2291,Yurt İçi,15 kg,2 saat
+728,British Airways,Dalaman,Amsterdam,2023-12-14,Business,7504,Yurt Dışı,23 kg,7 saat
+729,Pegasus,Trabzon,Londra,2023-10-15,Ekonomi,11789,Yurt Dışı,23 kg,3 saat
+730,Qatar Airways,Diyarbakır,Roma,2023-11-22,Ekonomi,12241,Yurt Dışı,23 kg,3 saat
+731,Pegasus,Antalya,Erzurum,2023-11-04,Premium Ekonomi,1950,Yurt İçi,15 kg,1 saat
+732,KLM,İzmir,Dubai,2023-12-24,Premium Ekonomi,9309,Yurt Dışı,23 kg,11 saat
+733,Air France,Trabzon,Viyana,2023-07-09,Ekonomi,6554,Yurt Dışı,23 kg,5 saat
+734,Pegasus,Diyarbakır,Dalaman,2023-10-16,Premium Ekonomi,2307,Yurt İçi,15 kg,1 saat
+735,Emirates,Erzurum,Diyarbakır,2023-12-06,Business,1351,Yurt İçi,15 kg,2 saat
+736,AnadoluJet,İstanbul,Diyarbakır,2023-03-14,Business,2334,Yurt İçi,15 kg,2 saat
+737,Emirates,Bodrum,Toronto,2023-01-14,First Class,10623,Yurt Dışı,23 kg,4 saat
+738,Lufthansa,Diyarbakır,Tokyo,2023-01-31,Premium Ekonomi,11282,Yurt Dışı,23 kg,8 saat
+739,British Airways,Dalaman,Sidney,2023-02-12,First Class,10257,Yurt Dışı,23 kg,5 saat
+740,SunExpress,İzmir,Dalaman,2023-01-03,Ekonomi,2441,Yurt İçi,15 kg,2 saat
+741,Air France,Trabzon,Amsterdam,2023-01-10,Ekonomi,11072,Yurt Dışı,23 kg,12 saat
+742,AnadoluJet,Bodrum,Viyana,2023-01-20,Premium Ekonomi,2764,Yurt Dışı,23 kg,6 saat
+743,SunExpress,Erzurum,Tokyo,2023-12-28,First Class,3715,Yurt Dışı,23 kg,9 saat
+744,Air France,Van,Viyana,2023-05-01,First Class,9343,Yurt Dışı,23 kg,3 saat
+745,British Airways,Bodrum,Gaziantep,2023-09-24,Premium Ekonomi,936,Yurt İçi,15 kg,2 saat
+746,Air France,Trabzon,Barselona,2023-01-15,Business,4862,Yurt Dışı,23 kg,10 saat
+747,SunExpress,Gaziantep,Barselona,2023-08-30,Premium Ekonomi,7986,Yurt Dışı,23 kg,10 saat
+748,KLM,Ankara,Van,2023-08-13,First Class,1415,Yurt İçi,15 kg,1 saat
+749,KLM,Diyarbakır,Erzurum,2023-04-23,Premium Ekonomi,1105,Yurt İçi,15 kg,1 saat
+750,AnadoluJet,İzmir,Doha,2023-12-27,Business,9520,Yurt Dışı,23 kg,8 saat
+751,Lufthansa,Ankara,Erzurum,2023-04-28,Ekonomi,957,Yurt İçi,15 kg,1 saat
+752,Pegasus,İstanbul,Doha,2023-04-24,Business,9924,Yurt Dışı,23 kg,10 saat
+753,Air France,Trabzon,Sidney,2023-09-10,Ekonomi,5437,Yurt Dışı,23 kg,11 saat
+754,Emirates,Bodrum,Berlin,2023-05-17,Business,10993,Yurt Dışı,23 kg,6 saat
+755,Lufthansa,İstanbul,Doha,2023-04-23,Premium Ekonomi,7123,Yurt Dışı,23 kg,4 saat
+756,SunExpress,Bodrum,Van,2023-11-08,First Class,2455,Yurt İçi,15 kg,1 saat
+757,Air France,İzmir,Prag,2023-07-10,Premium Ekonomi,12636,Yurt Dışı,23 kg,4 saat
+758,Lufthansa,Trabzon,Viyana,2023-05-15,Business,4781,Yurt Dışı,23 kg,4 saat
+759,British Airways,İzmir,Trabzon,2023-09-19,Business,1004,Yurt İçi,15 kg,1 saat
+760,Emirates,Ankara,Amsterdam,2023-08-23,First Class,11184,Yurt Dışı,23 kg,7 saat
+761,British Airways,Diyarbakır,Amsterdam,2023-08-23,Premium Ekonomi,12550,Yurt Dışı,23 kg,9 saat
+762,AnadoluJet,Erzurum,Ankara,2023-06-27,First Class,2399,Yurt İçi,15 kg,2 saat
+763,KLM,Erzurum,Bodrum,2023-01-29,First Class,838,Yurt İçi,15 kg,1 saat
+764,Qatar Airways,Van,Prag,2023-06-16,Premium Ekonomi,7244,Yurt Dışı,23 kg,7 saat
+765,SunExpress,Trabzon,Van,2023-01-01,First Class,913,Yurt İçi,15 kg,2 saat
+766,AnadoluJet,Dalaman,Diyarbakır,2023-10-19,Business,1767,Yurt İçi,15 kg,2 saat
+767,Emirates,Van,New York,2023-07-31,Premium Ekonomi,11396,Yurt Dışı,23 kg,8 saat
+768,SunExpress,Gaziantep,İstanbul,2023-12-07,Premium Ekonomi,1581,Yurt İçi,15 kg,2 saat
+769,Türk Hava Yolları,İstanbul,New York,2023-04-04,Business,12077,Yurt Dışı,23 kg,9 saat
+770,Türk Hava Yolları,İzmir,Antalya,2023-09-17,Premium Ekonomi,1440,Yurt İçi,15 kg,2 saat
+771,AnadoluJet,Dalaman,Gaziantep,2023-03-01,Premium Ekonomi,2199,Yurt İçi,15 kg,2 saat
+772,British Airways,Antalya,Tokyo,2023-03-04,Premium Ekonomi,5153,Yurt Dışı,23 kg,6 saat
+773,Türk Hava Yolları,Dalaman,Toronto,2023-10-20,Premium Ekonomi,10317,Yurt Dışı,23 kg,9 saat
+774,KLM,Antalya,Prag,2023-07-17,Premium Ekonomi,12513,Yurt Dışı,23 kg,11 saat
+775,Türk Hava Yolları,Van,Bodrum,2023-09-22,First Class,2351,Yurt İçi,15 kg,2 saat
+776,Türk Hava Yolları,Antalya,Bodrum,2023-12-20,Business,1603,Yurt İçi,15 kg,2 saat
+777,Türk Hava Yolları,Ankara,Bodrum,2023-08-31,Business,2165,Yurt İçi,15 kg,2 saat
+778,British Airways,Erzurum,Tokyo,2023-12-23,Business,2531,Yurt Dışı,23 kg,9 saat
+779,AnadoluJet,Bodrum,New York,2023-12-24,Premium Ekonomi,4541,Yurt Dışı,23 kg,10 saat
+780,Emirates,Erzurum,İzmir,2023-10-18,Business,2262,Yurt İçi,15 kg,2 saat
+781,Türk Hava Yolları,Dalaman,Londra,2023-05-27,Premium Ekonomi,4404,Yurt Dışı,23 kg,5 saat
+782,Air France,Trabzon,Ankara,2023-07-23,Business,1675,Yurt İçi,15 kg,1 saat
+783,Pegasus,Antalya,Erzurum,2023-06-06,Business,1828,Yurt İçi,15 kg,1 saat
+784,AnadoluJet,İstanbul,İzmir,2023-01-04,Ekonomi,1129,Yurt İçi,15 kg,2 saat
+785,Türk Hava Yolları,Gaziantep,Dalaman,2023-04-15,Ekonomi,1551,Yurt İçi,15 kg,2 saat
+786,KLM,Diyarbakır,Tokyo,2023-07-30,First Class,9696,Yurt Dışı,23 kg,10 saat
+787,Emirates,Bodrum,Madrid,2023-12-18,Premium Ekonomi,14840,Yurt Dışı,23 kg,8 saat
+788,Emirates,Van,Tokyo,2023-08-13,First Class,2368,Yurt Dışı,23 kg,3 saat
+789,Lufthansa,İzmir,Van,2023-09-16,Premium Ekonomi,1796,Yurt İçi,15 kg,2 saat
+790,KLM,Van,Ankara,2023-04-06,Business,1487,Yurt İçi,15 kg,1 saat
+791,Türk Hava Yolları,Ankara,Roma,2023-09-12,First Class,10644,Yurt Dışı,23 kg,7 saat
+792,Qatar Airways,Bodrum,Londra,2023-02-14,Ekonomi,11090,Yurt Dışı,23 kg,7 saat
+793,SunExpress,Antalya,Ankara,2023-05-22,Business,1541,Yurt İçi,15 kg,2 saat
+794,British Airways,Trabzon,Prag,2023-12-13,First Class,5016,Yurt Dışı,23 kg,3 saat
+795,Emirates,Erzurum,Tokyo,2023-08-22,Ekonomi,12457,Yurt Dışı,23 kg,8 saat
+796,Pegasus,Erzurum,Dalaman,2023-09-02,First Class,895,Yurt İçi,15 kg,1 saat
+797,Air France,Trabzon,Amsterdam,2023-10-14,Ekonomi,6679,Yurt Dışı,23 kg,9 saat
+798,AnadoluJet,Trabzon,Erzurum,2023-10-02,First Class,1917,Yurt İçi,15 kg,1 saat
+799,Qatar Airways,İstanbul,İzmir,2023-10-13,First Class,1671,Yurt İçi,15 kg,1 saat
+800,Lufthansa,Gaziantep,Ankara,2023-12-08,Ekonomi,1333,Yurt İçi,15 kg,1 saat
+801,Lufthansa,İstanbul,Toronto,2023-10-19,First Class,2968,Yurt Dışı,23 kg,6 saat
+802,AnadoluJet,Van,Paris,2023-11-25,Ekonomi,8439,Yurt Dışı,23 kg,7 saat
+803,AnadoluJet,Trabzon,İzmir,2023-07-30,First Class,1620,Yurt İçi,15 kg,2 saat
+804,Lufthansa,Erzurum,Doha,2023-03-16,First Class,9004,Yurt Dışı,23 kg,4 saat
+805,Lufthansa,Erzurum,Bodrum,2023-03-05,Business,2155,Yurt İçi,15 kg,1 saat
+806,British Airways,Dalaman,Londra,2023-02-15,Ekonomi,10142,Yurt Dışı,23 kg,6 saat
+807,Türk Hava Yolları,İstanbul,İzmir,2023-04-07,Ekonomi,926,Yurt İçi,15 kg,1 saat
+808,KLM,Dalaman,Barselona,2023-01-20,Business,7124,Yurt Dışı,23 kg,8 saat
+809,Lufthansa,Ankara,İstanbul,2023-05-03,First Class,1746,Yurt İçi,15 kg,1 saat
+810,Lufthansa,Trabzon,Antalya,2023-10-12,Premium Ekonomi,1821,Yurt İçi,15 kg,2 saat
+811,KLM,Diyarbakır,Erzurum,2023-03-10,First Class,2095,Yurt İçi,15 kg,1 saat
+812,SunExpress,Gaziantep,New York,2023-01-15,Ekonomi,9337,Yurt Dışı,23 kg,4 saat
+813,Pegasus,Bodrum,İzmir,2023-12-30,First Class,2260,Yurt İçi,15 kg,1 saat
+814,Lufthansa,Diyarbakır,Dalaman,2023-11-14,Business,1400,Yurt İçi,15 kg,2 saat
+815,Emirates,Diyarbakır,Sidney,2023-01-12,Ekonomi,10525,Yurt Dışı,23 kg,12 saat
+816,Türk Hava Yolları,Diyarbakır,Dalaman,2023-02-13,Business,1280,Yurt İçi,15 kg,2 saat
+817,KLM,Van,Madrid,2023-03-09,Ekonomi,12956,Yurt Dışı,23 kg,4 saat
+818,Türk Hava Yolları,Trabzon,Gaziantep,2023-08-05,Ekonomi,1714,Yurt İçi,15 kg,1 saat
+819,Lufthansa,Diyarbakır,Londra,2023-06-27,Business,8193,Yurt Dışı,23 kg,9 saat
+820,AnadoluJet,Erzurum,Seul,2023-05-30,First Class,5908,Yurt Dışı,23 kg,6 saat
+821,British Airways,Trabzon,Dalaman,2023-12-09,Ekonomi,1820,Yurt İçi,15 kg,2 saat
+822,Air France,İzmir,Tokyo,2023-03-23,Ekonomi,8322,Yurt Dışı,23 kg,10 saat
+823,British Airways,Van,Berlin,2023-08-18,Premium Ekonomi,14678,Yurt Dışı,23 kg,9 saat
+824,Emirates,Antalya,İzmir,2023-09-30,First Class,1205,Yurt İçi,15 kg,1 saat
+825,Türk Hava Yolları,Trabzon,Londra,2023-08-13,First Class,10176,Yurt Dışı,23 kg,11 saat
+826,Türk Hava Yolları,Gaziantep,Paris,2023-05-16,Ekonomi,12442,Yurt Dışı,23 kg,9 saat
+827,Emirates,Diyarbakır,Dubai,2023-01-31,Ekonomi,7907,Yurt Dışı,23 kg,5 saat
+828,SunExpress,Van,Erzurum,2023-07-10,Business,2175,Yurt İçi,15 kg,1 saat
+829,Türk Hava Yolları,Erzurum,Gaziantep,2023-08-09,First Class,880,Yurt İçi,15 kg,1 saat
+830,SunExpress,Erzurum,İzmir,2023-02-03,Ekonomi,952,Yurt İçi,15 kg,1 saat
+831,Lufthansa,Erzurum,Prag,2023-01-09,Ekonomi,8129,Yurt Dışı,23 kg,5 saat
+832,Air France,Bodrum,New York,2023-04-29,Ekonomi,9952,Yurt Dışı,23 kg,5 saat
+833,Air France,Diyarbakır,Tokyo,2023-07-27,Ekonomi,2571,Yurt Dışı,23 kg,6 saat
+834,Qatar Airways,Gaziantep,Doha,2023-06-29,Ekonomi,9382,Yurt Dışı,23 kg,9 saat
+835,Air France,Gaziantep,Van,2023-02-26,First Class,1765,Yurt İçi,15 kg,1 saat
+836,AnadoluJet,Gaziantep,Viyana,2023-02-13,Premium Ekonomi,4107,Yurt Dışı,23 kg,6 saat
+837,Air France,Gaziantep,Londra,2023-01-06,First Class,6796,Yurt Dışı,23 kg,9 saat
+838,Emirates,Ankara,Londra,2023-02-05,First Class,13134,Yurt Dışı,23 kg,5 saat
+839,British Airways,Dalaman,Trabzon,2023-11-12,Business,1764,Yurt İçi,15 kg,2 saat
+840,Türk Hava Yolları,Van,Erzurum,2023-12-08,Business,1058,Yurt İçi,15 kg,2 saat
+841,Lufthansa,İzmir,Londra,2023-08-26,Ekonomi,7086,Yurt Dışı,23 kg,5 saat
+842,Qatar Airways,Diyarbakır,Erzurum,2023-12-01,Premium Ekonomi,2399,Yurt İçi,15 kg,2 saat
+843,Türk Hava Yolları,Van,Sidney,2023-06-12,Business,3734,Yurt Dışı,23 kg,8 saat
+844,Türk Hava Yolları,Trabzon,Toronto,2023-08-25,Business,2367,Yurt Dışı,23 kg,4 saat
+845,Emirates,Erzurum,Sidney,2023-01-22,First Class,8167,Yurt Dışı,23 kg,8 saat
+846,KLM,Ankara,İzmir,2023-06-12,Ekonomi,2147,Yurt İçi,15 kg,2 saat
+847,British Airways,Van,Prag,2023-01-29,Premium Ekonomi,13785,Yurt Dışı,23 kg,9 saat
+848,KLM,İstanbul,Dalaman,2023-12-21,Business,1027,Yurt İçi,15 kg,1 saat
+849,Pegasus,İzmir,Dalaman,2023-04-18,First Class,2295,Yurt İçi,15 kg,1 saat
+850,Lufthansa,Trabzon,Diyarbakır,2023-02-22,Premium Ekonomi,2280,Yurt İçi,15 kg,1 saat
+851,AnadoluJet,Antalya,Dalaman,2023-12-09,Business,1763,Yurt İçi,15 kg,1 saat
+852,Lufthansa,Antalya,Gaziantep,2023-06-25,Ekonomi,2300,Yurt İçi,15 kg,2 saat
+853,SunExpress,İzmir,Madrid,2023-12-05,Ekonomi,4380,Yurt Dışı,23 kg,6 saat
+854,Pegasus,Ankara,Doha,2023-06-07,Ekonomi,5628,Yurt Dışı,23 kg,6 saat
+855,SunExpress,Antalya,Dalaman,2023-10-26,Ekonomi,2102,Yurt İçi,15 kg,2 saat
+856,KLM,Antalya,Bodrum,2023-04-23,Ekonomi,880,Yurt İçi,15 kg,1 saat
+857,Lufthansa,Antalya,Londra,2023-12-04,First Class,14804,Yurt Dışı,23 kg,9 saat
+858,KLM,Bodrum,Londra,2023-08-18,First Class,10107,Yurt Dışı,23 kg,5 saat
+859,British Airways,Gaziantep,Amsterdam,2023-09-28,First Class,7738,Yurt Dışı,23 kg,11 saat
+860,British Airways,Erzurum,Van,2023-07-14,Premium Ekonomi,1706,Yurt İçi,15 kg,1 saat
+861,SunExpress,İstanbul,Berlin,2023-01-27,First Class,7058,Yurt Dışı,23 kg,11 saat
+862,Air France,Antalya,Gaziantep,2023-11-12,Ekonomi,1698,Yurt İçi,15 kg,1 saat
+863,Türk Hava Yolları,Ankara,Trabzon,2023-04-18,Premium Ekonomi,1382,Yurt İçi,15 kg,1 saat
+864,Emirates,Antalya,Toronto,2023-03-22,Business,2037,Yurt Dışı,23 kg,3 saat
+865,Emirates,Erzurum,Ankara,2023-06-11,Business,1108,Yurt İçi,15 kg,2 saat
+866,SunExpress,Antalya,Gaziantep,2023-11-01,Business,1338,Yurt İçi,15 kg,1 saat
+867,SunExpress,Gaziantep,Antalya,2023-12-17,Business,837,Yurt İçi,15 kg,2 saat
+868,KLM,İstanbul,Antalya,2023-06-15,Ekonomi,1336,Yurt İçi,15 kg,2 saat
+869,Emirates,Antalya,Roma,2023-06-23,First Class,4567,Yurt Dışı,23 kg,3 saat
+870,British Airways,İzmir,Dubai,2023-03-13,First Class,3822,Yurt Dışı,23 kg,7 saat
+871,Lufthansa,Gaziantep,Sidney,2023-01-10,Business,8763,Yurt Dışı,23 kg,7 saat
+872,SunExpress,Ankara,Erzurum,2023-07-09,Business,2463,Yurt İçi,15 kg,1 saat
+873,KLM,Dalaman,Erzurum,2023-11-09,Premium Ekonomi,1834,Yurt İçi,15 kg,2 saat
+874,British Airways,Diyarbakır,Bodrum,2023-09-12,Business,902,Yurt İçi,15 kg,1 saat
+875,Air France,Bodrum,İzmir,2023-09-26,Business,1391,Yurt İçi,15 kg,1 saat
+876,Emirates,İzmir,Dalaman,2023-03-28,Business,1808,Yurt İçi,15 kg,1 saat
+877,SunExpress,Trabzon,Dalaman,2023-08-01,Ekonomi,1319,Yurt İçi,15 kg,2 saat
+878,AnadoluJet,İzmir,Seul,2023-12-21,First Class,9600,Yurt Dışı,23 kg,3 saat
+879,Lufthansa,Ankara,Amsterdam,2023-10-19,Ekonomi,9896,Yurt Dışı,23 kg,10 saat
+880,Pegasus,İstanbul,Van,2023-01-13,First Class,2350,Yurt İçi,15 kg,1 saat
+881,AnadoluJet,Ankara,Sidney,2023-12-11,Business,2809,Yurt Dışı,23 kg,5 saat
+882,Pegasus,Van,Dalaman,2023-11-15,Premium Ekonomi,1057,Yurt İçi,15 kg,1 saat
+883,Lufthansa,İstanbul,Sidney,2023-09-19,Business,14475,Yurt Dışı,23 kg,9 saat
+884,Lufthansa,Trabzon,Gaziantep,2023-03-16,Business,1761,Yurt İçi,15 kg,1 saat
+885,Air France,Ankara,Viyana,2023-05-05,Ekonomi,4428,Yurt Dışı,23 kg,8 saat
+886,KLM,Diyarbakır,Barselona,2023-01-22,Business,13838,Yurt Dışı,23 kg,10 saat
+887,Lufthansa,Van,Dubai,2023-02-26,Business,7550,Yurt Dışı,23 kg,3 saat
+888,Qatar Airways,Trabzon,Dalaman,2023-12-30,First Class,1201,Yurt İçi,15 kg,2 saat
+889,Türk Hava Yolları,İstanbul,Antalya,2023-07-07,Premium Ekonomi,2262,Yurt İçi,15 kg,2 saat
+890,AnadoluJet,İzmir,İstanbul,2023-10-01,Business,2274,Yurt İçi,15 kg,1 saat
+891,Türk Hava Yolları,İzmir,Antalya,2023-10-08,Premium Ekonomi,1225,Yurt İçi,15 kg,1 saat
+892,Air France,Dalaman,Bodrum,2023-10-21,Ekonomi,1749,Yurt İçi,15 kg,1 saat
+893,SunExpress,Ankara,Dalaman,2023-10-19,Premium Ekonomi,2292,Yurt İçi,15 kg,2 saat
+894,KLM,Antalya,Paris,2023-04-22,Business,14246,Yurt Dışı,23 kg,4 saat
+895,British Airways,Van,Seul,2023-10-30,First Class,14883,Yurt Dışı,23 kg,6 saat
+896,Emirates,Dalaman,Bodrum,2023-06-20,Premium Ekonomi,1926,Yurt İçi,15 kg,2 saat
+897,KLM,İzmir,Sidney,2023-10-09,Business,2959,Yurt Dışı,23 kg,5 saat
+898,AnadoluJet,Van,Amsterdam,2023-10-08,Ekonomi,7341,Yurt Dışı,23 kg,5 saat
+899,Lufthansa,İzmir,Dalaman,2023-01-12,Business,2320,Yurt İçi,15 kg,2 saat
+900,AnadoluJet,Bodrum,Dalaman,2023-01-18,Ekonomi,2023,Yurt İçi,15 kg,1 saat
+901,SunExpress,Dalaman,Trabzon,2023-09-01,Premium Ekonomi,2243,Yurt İçi,15 kg,1 saat
+902,KLM,Gaziantep,Trabzon,2023-09-04,Ekonomi,2344,Yurt İçi,15 kg,1 saat
+903,Pegasus,İstanbul,Toronto,2023-01-22,First Class,4377,Yurt Dışı,23 kg,10 saat
+904,Air France,Trabzon,İzmir,2023-03-06,Business,1856,Yurt İçi,15 kg,1 saat
+905,Qatar Airways,Antalya,Van,2023-10-28,Business,1070,Yurt İçi,15 kg,1 saat
+906,SunExpress,Dalaman,Barselona,2023-07-04,Ekonomi,2759,Yurt Dışı,23 kg,5 saat
+907,Lufthansa,Erzurum,Antalya,2023-12-05,Business,1410,Yurt İçi,15 kg,1 saat
+908,AnadoluJet,Gaziantep,Tokyo,2023-11-14,Business,5232,Yurt Dışı,23 kg,10 saat
+909,AnadoluJet,Gaziantep,İstanbul,2023-04-28,Business,1495,Yurt İçi,15 kg,2 saat
+910,KLM,Bodrum,Antalya,2023-07-18,Ekonomi,1750,Yurt İçi,15 kg,2 saat
+911,Qatar Airways,İzmir,Seul,2023-07-19,Ekonomi,9768,Yurt Dışı,23 kg,11 saat
+912,KLM,Trabzon,İzmir,2023-12-15,Premium Ekonomi,2127,Yurt İçi,15 kg,1 saat
+913,SunExpress,Ankara,Madrid,2023-02-13,Ekonomi,10761,Yurt Dışı,23 kg,12 saat
+914,Qatar Airways,Antalya,Dubai,2023-07-10,Ekonomi,12697,Yurt Dışı,23 kg,7 saat
+915,Emirates,Van,Ankara,2023-01-23,Premium Ekonomi,1114,Yurt İçi,15 kg,2 saat
+916,SunExpress,Ankara,Gaziantep,2023-06-19,First Class,2314,Yurt İçi,15 kg,2 saat
+917,Pegasus,Erzurum,Toronto,2023-01-13,First Class,11348,Yurt Dışı,23 kg,3 saat
+918,Lufthansa,İzmir,Van,2023-09-09,Ekonomi,1918,Yurt İçi,15 kg,1 saat
+919,Lufthansa,Diyarbakır,İstanbul,2023-08-19,Ekonomi,2008,Yurt İçi,15 kg,2 saat
+920,SunExpress,Gaziantep,Toronto,2023-11-17,Premium Ekonomi,6815,Yurt Dışı,23 kg,7 saat
+921,Lufthansa,İzmir,İstanbul,2023-11-17,Ekonomi,1527,Yurt İçi,15 kg,2 saat
+922,SunExpress,Van,Bodrum,2023-03-23,Business,877,Yurt İçi,15 kg,1 saat
+923,Air France,Diyarbakır,Sidney,2023-08-29,First Class,2150,Yurt Dışı,23 kg,8 saat
+924,British Airways,Erzurum,Roma,2023-05-18,Business,6090,Yurt Dışı,23 kg,9 saat
+925,AnadoluJet,Trabzon,Van,2023-09-12,Ekonomi,1361,Yurt İçi,15 kg,1 saat
+926,KLM,Bodrum,Erzurum,2023-10-04,First Class,1562,Yurt İçi,15 kg,1 saat
+927,Pegasus,İstanbul,Doha,2023-08-04,Premium Ekonomi,2279,Yurt Dışı,23 kg,3 saat
+928,Türk Hava Yolları,Diyarbakır,Erzurum,2023-01-28,Ekonomi,1292,Yurt İçi,15 kg,1 saat
+929,British Airways,Van,Doha,2023-03-21,First Class,7926,Yurt Dışı,23 kg,4 saat
+930,Emirates,Antalya,Bodrum,2023-04-28,Business,2223,Yurt İçi,15 kg,2 saat
+931,KLM,İzmir,Viyana,2023-03-11,Business,5676,Yurt Dışı,23 kg,12 saat
+932,KLM,Trabzon,Toronto,2023-04-30,Premium Ekonomi,9386,Yurt Dışı,23 kg,5 saat
+933,Qatar Airways,Diyarbakır,Roma,2023-02-05,Ekonomi,9033,Yurt Dışı,23 kg,8 saat
+934,AnadoluJet,Van,New York,2023-05-10,Premium Ekonomi,11402,Yurt Dışı,23 kg,3 saat
+935,AnadoluJet,Ankara,Diyarbakır,2023-04-06,Premium Ekonomi,2249,Yurt İçi,15 kg,2 saat
+936,British Airways,Diyarbakır,Prag,2023-10-08,Business,3252,Yurt Dışı,23 kg,12 saat
+937,British Airways,İstanbul,Roma,2023-04-14,Premium Ekonomi,4979,Yurt Dışı,23 kg,10 saat
+938,Lufthansa,Bodrum,Gaziantep,2023-02-06,Ekonomi,2137,Yurt İçi,15 kg,2 saat
+939,SunExpress,Antalya,Madrid,2023-01-12,Business,13583,Yurt Dışı,23 kg,3 saat
+940,Pegasus,Ankara,Trabzon,2023-09-21,Business,937,Yurt İçi,15 kg,2 saat
+941,Emirates,İstanbul,Van,2023-10-26,Business,805,Yurt İçi,15 kg,1 saat
+942,Pegasus,Erzurum,Ankara,2023-03-28,First Class,1674,Yurt İçi,15 kg,2 saat
+943,Emirates,Bodrum,Prag,2023-11-14,Premium Ekonomi,2356,Yurt Dışı,23 kg,3 saat
+944,Qatar Airways,Bodrum,Amsterdam,2023-07-09,Premium Ekonomi,9137,Yurt Dışı,23 kg,8 saat
+945,SunExpress,Ankara,İzmir,2023-05-10,Business,1065,Yurt İçi,15 kg,2 saat
+946,Qatar Airways,İzmir,Erzurum,2023-10-24,First Class,2142,Yurt İçi,15 kg,2 saat
+947,SunExpress,Antalya,Viyana,2023-05-11,Business,10354,Yurt Dışı,23 kg,6 saat
+948,Türk Hava Yolları,Bodrum,İstanbul,2023-05-29,Business,1072,Yurt İçi,15 kg,1 saat
+949,Lufthansa,Van,Londra,2023-01-23,First Class,9582,Yurt Dışı,23 kg,10 saat
+950,KLM,Bodrum,Erzurum,2023-09-01,First Class,2323,Yurt İçi,15 kg,1 saat
+951,British Airways,İstanbul,Antalya,2023-07-31,Business,2256,Yurt İçi,15 kg,2 saat
+952,Türk Hava Yolları,Dalaman,Paris,2023-08-13,Business,2497,Yurt Dışı,23 kg,6 saat
+953,Lufthansa,Diyarbakır,Barselona,2023-04-21,Ekonomi,12434,Yurt Dışı,23 kg,10 saat
+954,Qatar Airways,Bodrum,Ankara,2023-11-27,Ekonomi,2159,Yurt İçi,15 kg,1 saat
+955,Air France,Gaziantep,Dalaman,2023-09-07,Business,1702,Yurt İçi,15 kg,1 saat
+956,SunExpress,İzmir,New York,2023-02-25,First Class,11401,Yurt Dışı,23 kg,4 saat
+957,Lufthansa,Antalya,Trabzon,2023-12-31,Premium Ekonomi,842,Yurt İçi,15 kg,2 saat
+958,KLM,Trabzon,Londra,2023-08-28,First Class,4287,Yurt Dışı,23 kg,12 saat
+959,British Airways,İstanbul,Berlin,2023-03-29,Premium Ekonomi,4191,Yurt Dışı,23 kg,5 saat
+960,Türk Hava Yolları,İstanbul,Viyana,2023-04-09,Ekonomi,11039,Yurt Dışı,23 kg,3 saat
+961,Türk Hava Yolları,Dalaman,Bodrum,2023-02-09,Ekonomi,1459,Yurt İçi,15 kg,2 saat
+962,British Airways,Antalya,İzmir,2023-01-28,First Class,1743,Yurt İçi,15 kg,1 saat
+963,AnadoluJet,Antalya,Paris,2023-06-13,Ekonomi,12527,Yurt Dışı,23 kg,3 saat
+964,AnadoluJet,Diyarbakır,Viyana,2023-11-22,Business,12787,Yurt Dışı,23 kg,6 saat
+965,Qatar Airways,Ankara,Toronto,2023-10-17,Ekonomi,6939,Yurt Dışı,23 kg,4 saat
+966,AnadoluJet,Erzurum,Ankara,2023-04-17,Ekonomi,2285,Yurt İçi,15 kg,2 saat
+967,Lufthansa,Ankara,Diyarbakır,2023-07-11,Premium Ekonomi,2478,Yurt İçi,15 kg,1 saat
+968,AnadoluJet,Erzurum,Bodrum,2023-12-28,First Class,1096,Yurt İçi,15 kg,2 saat
+969,Emirates,Diyarbakır,Dubai,2023-04-17,Premium Ekonomi,14008,Yurt Dışı,23 kg,8 saat
+970,SunExpress,Gaziantep,Trabzon,2023-04-08,Ekonomi,983,Yurt İçi,15 kg,2 saat
+971,British Airways,Dalaman,İstanbul,2023-12-29,Business,909,Yurt İçi,15 kg,1 saat
+972,Lufthansa,Van,Toronto,2023-05-20,First Class,5824,Yurt Dışı,23 kg,3 saat
+973,AnadoluJet,Van,Gaziantep,2023-07-06,Ekonomi,1623,Yurt İçi,15 kg,2 saat
+974,SunExpress,İzmir,Antalya,2023-01-21,Premium Ekonomi,1331,Yurt İçi,15 kg,1 saat
+975,KLM,Antalya,Berlin,2023-10-12,Ekonomi,12621,Yurt Dışı,23 kg,8 saat
+976,British Airways,Ankara,Toronto,2023-04-08,First Class,5623,Yurt Dışı,23 kg,8 saat
+977,AnadoluJet,Diyarbakır,Londra,2023-11-17,First Class,7578,Yurt Dışı,23 kg,10 saat
+978,Air France,Trabzon,Paris,2023-11-22,Ekonomi,8459,Yurt Dışı,23 kg,8 saat
+979,AnadoluJet,Ankara,Paris,2023-07-23,First Class,13432,Yurt Dışı,23 kg,4 saat
+980,KLM,Diyarbakır,Roma,2023-03-08,Business,8459,Yurt Dışı,23 kg,8 saat
+981,Air France,İstanbul,Diyarbakır,2023-08-23,Business,2363,Yurt İçi,15 kg,2 saat
+982,Qatar Airways,İzmir,Van,2023-03-14,First Class,958,Yurt İçi,15 kg,1 saat
+983,Emirates,İzmir,Amsterdam,2023-04-27,Premium Ekonomi,4246,Yurt Dışı,23 kg,3 saat
+984,KLM,Gaziantep,Seul,2023-01-16,Business,13259,Yurt Dışı,23 kg,4 saat
+985,AnadoluJet,Dalaman,İstanbul,2023-08-13,Business,1652,Yurt İçi,15 kg,2 saat
+986,SunExpress,Bodrum,İstanbul,2023-10-22,Business,1511,Yurt İçi,15 kg,2 saat
+987,Emirates,Trabzon,Dalaman,2023-08-23,First Class,1934,Yurt İçi,15 kg,2 saat
+988,British Airways,Diyarbakır,Van,2023-12-29,Ekonomi,2008,Yurt İçi,15 kg,1 saat
+989,Lufthansa,Dalaman,İstanbul,2023-06-06,First Class,1688,Yurt İçi,15 kg,2 saat
+990,Qatar Airways,Erzurum,İzmir,2023-08-25,Business,1097,Yurt İçi,15 kg,2 saat
+991,Lufthansa,Ankara,Toronto,2023-10-10,First Class,8941,Yurt Dışı,23 kg,12 saat
+992,SunExpress,Trabzon,Berlin,2023-09-26,Business,3831,Yurt Dışı,23 kg,12 saat
+993,Qatar Airways,Dalaman,İstanbul,2023-12-18,First Class,1966,Yurt İçi,15 kg,2 saat
+994,Qatar Airways,Erzurum,Madrid,2023-03-16,Business,4962,Yurt Dışı,23 kg,7 saat
+995,KLM,Bodrum,Toronto,2023-12-27,Premium Ekonomi,5959,Yurt Dışı,23 kg,3 saat
+996,AnadoluJet,Dalaman,Doha,2023-09-18,Business,3494,Yurt Dışı,23 kg,3 saat
+997,AnadoluJet,Ankara,Barselona,2023-10-08,Ekonomi,12151,Yurt Dışı,23 kg,4 saat
+998,Lufthansa,Gaziantep,Diyarbakır,2023-03-12,Premium Ekonomi,2032,Yurt İçi,15 kg,1 saat
+999,Lufthansa,Gaziantep,Madrid,2023-06-13,Business,9044,Yurt Dışı,23 kg,10 saat
+1000,Türk Hava Yolları,Erzurum,Trabzon,2023-02-07,Premium Ekonomi,943,Yurt İçi,15 kg,1 saat

@@ -1,0 +1,1001 @@
+müşteri_id,otel_adı,şehir,giriş_tarihi,kalış_süresi,oda_tipi,günlük_ücret,kahvaltı_dahil,all_inclusive
+1,Skyline Hotel,İstanbul,2023-09-16,12,Junior Suit,4042,False,False
+2,Sunrise Hotel,Bodrum,2023-06-20,11,Tek Kişilik Deluxe,3599,True,True
+3,Grand Otel,Konya,2023-04-26,10,Tek Kişilik Standart,3403,True,True
+4,Silver Moon Hotel,Ankara,2023-05-09,1,Kral Dairesi,3688,True,False
+5,Grand Otel,Kuşadası,2023-12-20,2,Kral Dairesi,2028,True,False
+6,Emerald Resort,Alanya,2023-10-05,6,Tek Kişilik Deluxe,1995,False,True
+7,Crystal Palace,Kayseri,2023-09-26,9,Executive Suit,1417,False,True
+8,Skyline Hotel,Gaziantep,2023-05-02,7,Kral Dairesi,3491,False,True
+9,Sunrise Hotel,Isparta,2023-03-09,3,Junior Suit,4917,False,True
+10,Silver Moon Hotel,Adana,2023-12-20,10,Çift Kişilik Deluxe,4718,False,False
+11,Diamond Hotel,Bodrum,2023-07-01,4,Balkonlu Oda,635,False,False
+12,Skyline Hotel,Kayseri,2023-10-10,3,Kral Dairesi,3281,False,False
+13,Paradise Beach,Muğla,2023-08-13,11,Çift Kişilik Deluxe,1104,False,True
+14,Blue Bay Resort,Konya,2023-01-04,5,Tek Kişilik Standart,4129,True,False
+15,Grand Otel,Çeşme,2023-07-08,14,Çift Kişilik Deluxe,4518,True,True
+16,Diamond Hotel,Adana,2023-07-28,9,Executive Suit,2823,True,True
+17,Star Hotel,Side,2023-04-26,6,Çift Kişilik Deluxe,1891,False,False
+18,Palm Beach,İzmir,2023-01-07,8,Çift Kişilik Deluxe,1174,True,True
+19,Sunrise Hotel,Isparta,2023-03-20,2,Tek Kişilik Deluxe,4846,False,True
+20,Mountain View,Side,2023-07-15,14,Çift Kişilik Standart,904,False,True
+21,Sunrise Hotel,İzmir,2023-08-22,14,Balkonlu Oda,2187,True,True
+22,Crystal Palace,Kuşadası,2023-03-14,10,Çift Kişilik Standart,3150,True,False
+23,Paradise Beach,Antalya,2023-04-06,13,Aile Odası,3174,False,False
+24,Royal Garden,Çeşme,2023-02-07,4,Balkonlu Oda,1810,True,False
+25,Grand Otel,Gaziantep,2023-08-09,8,Junior Suit,4344,False,False
+26,Mountain View,Kayseri,2023-03-28,8,Çift Kişilik Deluxe,1973,True,True
+27,Palm Beach,Konya,2023-03-11,4,Tek Kişilik Deluxe,3412,True,False
+28,Sahil Resort,Fethiye,2023-03-10,13,Tek Kişilik Deluxe,3685,False,False
+29,Harita Hotel,İzmir,2023-03-30,2,Junior Suit,846,False,True
+30,Paradise Beach,Adana,2023-01-14,7,Deniz Manzaralı Oda,2314,True,True
+31,Crystal Palace,Marmaris,2023-11-08,1,Junior Suit,4653,True,True
+32,Sunrise Hotel,Marmaris,2023-11-12,14,Junior Suit,2660,True,False
+33,Paradise Beach,Kaş,2023-07-28,7,Deniz Manzaralı Oda,2314,False,True
+34,Sunrise Hotel,Konya,2023-10-29,14,Kral Dairesi,4437,True,False
+35,Golden Crown,Marmaris,2023-02-26,2,Balkonlu Oda,1745,True,True
+36,Diamond Hotel,Muğla,2023-01-26,1,Tek Kişilik Standart,3701,True,True
+37,Royal Garden,Fethiye,2023-10-11,9,Tek Kişilik Standart,4401,False,True
+38,City Hotel,Fethiye,2023-06-04,4,Aile Odası,2764,False,True
+39,Sunrise Hotel,İstanbul,2023-01-31,12,Çift Kişilik Standart,2357,True,False
+40,Palm Beach,Kayseri,2023-01-22,13,Junior Suit,1806,False,False
+41,Palm Beach,Konya,2023-11-10,9,Aile Odası,1471,True,True
+42,Harita Hotel,Alanya,2023-01-04,6,Çift Kişilik Deluxe,1010,True,True
+43,Sahil Resort,Çeşme,2023-11-07,10,Balkonlu Oda,3547,True,True
+44,Silver Moon Hotel,Eskişehir,2023-11-27,7,Balkonlu Oda,2522,False,True
+45,Silver Moon Hotel,Ankara,2023-08-12,8,Junior Suit,4627,True,True
+46,Harita Hotel,Eskişehir,2023-09-24,13,Çift Kişilik Standart,2766,True,True
+47,Diamond Hotel,Mersin,2023-01-31,13,Çift Kişilik Standart,539,False,True
+48,Silver Moon Hotel,Bodrum,2023-03-08,14,Aile Odası,4288,False,True
+49,Harita Hotel,Kayseri,2023-07-29,6,Tek Kişilik Deluxe,1530,True,False
+50,Harita Hotel,Side,2023-03-01,11,Çift Kişilik Standart,1356,True,False
+51,Grand Otel,Antalya,2023-08-29,12,Çift Kişilik Standart,1581,True,True
+52,Diamond Hotel,Kaş,2023-02-16,11,Balkonlu Oda,1605,False,False
+53,Mountain View,İzmir,2023-06-13,5,Balkonlu Oda,3654,False,False
+54,Golden Crown,Muğla,2023-11-25,11,Çift Kişilik Deluxe,842,False,False
+55,Skyline Hotel,Alanya,2023-07-30,5,Çift Kişilik Standart,2455,False,True
+56,Harita Hotel,Side,2023-08-13,9,Tek Kişilik Standart,2287,True,False
+57,Emerald Resort,Eskişehir,2023-08-23,2,Balkonlu Oda,587,False,False
+58,Grand Otel,Kayseri,2023-09-01,10,Aile Odası,4903,True,False
+59,Harita Hotel,İzmir,2023-04-02,6,Balkonlu Oda,4841,False,False
+60,Sunrise Hotel,Fethiye,2023-12-07,13,Çift Kişilik Deluxe,4473,False,False
+61,Paradise Beach,Kaş,2023-01-27,13,Deniz Manzaralı Oda,1526,False,True
+62,Harita Hotel,Muğla,2023-10-09,1,Deniz Manzaralı Oda,3149,True,True
+63,Star Hotel,Mersin,2023-06-05,9,Tek Kişilik Deluxe,4848,True,True
+64,Sahil Resort,Side,2023-03-16,4,Executive Suit,2054,False,True
+65,Royal Garden,İstanbul,2023-07-22,13,Executive Suit,3581,True,False
+66,Sunrise Hotel,Ankara,2023-02-10,13,Tek Kişilik Deluxe,4840,True,False
+67,Blue Bay Resort,Adana,2023-07-27,2,Junior Suit,528,False,False
+68,Harita Hotel,Kayseri,2023-07-05,8,Çift Kişilik Standart,2247,False,True
+69,Blue Bay Resort,Gaziantep,2023-06-03,1,Çift Kişilik Deluxe,2313,True,True
+70,Blue Bay Resort,Gaziantep,2023-06-04,10,Tek Kişilik Standart,2318,False,True
+71,Harita Hotel,Gaziantep,2023-03-05,13,Balkonlu Oda,2796,False,True
+72,Harita Hotel,İzmir,2023-07-25,14,Çift Kişilik Standart,1853,False,False
+73,Sahil Resort,Konya,2023-07-30,14,Tek Kişilik Deluxe,2076,False,True
+74,Harita Hotel,Kuşadası,2023-05-06,13,Deniz Manzaralı Oda,2632,False,False
+75,Sahil Resort,Side,2023-10-22,1,Çift Kişilik Deluxe,4958,True,False
+76,Silver Moon Hotel,Side,2023-06-15,10,Tek Kişilik Standart,2748,False,False
+77,Golden Crown,Kayseri,2023-02-15,10,Kral Dairesi,2732,False,False
+78,Harita Hotel,Konya,2023-05-02,5,Çift Kişilik Deluxe,2351,False,False
+79,Harita Hotel,Adana,2023-06-23,1,Deniz Manzaralı Oda,3074,False,True
+80,Sunrise Hotel,İstanbul,2023-10-29,5,Deniz Manzaralı Oda,3704,True,False
+81,Diamond Hotel,Alanya,2023-12-06,6,Çift Kişilik Deluxe,4275,False,False
+82,Grand Otel,Mersin,2023-08-23,13,Junior Suit,3871,True,True
+83,Golden Crown,Muğla,2023-04-08,3,Kral Dairesi,2306,True,False
+84,Emerald Resort,Marmaris,2023-01-08,3,Junior Suit,2620,False,False
+85,Grand Otel,İstanbul,2023-06-04,14,Deniz Manzaralı Oda,1397,True,False
+86,Ocean View,Eskişehir,2023-04-01,2,Tek Kişilik Deluxe,1917,True,False
+87,City Hotel,Muğla,2023-12-31,11,Junior Suit,4679,True,False
+88,Golden Crown,Marmaris,2023-06-14,11,Aile Odası,2181,False,False
+89,City Hotel,İstanbul,2023-11-17,1,Executive Suit,2695,False,False
+90,Palm Beach,Konya,2023-09-11,10,Balkonlu Oda,2668,False,False
+91,Skyline Hotel,Kayseri,2023-10-23,7,Tek Kişilik Deluxe,1444,False,True
+92,Golden Crown,Antalya,2023-02-14,7,Tek Kişilik Deluxe,3197,True,True
+93,Ocean View,Side,2023-02-24,2,Executive Suit,3401,True,True
+94,Grand Otel,Side,2023-04-03,13,Executive Suit,4957,True,True
+95,City Hotel,Bodrum,2023-12-30,11,Balkonlu Oda,2313,False,True
+96,Diamond Hotel,Konya,2023-12-19,6,Çift Kişilik Standart,2709,False,False
+97,Grand Otel,Gaziantep,2023-03-09,13,Aile Odası,1905,False,False
+98,Golden Crown,Antalya,2023-06-19,2,Tek Kişilik Standart,1342,False,False
+99,Crystal Palace,Eskişehir,2023-01-02,1,Tek Kişilik Deluxe,4253,False,True
+100,Blue Bay Resort,İzmir,2023-12-29,9,Kral Dairesi,4042,False,True
+101,Crystal Palace,Marmaris,2023-04-04,2,Junior Suit,2688,False,False
+102,Harita Hotel,Kaş,2023-11-19,4,Tek Kişilik Deluxe,782,True,True
+103,Sunrise Hotel,Kayseri,2023-01-23,1,Balkonlu Oda,3069,True,True
+104,Star Hotel,Bodrum,2023-01-24,4,Aile Odası,2837,True,True
+105,Royal Garden,Ankara,2023-02-23,12,Deniz Manzaralı Oda,3927,True,True
+106,Sunrise Hotel,Kayseri,2023-01-30,13,Balkonlu Oda,4998,True,True
+107,Sahil Resort,Eskişehir,2023-12-31,11,Kral Dairesi,4565,False,True
+108,Star Hotel,Antalya,2023-07-14,9,Tek Kişilik Standart,1116,True,True
+109,Paradise Beach,Ankara,2023-05-11,9,Junior Suit,1922,False,False
+110,Crystal Palace,Antalya,2023-04-26,10,Tek Kişilik Deluxe,955,True,True
+111,Star Hotel,Gaziantep,2023-06-26,6,Tek Kişilik Deluxe,4293,True,False
+112,Blue Bay Resort,Mersin,2023-10-27,7,Balkonlu Oda,3848,False,False
+113,Emerald Resort,İstanbul,2023-07-28,10,Aile Odası,2708,False,True
+114,Emerald Resort,Isparta,2023-11-22,10,Tek Kişilik Standart,4243,True,True
+115,Crystal Palace,Ankara,2023-07-04,14,Kral Dairesi,909,True,True
+116,Emerald Resort,Adana,2023-12-04,10,Çift Kişilik Standart,1244,False,False
+117,Star Hotel,Antalya,2023-09-19,2,Junior Suit,2238,False,False
+118,Paradise Beach,Kuşadası,2023-09-16,2,Junior Suit,3725,True,True
+119,Crystal Palace,İstanbul,2023-10-15,8,Tek Kişilik Standart,1743,False,False
+120,Blue Bay Resort,Isparta,2023-02-05,11,Çift Kişilik Standart,4432,False,True
+121,Sahil Resort,Bodrum,2023-03-26,11,Çift Kişilik Deluxe,1354,True,False
+122,Emerald Resort,Ankara,2023-07-04,10,Aile Odası,2361,False,False
+123,Sahil Resort,Çeşme,2023-11-12,12,Deniz Manzaralı Oda,1779,True,False
+124,Sunrise Hotel,Alanya,2023-11-19,4,Tek Kişilik Deluxe,3590,True,True
+125,Silver Moon Hotel,İzmir,2023-06-16,13,Kral Dairesi,1667,True,False
+126,Paradise Beach,Eskişehir,2023-05-12,10,Tek Kişilik Deluxe,2789,True,False
+127,Grand Otel,Fethiye,2023-01-20,1,Balkonlu Oda,2203,True,False
+128,Sahil Resort,Mersin,2023-05-01,7,Tek Kişilik Deluxe,2132,False,True
+129,Silver Moon Hotel,Fethiye,2023-07-26,3,Aile Odası,887,True,True
+130,Star Hotel,Kayseri,2023-09-30,1,Çift Kişilik Standart,752,True,True
+131,Silver Moon Hotel,Marmaris,2023-01-14,1,Executive Suit,681,False,True
+132,Grand Otel,İstanbul,2023-05-03,7,Tek Kişilik Standart,2855,True,False
+133,Silver Moon Hotel,Gaziantep,2023-09-08,11,Kral Dairesi,1824,True,True
+134,Sahil Resort,Isparta,2023-04-18,2,Balkonlu Oda,4056,True,True
+135,Sunrise Hotel,Ankara,2023-01-13,12,Deniz Manzaralı Oda,2915,True,False
+136,Diamond Hotel,Kaş,2023-05-12,1,Kral Dairesi,3150,True,True
+137,Paradise Beach,Çeşme,2023-03-21,9,Balkonlu Oda,804,True,False
+138,Emerald Resort,Marmaris,2023-02-06,8,Tek Kişilik Deluxe,2025,False,True
+139,Blue Bay Resort,Kaş,2023-06-12,12,Kral Dairesi,4168,False,False
+140,Skyline Hotel,İzmir,2023-09-04,6,Tek Kişilik Deluxe,821,False,False
+141,Blue Bay Resort,Kaş,2023-06-29,13,Tek Kişilik Deluxe,779,False,True
+142,Emerald Resort,Isparta,2023-08-18,14,Çift Kişilik Deluxe,2817,True,False
+143,Grand Otel,Ankara,2023-09-27,1,Çift Kişilik Deluxe,834,False,True
+144,Royal Garden,Kayseri,2023-05-16,13,Tek Kişilik Deluxe,4145,False,True
+145,Diamond Hotel,Kaş,2023-09-04,5,Tek Kişilik Deluxe,1200,False,True
+146,Diamond Hotel,İzmir,2023-07-31,4,Balkonlu Oda,1884,False,False
+147,Silver Moon Hotel,Bodrum,2023-06-22,1,Tek Kişilik Deluxe,666,True,True
+148,Palm Beach,Eskişehir,2023-06-26,11,Junior Suit,3146,False,False
+149,Golden Crown,Alanya,2023-01-15,13,Kral Dairesi,983,True,True
+150,Golden Crown,Mersin,2023-01-28,3,Çift Kişilik Standart,3453,True,False
+151,Emerald Resort,Kuşadası,2023-09-01,8,Aile Odası,990,False,True
+152,Sunrise Hotel,Ankara,2023-09-04,2,Kral Dairesi,4852,False,True
+153,Star Hotel,Gaziantep,2023-12-22,6,Çift Kişilik Standart,2761,False,False
+154,Paradise Beach,Çeşme,2023-03-29,14,Junior Suit,1629,True,True
+155,Sunrise Hotel,Side,2023-04-06,11,Çift Kişilik Standart,3170,False,True
+156,Blue Bay Resort,Gaziantep,2023-01-09,10,Çift Kişilik Standart,1356,True,True
+157,Royal Garden,İstanbul,2023-04-30,11,Tek Kişilik Standart,1417,False,True
+158,Diamond Hotel,Kayseri,2023-01-28,7,Çift Kişilik Standart,944,False,True
+159,Mountain View,Mersin,2023-12-30,5,Çift Kişilik Standart,2409,True,False
+160,Blue Bay Resort,Adana,2023-02-27,5,Deniz Manzaralı Oda,1850,True,True
+161,Skyline Hotel,Kayseri,2023-03-16,11,Aile Odası,3805,False,True
+162,Ocean View,Ankara,2023-02-21,9,Kral Dairesi,2449,False,False
+163,Golden Crown,Gaziantep,2023-10-02,10,Tek Kişilik Deluxe,4791,False,True
+164,Paradise Beach,Ankara,2023-02-17,12,Tek Kişilik Deluxe,2763,False,False
+165,Golden Crown,Bodrum,2023-12-01,4,Balkonlu Oda,1221,True,False
+166,Golden Crown,İstanbul,2023-09-07,5,Tek Kişilik Standart,4247,True,True
+167,Mountain View,Bodrum,2023-04-14,4,Tek Kişilik Deluxe,3334,True,True
+168,Golden Crown,Kuşadası,2023-11-22,7,Çift Kişilik Standart,1584,True,False
+169,Sahil Resort,Kuşadası,2023-01-24,11,Çift Kişilik Deluxe,2206,False,False
+170,Harita Hotel,Antalya,2023-05-29,2,Deniz Manzaralı Oda,3342,False,False
+171,Sahil Resort,Antalya,2023-09-30,11,Kral Dairesi,2849,True,False
+172,Ocean View,Antalya,2023-09-15,4,Junior Suit,4334,True,True
+173,Blue Bay Resort,Muğla,2023-07-29,8,Kral Dairesi,955,False,True
+174,Golden Crown,Isparta,2023-09-03,1,Kral Dairesi,3546,False,True
+175,Harita Hotel,Marmaris,2023-03-02,7,Balkonlu Oda,3399,True,False
+176,City Hotel,Isparta,2023-05-13,9,Balkonlu Oda,1954,True,True
+177,Blue Bay Resort,İzmir,2023-09-29,11,Executive Suit,3434,True,False
+178,Star Hotel,Eskişehir,2023-01-16,6,Çift Kişilik Deluxe,1871,True,False
+179,Skyline Hotel,Side,2023-08-19,1,Executive Suit,2899,True,False
+180,City Hotel,Kaş,2023-03-29,9,Aile Odası,3218,False,True
+181,Harita Hotel,Alanya,2023-07-03,1,Çift Kişilik Deluxe,3032,False,False
+182,Diamond Hotel,Konya,2023-01-05,6,Balkonlu Oda,3270,True,False
+183,Ocean View,Gaziantep,2023-04-28,9,Junior Suit,2747,True,True
+184,Golden Crown,Çeşme,2023-03-29,4,Tek Kişilik Deluxe,3192,False,True
+185,Palm Beach,Alanya,2023-12-01,10,Çift Kişilik Standart,3482,False,True
+186,Skyline Hotel,Muğla,2023-10-02,11,Tek Kişilik Standart,3983,False,True
+187,Sunrise Hotel,Çeşme,2023-04-14,8,Kral Dairesi,1099,False,True
+188,Skyline Hotel,Fethiye,2023-01-28,2,Çift Kişilik Deluxe,2826,False,True
+189,Paradise Beach,Kaş,2023-03-20,14,Executive Suit,2310,False,True
+190,Silver Moon Hotel,İstanbul,2023-10-25,3,Junior Suit,2946,True,True
+191,Emerald Resort,Adana,2023-12-09,11,Junior Suit,1950,True,False
+192,Sunrise Hotel,Antalya,2023-03-11,8,Tek Kişilik Deluxe,4402,False,True
+193,Mountain View,Marmaris,2023-02-25,10,Tek Kişilik Deluxe,921,False,True
+194,Blue Bay Resort,Eskişehir,2023-02-11,8,Deniz Manzaralı Oda,3830,False,False
+195,Royal Garden,Muğla,2023-12-14,3,Deniz Manzaralı Oda,2389,True,False
+196,Blue Bay Resort,Fethiye,2023-05-15,3,Tek Kişilik Standart,646,True,False
+197,Diamond Hotel,İzmir,2023-09-13,8,Kral Dairesi,1258,False,False
+198,Silver Moon Hotel,Çeşme,2023-08-25,5,Aile Odası,1224,False,True
+199,Sunrise Hotel,Çeşme,2023-05-19,9,Çift Kişilik Standart,2982,True,True
+200,Skyline Hotel,Marmaris,2023-02-04,5,Balkonlu Oda,1462,False,True
+201,Sahil Resort,Fethiye,2023-08-29,1,Deniz Manzaralı Oda,3748,True,False
+202,Diamond Hotel,Kuşadası,2023-01-29,10,Tek Kişilik Deluxe,3057,False,False
+203,Golden Crown,İstanbul,2023-04-29,6,Balkonlu Oda,2919,True,False
+204,City Hotel,Alanya,2023-01-25,1,Çift Kişilik Deluxe,2670,True,False
+205,City Hotel,Muğla,2023-07-29,5,Tek Kişilik Deluxe,1498,False,True
+206,Royal Garden,Ankara,2023-06-07,5,Junior Suit,4592,False,True
+207,Golden Crown,Side,2023-09-19,1,Aile Odası,1671,True,False
+208,Crystal Palace,Side,2023-01-27,8,Çift Kişilik Deluxe,3478,False,True
+209,Palm Beach,Bodrum,2023-06-22,13,Junior Suit,3290,False,False
+210,Crystal Palace,Bodrum,2023-10-10,10,Çift Kişilik Standart,4762,True,False
+211,City Hotel,Kayseri,2023-03-08,14,Tek Kişilik Deluxe,3845,True,True
+212,Palm Beach,Mersin,2023-08-05,10,Tek Kişilik Deluxe,974,True,True
+213,Silver Moon Hotel,Bodrum,2023-05-30,9,Kral Dairesi,3540,True,True
+214,Star Hotel,Eskişehir,2023-03-11,5,Junior Suit,1464,True,True
+215,Ocean View,Adana,2023-06-07,10,Tek Kişilik Deluxe,4533,False,True
+216,Skyline Hotel,Isparta,2023-12-06,5,Tek Kişilik Deluxe,2108,False,True
+217,Star Hotel,Kaş,2023-11-15,1,Çift Kişilik Standart,4613,True,True
+218,Crystal Palace,Kayseri,2023-08-07,5,Executive Suit,4933,True,False
+219,Golden Crown,Muğla,2023-12-10,12,Tek Kişilik Standart,4494,False,False
+220,Harita Hotel,Gaziantep,2023-08-23,8,Junior Suit,4216,True,False
+221,Emerald Resort,Antalya,2023-09-04,8,Balkonlu Oda,1109,True,True
+222,Paradise Beach,Fethiye,2023-04-25,5,Tek Kişilik Deluxe,4219,False,True
+223,Crystal Palace,Konya,2023-01-06,2,Çift Kişilik Deluxe,1566,True,True
+224,Royal Garden,Side,2023-05-26,9,Tek Kişilik Deluxe,3579,True,True
+225,Palm Beach,İstanbul,2023-11-03,7,Balkonlu Oda,1976,False,False
+226,Harita Hotel,Side,2023-03-11,14,Deniz Manzaralı Oda,4917,True,True
+227,Sunrise Hotel,Isparta,2023-02-11,4,Balkonlu Oda,553,False,True
+228,Crystal Palace,Alanya,2023-02-27,5,Balkonlu Oda,3872,False,True
+229,Emerald Resort,Kayseri,2023-02-07,8,Deniz Manzaralı Oda,1776,True,False
+230,City Hotel,Marmaris,2023-03-17,1,Tek Kişilik Deluxe,1915,True,False
+231,Diamond Hotel,Konya,2023-04-04,5,Tek Kişilik Deluxe,4788,True,False
+232,Crystal Palace,Konya,2023-11-13,9,Junior Suit,2421,False,True
+233,City Hotel,Antalya,2023-03-15,1,Çift Kişilik Standart,1406,False,True
+234,Paradise Beach,Muğla,2023-07-26,1,Deniz Manzaralı Oda,3871,True,True
+235,Grand Otel,Çeşme,2023-07-31,4,Tek Kişilik Standart,3607,True,False
+236,Emerald Resort,Antalya,2023-06-28,9,Aile Odası,935,False,False
+237,Grand Otel,Ankara,2023-06-15,12,Tek Kişilik Standart,1031,True,False
+238,Diamond Hotel,Kaş,2023-07-15,13,Kral Dairesi,2590,True,True
+239,Golden Crown,Side,2023-09-14,2,Balkonlu Oda,1217,False,True
+240,Blue Bay Resort,Marmaris,2023-12-25,6,Çift Kişilik Standart,1646,True,True
+241,Sahil Resort,Kayseri,2023-02-20,13,Kral Dairesi,2729,False,True
+242,Silver Moon Hotel,Çeşme,2023-05-28,7,Tek Kişilik Deluxe,511,True,True
+243,Ocean View,Isparta,2023-10-03,14,Balkonlu Oda,4914,False,False
+244,Blue Bay Resort,Ankara,2023-02-17,6,Balkonlu Oda,4887,True,True
+245,Harita Hotel,Antalya,2023-04-30,4,Executive Suit,1562,False,False
+246,Diamond Hotel,Marmaris,2023-11-19,5,Balkonlu Oda,2729,False,True
+247,Sahil Resort,İzmir,2023-03-11,7,Executive Suit,619,True,False
+248,Crystal Palace,Eskişehir,2023-01-18,10,Deniz Manzaralı Oda,2520,True,True
+249,Golden Crown,Eskişehir,2023-02-05,5,Executive Suit,4148,False,False
+250,Crystal Palace,Isparta,2023-07-12,2,Çift Kişilik Deluxe,4765,False,True
+251,Golden Crown,İstanbul,2023-09-20,6,Balkonlu Oda,4806,False,False
+252,Golden Crown,Konya,2023-07-25,10,Balkonlu Oda,4833,True,False
+253,Star Hotel,İstanbul,2023-01-05,7,Balkonlu Oda,4706,True,False
+254,Palm Beach,Kaş,2023-05-20,9,Junior Suit,3301,True,False
+255,Skyline Hotel,Bodrum,2023-05-03,8,Çift Kişilik Standart,3438,False,True
+256,Diamond Hotel,Kayseri,2023-02-16,3,Çift Kişilik Deluxe,960,True,True
+257,Silver Moon Hotel,Konya,2023-12-17,14,Kral Dairesi,4345,False,True
+258,Royal Garden,Marmaris,2023-01-09,13,Çift Kişilik Standart,2478,True,False
+259,Emerald Resort,Konya,2023-03-20,3,Tek Kişilik Standart,3632,True,True
+260,Diamond Hotel,Adana,2023-06-14,3,Tek Kişilik Standart,4217,True,False
+261,Grand Otel,Bodrum,2023-04-19,13,Deniz Manzaralı Oda,2689,True,False
+262,Blue Bay Resort,Marmaris,2023-07-20,14,Aile Odası,2448,False,False
+263,Mountain View,Isparta,2023-05-02,5,Tek Kişilik Standart,4687,True,False
+264,Palm Beach,Muğla,2023-11-06,3,Balkonlu Oda,2135,False,False
+265,Ocean View,Ankara,2023-08-18,3,Balkonlu Oda,3929,False,False
+266,Silver Moon Hotel,İstanbul,2023-09-24,8,Executive Suit,4963,False,False
+267,Harita Hotel,Alanya,2023-07-29,11,Kral Dairesi,2089,False,True
+268,City Hotel,İzmir,2023-10-24,1,Executive Suit,3925,False,True
+269,Ocean View,Eskişehir,2023-09-23,2,Executive Suit,3373,True,False
+270,Sunrise Hotel,Marmaris,2023-03-20,6,Balkonlu Oda,2909,False,True
+271,Royal Garden,Kayseri,2023-07-20,1,Executive Suit,1164,True,False
+272,Golden Crown,Antalya,2023-09-20,10,Aile Odası,3928,True,True
+273,Emerald Resort,Mersin,2023-09-29,5,Tek Kişilik Deluxe,3166,True,True
+274,Sunrise Hotel,Bodrum,2023-08-06,8,Tek Kişilik Deluxe,1611,False,True
+275,Skyline Hotel,Muğla,2023-03-08,1,Çift Kişilik Standart,2353,False,False
+276,Harita Hotel,Çeşme,2023-06-18,6,Çift Kişilik Deluxe,3350,False,False
+277,Diamond Hotel,Kuşadası,2023-10-28,10,Tek Kişilik Deluxe,4855,True,True
+278,Sunrise Hotel,Isparta,2023-12-31,4,Tek Kişilik Deluxe,4530,True,True
+279,Royal Garden,Konya,2023-03-21,11,Çift Kişilik Deluxe,3785,False,False
+280,Emerald Resort,Side,2023-10-13,14,Kral Dairesi,2248,False,True
+281,Mountain View,Gaziantep,2023-04-09,3,Çift Kişilik Standart,4072,True,True
+282,Mountain View,Gaziantep,2023-02-24,8,Çift Kişilik Standart,4375,False,True
+283,Mountain View,Antalya,2023-09-20,14,Junior Suit,1812,True,True
+284,City Hotel,Gaziantep,2023-04-16,2,Çift Kişilik Deluxe,1524,False,False
+285,Silver Moon Hotel,Alanya,2023-08-04,12,Kral Dairesi,3592,True,True
+286,Blue Bay Resort,Kaş,2023-10-22,11,Deniz Manzaralı Oda,3235,False,True
+287,Blue Bay Resort,Ankara,2023-02-06,7,Aile Odası,1468,True,False
+288,Silver Moon Hotel,Isparta,2023-12-27,5,Tek Kişilik Standart,1993,True,False
+289,Emerald Resort,Adana,2023-03-13,5,Kral Dairesi,2027,True,True
+290,Sunrise Hotel,Konya,2023-11-15,8,Balkonlu Oda,1293,False,True
+291,Grand Otel,Marmaris,2023-05-30,8,Kral Dairesi,1911,True,False
+292,Mountain View,Eskişehir,2023-07-28,14,Executive Suit,3025,True,False
+293,Harita Hotel,Side,2023-05-21,13,Aile Odası,4455,True,True
+294,Blue Bay Resort,Fethiye,2023-09-20,10,Tek Kişilik Deluxe,2144,False,False
+295,Diamond Hotel,Fethiye,2023-09-28,1,Aile Odası,1899,False,True
+296,Harita Hotel,Gaziantep,2023-02-14,2,Kral Dairesi,1006,False,True
+297,Golden Crown,Fethiye,2023-04-04,14,Junior Suit,2562,False,True
+298,Mountain View,Side,2023-12-19,10,Executive Suit,4291,False,True
+299,Diamond Hotel,Kaş,2023-09-12,6,Aile Odası,4289,False,False
+300,Harita Hotel,Marmaris,2023-07-31,1,Tek Kişilik Deluxe,1469,False,True
+301,Harita Hotel,Çeşme,2023-07-19,8,Tek Kişilik Deluxe,3189,True,True
+302,Crystal Palace,İstanbul,2023-04-21,12,Executive Suit,3630,False,False
+303,Emerald Resort,İstanbul,2023-12-05,8,Executive Suit,2528,True,True
+304,Crystal Palace,İzmir,2023-03-16,4,Balkonlu Oda,3969,True,False
+305,Harita Hotel,Alanya,2023-11-22,2,Balkonlu Oda,2000,False,False
+306,Harita Hotel,Antalya,2023-11-01,8,Executive Suit,1644,True,False
+307,Diamond Hotel,Gaziantep,2023-07-20,10,Kral Dairesi,1923,True,False
+308,Diamond Hotel,Eskişehir,2024-01-01,10,Kral Dairesi,3492,False,True
+309,Harita Hotel,Fethiye,2023-01-05,10,Tek Kişilik Deluxe,1588,False,True
+310,Silver Moon Hotel,Antalya,2023-01-05,1,Çift Kişilik Standart,1044,False,True
+311,Skyline Hotel,Antalya,2023-06-03,9,Kral Dairesi,3903,False,True
+312,Sunrise Hotel,Isparta,2023-05-03,5,Kral Dairesi,1714,True,False
+313,Mountain View,Adana,2023-05-03,4,Deniz Manzaralı Oda,2520,True,True
+314,Harita Hotel,Kaş,2023-10-27,13,Çift Kişilik Deluxe,1041,False,True
+315,Grand Otel,Antalya,2023-06-19,8,Balkonlu Oda,4961,False,False
+316,Palm Beach,İzmir,2023-02-22,14,Tek Kişilik Deluxe,1079,False,True
+317,Star Hotel,Side,2023-04-26,14,Çift Kişilik Deluxe,2926,False,False
+318,Sunrise Hotel,İstanbul,2023-06-06,7,Deniz Manzaralı Oda,4725,True,True
+319,Paradise Beach,Kuşadası,2023-03-02,1,Çift Kişilik Standart,4650,False,True
+320,Ocean View,İstanbul,2023-01-23,14,Çift Kişilik Standart,1362,True,False
+321,Grand Otel,Adana,2023-06-15,4,Aile Odası,1616,True,False
+322,Skyline Hotel,Adana,2023-11-03,6,Tek Kişilik Deluxe,3784,False,True
+323,Paradise Beach,Antalya,2023-05-24,2,Çift Kişilik Deluxe,1801,True,False
+324,Crystal Palace,Konya,2023-08-26,1,Tek Kişilik Standart,1193,False,False
+325,Golden Crown,Kaş,2023-06-19,4,Tek Kişilik Deluxe,2509,False,True
+326,Mountain View,Konya,2023-06-27,13,Tek Kişilik Standart,1971,False,True
+327,Paradise Beach,Kayseri,2023-12-14,3,Çift Kişilik Standart,789,False,False
+328,Mountain View,Eskişehir,2023-05-01,6,Kral Dairesi,2133,False,False
+329,Crystal Palace,Kaş,2023-08-29,9,Executive Suit,708,False,False
+330,Crystal Palace,Adana,2023-12-29,2,Çift Kişilik Standart,4121,True,True
+331,Palm Beach,Isparta,2023-10-30,4,Çift Kişilik Standart,4700,True,True
+332,Sunrise Hotel,Muğla,2023-09-21,11,Tek Kişilik Standart,2424,True,False
+333,Emerald Resort,Ankara,2023-08-20,10,Deniz Manzaralı Oda,4477,True,True
+334,City Hotel,Muğla,2023-08-31,14,Deniz Manzaralı Oda,3563,True,True
+335,Emerald Resort,Kaş,2023-01-14,10,Kral Dairesi,3561,True,True
+336,Diamond Hotel,Alanya,2023-06-14,9,Kral Dairesi,4886,True,False
+337,Mountain View,Ankara,2023-07-25,5,Balkonlu Oda,858,False,False
+338,Skyline Hotel,Çeşme,2023-09-09,8,Executive Suit,796,True,True
+339,Mountain View,Adana,2023-04-22,7,Çift Kişilik Standart,3927,True,True
+340,Diamond Hotel,İstanbul,2023-10-15,7,Tek Kişilik Standart,3940,False,False
+341,Ocean View,Mersin,2023-11-14,12,Executive Suit,936,True,False
+342,Sunrise Hotel,Fethiye,2023-06-17,7,Tek Kişilik Standart,783,True,False
+343,Paradise Beach,Eskişehir,2023-01-31,5,Aile Odası,4682,True,True
+344,Silver Moon Hotel,Bodrum,2023-03-04,2,Executive Suit,3059,True,False
+345,Sunrise Hotel,Isparta,2023-07-10,8,Aile Odası,1050,True,False
+346,Silver Moon Hotel,Çeşme,2023-12-18,5,Çift Kişilik Standart,2716,True,False
+347,Palm Beach,Kaş,2023-11-30,3,Executive Suit,1201,False,True
+348,Crystal Palace,Mersin,2023-07-03,5,Tek Kişilik Standart,4668,False,True
+349,Diamond Hotel,Ankara,2023-08-26,11,Executive Suit,952,True,True
+350,Harita Hotel,Adana,2023-12-27,4,Aile Odası,1892,True,False
+351,Mountain View,Kuşadası,2023-07-08,8,Deniz Manzaralı Oda,4527,False,False
+352,Paradise Beach,Çeşme,2023-09-26,7,Çift Kişilik Deluxe,3413,False,False
+353,Harita Hotel,Bodrum,2023-04-22,7,Junior Suit,4796,True,True
+354,Star Hotel,İzmir,2023-06-05,13,Junior Suit,2622,True,False
+355,Skyline Hotel,Kaş,2023-10-05,11,Tek Kişilik Standart,4592,True,False
+356,Sahil Resort,İstanbul,2023-08-31,10,Junior Suit,2092,True,False
+357,Palm Beach,Antalya,2023-02-28,9,Kral Dairesi,4328,False,False
+358,City Hotel,Antalya,2023-01-30,4,Tek Kişilik Deluxe,3006,True,False
+359,Crystal Palace,Eskişehir,2023-07-16,7,Junior Suit,3976,False,True
+360,Silver Moon Hotel,Kuşadası,2023-09-20,5,Çift Kişilik Standart,3104,True,True
+361,Grand Otel,Antalya,2023-07-14,10,Çift Kişilik Standart,1504,True,True
+362,Emerald Resort,Isparta,2023-05-25,12,Balkonlu Oda,2162,False,True
+363,City Hotel,Fethiye,2023-04-29,13,Kral Dairesi,810,False,True
+364,Paradise Beach,Konya,2023-12-13,12,Tek Kişilik Deluxe,2935,True,False
+365,Royal Garden,Marmaris,2023-12-13,13,Çift Kişilik Deluxe,1959,True,True
+366,City Hotel,Ankara,2023-01-25,5,Çift Kişilik Deluxe,3843,False,False
+367,Mountain View,Isparta,2023-01-15,2,Balkonlu Oda,4662,True,False
+368,Palm Beach,Adana,2023-10-26,13,Balkonlu Oda,1190,False,True
+369,Harita Hotel,Antalya,2023-04-25,9,Aile Odası,4273,False,False
+370,Paradise Beach,Antalya,2023-03-08,13,Junior Suit,2308,True,False
+371,Silver Moon Hotel,Eskişehir,2023-06-14,8,Kral Dairesi,2875,True,True
+372,Grand Otel,Alanya,2023-05-14,9,Junior Suit,915,True,True
+373,Silver Moon Hotel,Gaziantep,2023-01-02,8,Tek Kişilik Deluxe,2530,False,True
+374,Emerald Resort,Kuşadası,2023-11-09,8,Deniz Manzaralı Oda,2777,False,False
+375,Blue Bay Resort,Isparta,2023-06-28,10,Çift Kişilik Standart,3363,False,True
+376,Emerald Resort,Side,2023-04-23,12,Kral Dairesi,4411,True,False
+377,Emerald Resort,Kaş,2023-08-06,5,Tek Kişilik Deluxe,886,False,False
+378,Emerald Resort,Eskişehir,2023-02-26,13,Çift Kişilik Deluxe,3821,False,False
+379,Royal Garden,Side,2023-03-12,10,Tek Kişilik Deluxe,1017,True,True
+380,Grand Otel,Isparta,2023-01-02,12,Tek Kişilik Deluxe,1757,False,False
+381,Palm Beach,Side,2023-07-14,2,Junior Suit,1690,False,False
+382,Palm Beach,Alanya,2023-06-06,7,Çift Kişilik Standart,4116,False,False
+383,Silver Moon Hotel,Isparta,2023-05-29,8,Tek Kişilik Deluxe,1127,True,True
+384,Palm Beach,Mersin,2023-07-21,9,Kral Dairesi,4771,False,True
+385,Skyline Hotel,Ankara,2023-09-15,4,Balkonlu Oda,4389,True,True
+386,Royal Garden,Gaziantep,2023-07-26,6,Tek Kişilik Standart,2537,False,True
+387,Harita Hotel,Eskişehir,2023-07-04,7,Çift Kişilik Deluxe,1168,False,False
+388,Palm Beach,Gaziantep,2023-01-30,14,Junior Suit,2358,True,False
+389,Emerald Resort,Kaş,2023-07-27,10,Çift Kişilik Standart,1438,False,False
+390,Ocean View,Konya,2023-01-31,12,Aile Odası,1727,True,True
+391,Star Hotel,İstanbul,2023-11-27,14,Tek Kişilik Deluxe,835,True,True
+392,Palm Beach,Side,2023-10-22,10,Tek Kişilik Deluxe,1204,False,False
+393,Grand Otel,Adana,2023-12-26,3,Çift Kişilik Deluxe,1718,False,True
+394,Blue Bay Resort,Antalya,2023-05-18,12,Çift Kişilik Standart,4574,True,False
+395,City Hotel,Kaş,2023-06-27,3,Tek Kişilik Deluxe,3713,False,True
+396,City Hotel,Kuşadası,2023-01-25,11,Kral Dairesi,2278,False,False
+397,City Hotel,Isparta,2023-09-04,12,Deniz Manzaralı Oda,2570,True,True
+398,Silver Moon Hotel,İstanbul,2023-11-15,8,Çift Kişilik Standart,4369,False,False
+399,Star Hotel,Fethiye,2023-11-05,13,Tek Kişilik Standart,4008,False,True
+400,Golden Crown,Bodrum,2023-11-19,3,Tek Kişilik Deluxe,4422,True,True
+401,Harita Hotel,Eskişehir,2023-06-10,3,Kral Dairesi,1255,False,False
+402,Emerald Resort,Konya,2023-12-16,3,Tek Kişilik Standart,3344,True,False
+403,Grand Otel,İstanbul,2023-10-16,5,Tek Kişilik Standart,3034,False,False
+404,Blue Bay Resort,Çeşme,2023-12-18,14,Çift Kişilik Standart,4184,False,False
+405,Royal Garden,Alanya,2023-05-20,3,Balkonlu Oda,2888,True,True
+406,Royal Garden,Çeşme,2023-11-25,9,Junior Suit,3292,False,False
+407,Skyline Hotel,Mersin,2023-06-30,10,Aile Odası,1057,False,False
+408,Grand Otel,Side,2023-07-18,7,Deniz Manzaralı Oda,3261,True,True
+409,Harita Hotel,Fethiye,2023-11-24,7,Tek Kişilik Deluxe,3229,True,True
+410,Golden Crown,Fethiye,2023-02-07,4,Junior Suit,2715,False,False
+411,Emerald Resort,Ankara,2023-08-27,5,Kral Dairesi,4073,False,False
+412,Golden Crown,İstanbul,2023-04-01,12,Executive Suit,2567,False,False
+413,Golden Crown,Ankara,2023-01-16,6,Aile Odası,4188,True,False
+414,Golden Crown,İzmir,2023-05-11,12,Kral Dairesi,1810,False,True
+415,Blue Bay Resort,Adana,2023-11-25,10,Aile Odası,3022,True,True
+416,Ocean View,İstanbul,2023-09-12,2,Tek Kişilik Deluxe,2182,False,False
+417,Mountain View,Alanya,2023-07-07,12,Çift Kişilik Deluxe,4989,True,True
+418,Grand Otel,Kuşadası,2023-03-30,3,Deniz Manzaralı Oda,3776,True,False
+419,Palm Beach,Marmaris,2023-06-21,4,Tek Kişilik Standart,818,True,False
+420,Blue Bay Resort,Bodrum,2023-12-23,2,Tek Kişilik Deluxe,1862,False,True
+421,Ocean View,Fethiye,2023-09-12,12,Balkonlu Oda,4841,True,True
+422,Crystal Palace,Çeşme,2023-10-18,2,Junior Suit,1866,False,False
+423,Grand Otel,Side,2023-06-29,7,Junior Suit,4903,False,False
+424,Harita Hotel,İstanbul,2023-05-20,5,Executive Suit,1273,True,True
+425,Mountain View,Kayseri,2023-10-23,4,Aile Odası,2463,False,True
+426,Diamond Hotel,İstanbul,2023-03-13,2,Aile Odası,3085,False,False
+427,City Hotel,Ankara,2023-01-15,12,Junior Suit,2995,False,True
+428,Ocean View,Isparta,2023-06-21,12,Çift Kişilik Deluxe,2076,False,True
+429,Crystal Palace,Alanya,2023-03-27,14,Tek Kişilik Standart,4349,False,True
+430,Sahil Resort,Eskişehir,2023-05-22,13,Çift Kişilik Deluxe,4136,True,True
+431,Blue Bay Resort,Side,2023-01-09,11,Junior Suit,4252,False,False
+432,Star Hotel,Isparta,2023-02-24,9,Deniz Manzaralı Oda,3740,True,True
+433,Blue Bay Resort,Alanya,2023-10-18,8,Balkonlu Oda,4186,True,False
+434,Sunrise Hotel,Ankara,2023-06-03,12,Tek Kişilik Deluxe,4628,False,True
+435,Sunrise Hotel,Kayseri,2023-10-22,7,Aile Odası,3466,False,False
+436,City Hotel,İzmir,2023-08-10,10,Aile Odası,1746,False,False
+437,Golden Crown,Çeşme,2023-11-21,14,Aile Odası,2081,True,True
+438,Silver Moon Hotel,Eskişehir,2023-07-09,2,Aile Odası,3516,False,False
+439,Harita Hotel,Ankara,2023-05-17,2,Çift Kişilik Deluxe,3814,True,True
+440,Paradise Beach,Alanya,2023-11-20,14,Junior Suit,3699,True,False
+441,Silver Moon Hotel,Adana,2023-02-03,9,Tek Kişilik Deluxe,3126,True,True
+442,Skyline Hotel,Mersin,2023-04-27,11,Balkonlu Oda,1638,False,True
+443,City Hotel,İstanbul,2023-08-07,10,Aile Odası,1703,True,False
+444,Star Hotel,Bodrum,2023-10-29,1,Balkonlu Oda,3496,False,False
+445,Sunrise Hotel,Marmaris,2023-12-28,13,Junior Suit,597,False,True
+446,Paradise Beach,İzmir,2023-04-22,3,Junior Suit,1591,False,False
+447,Sahil Resort,Muğla,2023-04-15,1,Tek Kişilik Deluxe,1758,False,True
+448,Sunrise Hotel,Muğla,2023-08-30,5,Kral Dairesi,913,False,False
+449,Mountain View,Ankara,2023-11-02,2,Aile Odası,3874,False,True
+450,Paradise Beach,Mersin,2023-06-06,1,Deniz Manzaralı Oda,4983,False,False
+451,Emerald Resort,Konya,2023-05-22,13,Çift Kişilik Deluxe,4017,False,True
+452,Sunrise Hotel,Muğla,2023-05-19,6,Tek Kişilik Deluxe,660,False,True
+453,Harita Hotel,İstanbul,2023-03-20,3,Çift Kişilik Deluxe,1342,True,False
+454,Harita Hotel,Antalya,2023-04-23,13,Çift Kişilik Deluxe,4960,False,True
+455,Golden Crown,İstanbul,2023-12-28,8,Çift Kişilik Deluxe,4538,True,False
+456,Emerald Resort,Bodrum,2023-07-19,10,Kral Dairesi,3927,False,True
+457,Diamond Hotel,Antalya,2023-04-25,6,Kral Dairesi,4924,False,False
+458,City Hotel,Isparta,2023-06-18,5,Çift Kişilik Deluxe,1124,False,True
+459,Sahil Resort,Çeşme,2023-10-21,9,Balkonlu Oda,4643,True,False
+460,Sunrise Hotel,Fethiye,2023-07-02,4,Çift Kişilik Deluxe,4579,False,True
+461,City Hotel,Konya,2023-07-04,3,Executive Suit,2074,True,False
+462,Mountain View,Çeşme,2023-08-09,3,Çift Kişilik Deluxe,4042,False,False
+463,Harita Hotel,Gaziantep,2023-03-29,4,Aile Odası,1215,False,True
+464,Mountain View,Kaş,2023-01-18,9,Junior Suit,4520,False,True
+465,Blue Bay Resort,Eskişehir,2023-07-04,8,Çift Kişilik Standart,2913,True,False
+466,Royal Garden,Kuşadası,2023-10-29,9,Executive Suit,3671,True,True
+467,Mountain View,Gaziantep,2023-11-15,11,Tek Kişilik Deluxe,1769,True,True
+468,Blue Bay Resort,Kuşadası,2023-12-01,1,Çift Kişilik Standart,3419,True,False
+469,Paradise Beach,Bodrum,2023-09-17,2,Junior Suit,2638,True,False
+470,Paradise Beach,Bodrum,2023-07-12,11,Tek Kişilik Deluxe,3705,False,True
+471,Royal Garden,Muğla,2023-11-21,5,Junior Suit,2574,True,True
+472,Emerald Resort,İzmir,2023-02-13,14,Aile Odası,1511,True,False
+473,Grand Otel,Fethiye,2023-10-23,8,Kral Dairesi,594,False,False
+474,Royal Garden,Kuşadası,2023-03-29,1,Junior Suit,3271,False,True
+475,Silver Moon Hotel,Bodrum,2023-04-06,1,Executive Suit,4392,False,False
+476,Golden Crown,Bodrum,2023-04-30,8,Junior Suit,3685,True,True
+477,City Hotel,Kayseri,2023-07-13,4,Tek Kişilik Deluxe,2669,True,True
+478,Royal Garden,Fethiye,2023-03-21,10,Balkonlu Oda,2127,False,False
+479,Mountain View,Mersin,2023-12-19,9,Tek Kişilik Standart,1909,True,True
+480,Emerald Resort,Eskişehir,2023-11-14,11,Çift Kişilik Deluxe,1747,True,True
+481,Sahil Resort,Çeşme,2023-08-31,12,Junior Suit,4069,True,False
+482,Ocean View,Kuşadası,2023-12-15,1,Kral Dairesi,4351,False,False
+483,City Hotel,Bodrum,2023-08-01,11,Kral Dairesi,957,False,False
+484,Royal Garden,Eskişehir,2023-08-18,6,Çift Kişilik Standart,3089,True,False
+485,Palm Beach,Konya,2023-02-09,1,Kral Dairesi,2407,True,True
+486,Palm Beach,Eskişehir,2023-04-10,13,Tek Kişilik Standart,4622,True,True
+487,Palm Beach,Ankara,2023-06-08,2,Aile Odası,2592,False,True
+488,Silver Moon Hotel,Side,2023-12-26,7,Çift Kişilik Standart,2168,False,True
+489,Silver Moon Hotel,Konya,2023-08-01,4,Aile Odası,845,False,False
+490,Diamond Hotel,Kaş,2023-11-14,1,Tek Kişilik Deluxe,819,True,False
+491,Harita Hotel,Çeşme,2023-03-02,10,Balkonlu Oda,2840,False,True
+492,Golden Crown,Eskişehir,2023-11-06,11,Çift Kişilik Standart,3829,True,True
+493,Grand Otel,Gaziantep,2023-03-08,14,Balkonlu Oda,3722,True,True
+494,Mountain View,Muğla,2023-04-06,8,Çift Kişilik Deluxe,3632,False,True
+495,Diamond Hotel,Mersin,2023-10-02,5,Tek Kişilik Standart,1732,True,True
+496,Silver Moon Hotel,Ankara,2023-08-09,12,Çift Kişilik Standart,2943,False,False
+497,Mountain View,Bodrum,2023-05-10,10,Balkonlu Oda,647,False,True
+498,Paradise Beach,Kayseri,2023-02-05,7,Çift Kişilik Deluxe,4525,True,True
+499,Palm Beach,Alanya,2023-02-04,10,Deniz Manzaralı Oda,3531,True,False
+500,Grand Otel,Gaziantep,2023-07-22,6,Tek Kişilik Standart,1684,False,False
+501,City Hotel,Isparta,2023-05-14,13,Aile Odası,4029,True,False
+502,Star Hotel,Marmaris,2023-03-01,14,Balkonlu Oda,4070,False,False
+503,Royal Garden,Muğla,2023-08-07,2,Çift Kişilik Standart,3857,False,True
+504,Mountain View,Gaziantep,2023-11-03,8,Aile Odası,4461,True,True
+505,Ocean View,Marmaris,2023-03-09,13,Çift Kişilik Standart,715,False,False
+506,City Hotel,Eskişehir,2023-07-14,2,Balkonlu Oda,3177,True,True
+507,Mountain View,Kaş,2023-09-18,6,Balkonlu Oda,3201,False,True
+508,Mountain View,Isparta,2023-02-07,13,Çift Kişilik Deluxe,2740,False,False
+509,Skyline Hotel,Konya,2023-02-12,8,Aile Odası,1546,True,True
+510,Palm Beach,Mersin,2023-08-08,9,Çift Kişilik Standart,739,False,True
+511,City Hotel,Kaş,2023-01-05,13,Executive Suit,2050,True,False
+512,Emerald Resort,Marmaris,2023-06-07,8,Balkonlu Oda,3662,False,True
+513,Star Hotel,Alanya,2023-08-05,12,Tek Kişilik Standart,2856,True,False
+514,Paradise Beach,Mersin,2023-11-07,7,Kral Dairesi,526,True,True
+515,Harita Hotel,İzmir,2023-12-09,6,Kral Dairesi,3028,False,True
+516,Paradise Beach,Side,2023-02-22,9,Balkonlu Oda,1636,False,True
+517,Silver Moon Hotel,Side,2023-12-13,3,Balkonlu Oda,3968,False,True
+518,Diamond Hotel,Ankara,2023-09-04,7,Çift Kişilik Standart,767,True,True
+519,Mountain View,Ankara,2023-05-29,1,Çift Kişilik Standart,2621,True,False
+520,City Hotel,Ankara,2023-03-11,10,Deniz Manzaralı Oda,3809,True,True
+521,Crystal Palace,İzmir,2023-06-27,5,Aile Odası,997,False,True
+522,Crystal Palace,Eskişehir,2023-11-25,6,Tek Kişilik Standart,648,False,True
+523,Diamond Hotel,Muğla,2023-09-29,14,Kral Dairesi,2561,False,True
+524,Palm Beach,İstanbul,2023-07-06,14,Çift Kişilik Deluxe,4082,True,False
+525,Silver Moon Hotel,Isparta,2023-12-07,7,Kral Dairesi,3716,True,False
+526,Skyline Hotel,Ankara,2023-10-27,1,Tek Kişilik Deluxe,4670,True,False
+527,Star Hotel,Kuşadası,2023-06-19,12,Çift Kişilik Deluxe,1927,True,True
+528,Mountain View,Gaziantep,2023-10-17,11,Balkonlu Oda,2733,False,True
+529,Sunrise Hotel,Bodrum,2023-04-09,6,Çift Kişilik Deluxe,3504,True,True
+530,Royal Garden,Konya,2023-02-03,1,Kral Dairesi,1890,True,True
+531,Emerald Resort,Konya,2023-10-02,8,Junior Suit,3578,False,False
+532,Sunrise Hotel,Marmaris,2023-01-23,12,Tek Kişilik Standart,2502,False,True
+533,Golden Crown,Kaş,2023-02-05,9,Kral Dairesi,4962,True,True
+534,Silver Moon Hotel,Kayseri,2023-04-14,4,Aile Odası,4081,False,True
+535,Royal Garden,Kaş,2023-03-23,3,Tek Kişilik Deluxe,4073,True,True
+536,Silver Moon Hotel,Eskişehir,2023-05-20,6,Kral Dairesi,3334,True,True
+537,Royal Garden,Side,2023-10-02,6,Tek Kişilik Deluxe,3234,True,True
+538,Royal Garden,Muğla,2023-12-21,13,Aile Odası,2706,True,False
+539,Golden Crown,Antalya,2023-03-28,12,Tek Kişilik Deluxe,4334,True,False
+540,Diamond Hotel,Mersin,2023-04-04,5,Aile Odası,4162,True,True
+541,Paradise Beach,İstanbul,2023-04-14,6,Aile Odası,1193,False,True
+542,Skyline Hotel,Ankara,2023-06-19,11,Deniz Manzaralı Oda,4420,True,False
+543,Star Hotel,Gaziantep,2023-11-12,14,Executive Suit,3342,True,True
+544,City Hotel,İzmir,2023-03-16,3,Aile Odası,2994,True,True
+545,Sahil Resort,Adana,2023-06-28,4,Executive Suit,856,True,True
+546,Star Hotel,İstanbul,2023-03-07,7,Deniz Manzaralı Oda,4325,True,False
+547,Ocean View,İstanbul,2023-11-09,10,Balkonlu Oda,4749,True,False
+548,Crystal Palace,Muğla,2023-06-19,13,Deniz Manzaralı Oda,1722,False,False
+549,Star Hotel,Kayseri,2023-01-02,2,Kral Dairesi,2244,True,True
+550,Sunrise Hotel,Alanya,2023-09-29,12,Deniz Manzaralı Oda,4169,True,False
+551,Blue Bay Resort,Konya,2023-03-05,14,Executive Suit,4017,True,True
+552,Palm Beach,Fethiye,2023-01-16,12,Kral Dairesi,1073,False,True
+553,Palm Beach,Fethiye,2023-08-08,5,Junior Suit,962,True,True
+554,Royal Garden,Antalya,2023-03-09,5,Deniz Manzaralı Oda,718,False,True
+555,Sunrise Hotel,Ankara,2024-01-01,14,Tek Kişilik Standart,3208,False,False
+556,Star Hotel,Konya,2023-11-28,9,Executive Suit,4141,True,False
+557,City Hotel,Isparta,2023-07-02,12,Çift Kişilik Deluxe,2998,True,False
+558,Star Hotel,Adana,2023-02-10,5,Kral Dairesi,4398,True,True
+559,Grand Otel,Eskişehir,2023-05-18,8,Tek Kişilik Standart,3116,False,True
+560,Skyline Hotel,Eskişehir,2023-05-05,9,Kral Dairesi,3175,True,True
+561,Crystal Palace,Muğla,2023-07-22,13,Balkonlu Oda,2267,False,False
+562,Skyline Hotel,Antalya,2023-04-03,13,Executive Suit,2544,False,False
+563,Blue Bay Resort,İstanbul,2023-04-12,4,Executive Suit,3105,False,True
+564,Blue Bay Resort,Fethiye,2023-01-06,14,Tek Kişilik Deluxe,4831,True,False
+565,Paradise Beach,Çeşme,2023-02-22,1,Aile Odası,3532,False,True
+566,Golden Crown,İstanbul,2023-10-12,10,Executive Suit,1269,True,False
+567,Crystal Palace,Kuşadası,2023-10-21,5,Executive Suit,4135,True,False
+568,Diamond Hotel,Muğla,2023-06-29,9,Kral Dairesi,2181,True,True
+569,Golden Crown,Kuşadası,2023-02-03,12,Junior Suit,951,True,True
+570,Paradise Beach,Ankara,2023-11-30,12,Balkonlu Oda,1046,True,True
+571,Crystal Palace,Marmaris,2023-04-17,13,Aile Odası,4290,True,True
+572,Star Hotel,Çeşme,2023-02-14,6,Çift Kişilik Standart,2419,True,False
+573,Palm Beach,Isparta,2023-12-01,12,Executive Suit,1825,False,True
+574,Blue Bay Resort,Kaş,2023-11-22,4,Tek Kişilik Standart,4730,False,True
+575,Ocean View,Gaziantep,2023-04-11,5,Executive Suit,3451,False,False
+576,Silver Moon Hotel,Antalya,2023-03-04,11,Deniz Manzaralı Oda,4990,False,False
+577,Emerald Resort,Çeşme,2023-07-05,9,Balkonlu Oda,1514,False,False
+578,Star Hotel,Konya,2023-12-23,3,Çift Kişilik Standart,833,True,False
+579,Ocean View,Ankara,2023-05-28,3,Aile Odası,3727,True,False
+580,Golden Crown,Konya,2023-03-26,2,Çift Kişilik Deluxe,642,False,True
+581,City Hotel,Konya,2023-12-20,11,Balkonlu Oda,4528,True,True
+582,Silver Moon Hotel,Konya,2023-05-20,6,Kral Dairesi,4155,True,True
+583,Silver Moon Hotel,Konya,2023-02-18,5,Junior Suit,4010,True,True
+584,Star Hotel,Alanya,2023-02-17,7,Executive Suit,2600,False,True
+585,Sunrise Hotel,İzmir,2023-06-04,9,Çift Kişilik Standart,3857,True,True
+586,Crystal Palace,Side,2023-12-10,7,Tek Kişilik Standart,2979,True,True
+587,Crystal Palace,Adana,2023-11-22,6,Deniz Manzaralı Oda,1852,False,False
+588,Ocean View,Gaziantep,2023-04-08,13,Junior Suit,2647,False,True
+589,Sahil Resort,Çeşme,2023-03-25,13,Deniz Manzaralı Oda,4679,True,False
+590,Harita Hotel,Isparta,2023-07-21,9,Tek Kişilik Standart,3070,False,True
+591,Silver Moon Hotel,Kuşadası,2023-10-13,12,Tek Kişilik Deluxe,2807,True,False
+592,Emerald Resort,Ankara,2023-12-26,3,Tek Kişilik Deluxe,2571,False,True
+593,Skyline Hotel,Side,2023-07-24,4,Junior Suit,1104,False,True
+594,Emerald Resort,Ankara,2023-06-26,13,Tek Kişilik Standart,3344,False,False
+595,Palm Beach,Side,2023-05-14,10,Deniz Manzaralı Oda,1128,False,True
+596,Blue Bay Resort,Eskişehir,2023-03-08,11,Tek Kişilik Standart,4311,False,False
+597,Sahil Resort,Adana,2023-09-10,11,Kral Dairesi,2578,True,True
+598,Star Hotel,Kayseri,2023-11-27,1,Kral Dairesi,2207,True,True
+599,Paradise Beach,Gaziantep,2023-01-06,5,Junior Suit,3576,False,True
+600,Paradise Beach,Adana,2023-08-13,10,Aile Odası,2812,False,False
+601,Golden Crown,Antalya,2023-03-03,10,Junior Suit,4564,True,True
+602,Star Hotel,Konya,2023-01-05,12,Tek Kişilik Standart,2669,True,False
+603,Sunrise Hotel,Alanya,2023-01-27,3,Balkonlu Oda,3617,False,False
+604,Crystal Palace,Adana,2023-03-20,8,Deniz Manzaralı Oda,1407,False,True
+605,Harita Hotel,İzmir,2023-05-06,8,Tek Kişilik Standart,4241,False,True
+606,Sahil Resort,Fethiye,2023-11-07,7,Balkonlu Oda,4074,True,True
+607,Crystal Palace,Eskişehir,2023-09-03,3,Tek Kişilik Standart,986,False,True
+608,City Hotel,Muğla,2023-02-18,3,Tek Kişilik Standart,1445,True,True
+609,Silver Moon Hotel,İstanbul,2023-02-10,9,Tek Kişilik Standart,4116,True,False
+610,Skyline Hotel,Bodrum,2023-02-07,10,Balkonlu Oda,528,False,True
+611,City Hotel,Fethiye,2023-12-31,1,Balkonlu Oda,3093,False,True
+612,Golden Crown,Muğla,2023-08-15,5,Aile Odası,2332,False,True
+613,Sahil Resort,Konya,2023-12-06,12,Executive Suit,2562,True,True
+614,Crystal Palace,Antalya,2023-02-26,5,Tek Kişilik Standart,1438,False,False
+615,Blue Bay Resort,Bodrum,2023-11-24,12,Çift Kişilik Standart,3404,True,False
+616,Harita Hotel,Eskişehir,2023-06-26,14,Çift Kişilik Standart,3396,False,False
+617,Diamond Hotel,Gaziantep,2023-02-06,3,Balkonlu Oda,3444,False,True
+618,Sunrise Hotel,Çeşme,2023-04-29,11,Tek Kişilik Standart,2966,False,True
+619,Golden Crown,Fethiye,2023-08-04,6,Kral Dairesi,1824,True,True
+620,Paradise Beach,Gaziantep,2023-06-25,14,Aile Odası,4921,False,True
+621,Crystal Palace,Marmaris,2023-01-31,7,Çift Kişilik Standart,4844,False,True
+622,Royal Garden,Fethiye,2023-05-18,3,Çift Kişilik Deluxe,2907,False,False
+623,Royal Garden,Kaş,2023-05-10,13,Çift Kişilik Standart,3503,True,False
+624,City Hotel,Çeşme,2023-07-31,12,Executive Suit,3855,True,True
+625,Paradise Beach,Gaziantep,2023-08-03,14,Aile Odası,4171,True,True
+626,Silver Moon Hotel,Eskişehir,2023-09-06,5,Executive Suit,3414,True,True
+627,Crystal Palace,Gaziantep,2023-11-08,5,Junior Suit,955,False,False
+628,Emerald Resort,Marmaris,2023-11-07,5,Deniz Manzaralı Oda,3286,True,True
+629,Mountain View,İstanbul,2023-01-30,5,Executive Suit,2749,True,False
+630,Grand Otel,Gaziantep,2023-12-16,4,Tek Kişilik Deluxe,1911,True,False
+631,Palm Beach,Kaş,2023-10-30,7,Deniz Manzaralı Oda,4554,True,False
+632,Sahil Resort,Eskişehir,2023-11-28,5,Executive Suit,4239,False,True
+633,Crystal Palace,Isparta,2023-05-16,5,Aile Odası,3164,True,False
+634,Sahil Resort,Alanya,2023-11-06,2,Çift Kişilik Deluxe,1109,False,True
+635,Skyline Hotel,Fethiye,2023-08-06,7,Çift Kişilik Deluxe,2427,False,True
+636,Blue Bay Resort,Ankara,2023-09-13,6,Kral Dairesi,4078,True,False
+637,Paradise Beach,Mersin,2023-11-02,8,Çift Kişilik Deluxe,3993,True,True
+638,Blue Bay Resort,Muğla,2023-04-16,1,Deniz Manzaralı Oda,4036,False,False
+639,Mountain View,İstanbul,2023-02-07,7,Balkonlu Oda,1953,False,True
+640,Blue Bay Resort,Fethiye,2023-03-23,3,Junior Suit,4571,False,True
+641,Sahil Resort,Kaş,2023-03-06,11,Executive Suit,3545,False,True
+642,Skyline Hotel,Konya,2023-07-06,5,Çift Kişilik Deluxe,769,False,True
+643,Royal Garden,Antalya,2023-09-30,10,Kral Dairesi,1513,True,False
+644,Sahil Resort,Eskişehir,2023-07-07,14,Tek Kişilik Deluxe,2811,False,False
+645,Diamond Hotel,Muğla,2023-03-17,2,Junior Suit,4650,False,True
+646,Sahil Resort,Fethiye,2023-10-24,3,Balkonlu Oda,2601,True,False
+647,Ocean View,Kaş,2023-01-11,14,Çift Kişilik Deluxe,4402,False,True
+648,City Hotel,Mersin,2023-02-24,8,Deniz Manzaralı Oda,1605,True,True
+649,Silver Moon Hotel,Marmaris,2023-01-27,14,Aile Odası,4311,False,True
+650,Palm Beach,Antalya,2023-12-02,12,Junior Suit,4173,False,False
+651,Golden Crown,Mersin,2023-04-26,3,Kral Dairesi,3627,False,False
+652,Emerald Resort,Kuşadası,2023-03-21,2,Tek Kişilik Deluxe,1483,True,False
+653,Grand Otel,Marmaris,2023-09-21,5,Executive Suit,1697,False,True
+654,Royal Garden,Side,2023-03-13,6,Executive Suit,3527,True,False
+655,Silver Moon Hotel,Kaş,2023-06-11,6,Balkonlu Oda,4988,False,False
+656,Harita Hotel,Kuşadası,2023-04-14,7,Çift Kişilik Deluxe,3971,True,True
+657,Ocean View,İzmir,2023-09-20,11,Executive Suit,1077,False,True
+658,Royal Garden,Bodrum,2023-10-28,7,Aile Odası,3516,True,False
+659,Crystal Palace,Side,2023-03-14,10,Tek Kişilik Deluxe,4936,False,False
+660,Mountain View,Alanya,2023-05-28,7,Kral Dairesi,4329,False,True
+661,Emerald Resort,Gaziantep,2023-02-25,14,Junior Suit,4614,False,False
+662,Emerald Resort,Isparta,2023-11-04,6,Tek Kişilik Deluxe,3968,True,True
+663,Mountain View,Fethiye,2023-10-23,6,Deniz Manzaralı Oda,713,True,False
+664,Paradise Beach,İstanbul,2023-10-09,9,Çift Kişilik Deluxe,1556,False,True
+665,Skyline Hotel,Kuşadası,2023-08-31,6,Balkonlu Oda,4466,True,True
+666,Star Hotel,Fethiye,2023-11-10,10,Balkonlu Oda,824,True,False
+667,Palm Beach,Kayseri,2023-01-27,6,Tek Kişilik Standart,1370,True,True
+668,Paradise Beach,Konya,2023-10-16,7,Tek Kişilik Standart,2788,True,True
+669,Crystal Palace,Bodrum,2023-10-14,12,Tek Kişilik Deluxe,1800,True,False
+670,Crystal Palace,Kayseri,2023-03-12,5,Kral Dairesi,898,True,True
+671,Royal Garden,Ankara,2023-03-12,13,Tek Kişilik Standart,2810,False,True
+672,Crystal Palace,Fethiye,2023-11-13,13,Tek Kişilik Standart,3490,False,True
+673,Emerald Resort,Kayseri,2023-06-24,7,Kral Dairesi,2521,False,True
+674,Golden Crown,İzmir,2023-08-04,3,Tek Kişilik Standart,4360,False,False
+675,Crystal Palace,Kayseri,2023-04-28,6,Deniz Manzaralı Oda,1774,True,True
+676,Mountain View,İstanbul,2023-08-28,12,Çift Kişilik Deluxe,526,False,True
+677,Grand Otel,Çeşme,2023-12-21,11,Kral Dairesi,549,False,False
+678,City Hotel,Kayseri,2023-09-29,14,Çift Kişilik Deluxe,1791,False,False
+679,Sunrise Hotel,Alanya,2023-09-19,6,Balkonlu Oda,4835,True,True
+680,Ocean View,Side,2023-05-27,5,Kral Dairesi,2162,True,True
+681,Crystal Palace,Alanya,2023-04-23,7,Tek Kişilik Standart,658,False,False
+682,Blue Bay Resort,Gaziantep,2023-03-24,13,Tek Kişilik Deluxe,4660,False,True
+683,Grand Otel,Gaziantep,2023-09-18,6,Executive Suit,3374,True,False
+684,Sahil Resort,Alanya,2023-02-13,13,Deniz Manzaralı Oda,3982,True,True
+685,Emerald Resort,Bodrum,2023-12-25,6,Tek Kişilik Standart,1270,False,False
+686,Diamond Hotel,Kuşadası,2023-01-20,9,Junior Suit,1779,True,True
+687,Golden Crown,Ankara,2023-04-19,12,Balkonlu Oda,3873,False,False
+688,Royal Garden,Kaş,2023-10-30,7,Tek Kişilik Standart,4649,False,False
+689,Ocean View,Kayseri,2023-10-16,10,Tek Kişilik Standart,1893,False,False
+690,Skyline Hotel,İstanbul,2023-03-10,3,Tek Kişilik Deluxe,2819,False,True
+691,Silver Moon Hotel,Kaş,2023-09-13,6,Çift Kişilik Standart,591,False,True
+692,Crystal Palace,İstanbul,2023-03-29,4,Balkonlu Oda,3619,False,False
+693,Sahil Resort,Isparta,2023-08-07,10,Tek Kişilik Deluxe,2812,False,True
+694,Mountain View,Konya,2023-11-11,10,Çift Kişilik Deluxe,4506,True,False
+695,Sunrise Hotel,Antalya,2023-02-18,1,Aile Odası,1938,False,True
+696,Star Hotel,Fethiye,2023-05-02,7,Balkonlu Oda,3523,False,False
+697,Sunrise Hotel,Kayseri,2023-01-12,12,Tek Kişilik Standart,984,True,False
+698,Skyline Hotel,Marmaris,2023-03-27,13,Çift Kişilik Standart,600,True,True
+699,Ocean View,İstanbul,2023-04-02,4,Deniz Manzaralı Oda,3785,True,True
+700,Skyline Hotel,İstanbul,2023-08-31,14,Deniz Manzaralı Oda,3330,True,True
+701,Palm Beach,Kuşadası,2023-02-01,13,Çift Kişilik Deluxe,3625,True,True
+702,Royal Garden,Alanya,2023-10-16,11,Kral Dairesi,528,True,True
+703,Crystal Palace,Isparta,2023-04-15,12,Aile Odası,777,False,False
+704,Sunrise Hotel,Mersin,2023-01-24,8,Balkonlu Oda,3848,True,False
+705,Mountain View,Side,2023-09-08,12,Çift Kişilik Deluxe,716,False,False
+706,Ocean View,İzmir,2023-04-23,4,Kral Dairesi,4351,False,True
+707,Silver Moon Hotel,Kuşadası,2023-05-16,3,Çift Kişilik Deluxe,1129,True,True
+708,Crystal Palace,İzmir,2023-01-07,13,Çift Kişilik Standart,3997,False,True
+709,Silver Moon Hotel,Kaş,2023-08-08,5,Junior Suit,937,False,True
+710,Sunrise Hotel,Side,2023-12-31,9,Çift Kişilik Standart,3175,True,False
+711,Ocean View,Mersin,2023-02-21,11,Çift Kişilik Standart,3994,False,False
+712,Emerald Resort,Fethiye,2023-11-13,11,Junior Suit,4199,True,True
+713,Emerald Resort,Kaş,2023-08-23,1,Junior Suit,2086,True,False
+714,Mountain View,Eskişehir,2023-09-06,11,Junior Suit,4052,False,False
+715,Palm Beach,Fethiye,2023-01-26,4,Deniz Manzaralı Oda,3684,False,True
+716,Palm Beach,Isparta,2023-07-16,14,Çift Kişilik Deluxe,3123,False,False
+717,Crystal Palace,Alanya,2023-08-25,4,Tek Kişilik Deluxe,1155,True,True
+718,Blue Bay Resort,Çeşme,2023-12-22,8,Çift Kişilik Deluxe,3180,False,True
+719,Grand Otel,İstanbul,2023-03-11,14,Çift Kişilik Deluxe,1239,False,True
+720,Royal Garden,Fethiye,2023-07-02,2,Tek Kişilik Deluxe,4568,True,True
+721,Blue Bay Resort,Mersin,2023-08-08,6,Junior Suit,536,True,False
+722,Ocean View,Isparta,2023-08-23,14,Deniz Manzaralı Oda,1334,True,True
+723,Grand Otel,İzmir,2023-04-05,6,Çift Kişilik Deluxe,739,False,False
+724,Palm Beach,Muğla,2023-05-14,2,Çift Kişilik Standart,3909,True,True
+725,Golden Crown,Fethiye,2023-11-25,1,Tek Kişilik Deluxe,3605,False,False
+726,Crystal Palace,Adana,2023-12-23,14,Çift Kişilik Standart,3439,False,False
+727,Paradise Beach,İzmir,2023-06-15,3,Kral Dairesi,3594,False,True
+728,Sunrise Hotel,Kayseri,2023-05-04,10,Kral Dairesi,2122,False,True
+729,Sahil Resort,İstanbul,2023-02-20,3,Çift Kişilik Standart,3191,True,False
+730,Blue Bay Resort,İzmir,2023-01-24,6,Çift Kişilik Standart,2828,False,False
+731,Sahil Resort,Adana,2023-05-22,12,Aile Odası,1760,False,True
+732,Harita Hotel,Konya,2023-04-30,9,Çift Kişilik Standart,1367,False,True
+733,Emerald Resort,Adana,2023-02-20,7,Junior Suit,1286,False,False
+734,Silver Moon Hotel,Alanya,2023-09-24,13,Executive Suit,4690,False,False
+735,Emerald Resort,Side,2023-06-30,2,Tek Kişilik Deluxe,1218,True,False
+736,Crystal Palace,Fethiye,2023-03-08,7,Çift Kişilik Deluxe,2781,False,True
+737,Harita Hotel,Konya,2023-07-12,9,Tek Kişilik Standart,2880,True,True
+738,Star Hotel,Çeşme,2023-01-27,8,Tek Kişilik Deluxe,2818,False,False
+739,Sunrise Hotel,Alanya,2023-08-02,6,Tek Kişilik Standart,898,False,False
+740,Sahil Resort,Kuşadası,2023-10-02,10,Executive Suit,3951,False,False
+741,Skyline Hotel,Fethiye,2023-08-01,12,Deniz Manzaralı Oda,914,True,False
+742,Diamond Hotel,Isparta,2023-05-10,10,Kral Dairesi,1438,False,False
+743,Royal Garden,Antalya,2023-10-15,12,Tek Kişilik Deluxe,4799,False,False
+744,Ocean View,Çeşme,2023-12-05,7,Kral Dairesi,715,True,True
+745,Diamond Hotel,Kaş,2023-09-03,12,Tek Kişilik Deluxe,4633,False,False
+746,Star Hotel,Eskişehir,2023-08-04,9,Aile Odası,2718,False,True
+747,Silver Moon Hotel,Antalya,2023-03-10,3,Aile Odası,1061,False,False
+748,Diamond Hotel,Side,2023-12-22,2,Tek Kişilik Deluxe,4646,False,False
+749,Skyline Hotel,Fethiye,2023-05-06,11,Tek Kişilik Deluxe,4807,True,False
+750,City Hotel,Eskişehir,2023-12-15,13,Executive Suit,3501,False,True
+751,Emerald Resort,Fethiye,2023-04-29,13,Aile Odası,3885,False,True
+752,Star Hotel,Side,2023-08-01,7,Junior Suit,4827,False,False
+753,Star Hotel,Gaziantep,2023-03-16,7,Junior Suit,2347,False,False
+754,Star Hotel,Fethiye,2023-10-21,6,Junior Suit,3935,True,True
+755,Star Hotel,Konya,2023-09-21,13,Tek Kişilik Standart,2993,False,False
+756,Palm Beach,Eskişehir,2023-10-03,10,Çift Kişilik Standart,1094,False,False
+757,City Hotel,Isparta,2023-09-11,3,Aile Odası,3849,True,True
+758,Sunrise Hotel,Alanya,2023-06-16,14,Deniz Manzaralı Oda,1066,True,True
+759,Golden Crown,Kayseri,2023-11-20,10,Tek Kişilik Standart,1928,True,True
+760,City Hotel,Bodrum,2023-03-26,14,Kral Dairesi,939,True,False
+761,Mountain View,Muğla,2023-08-31,9,Junior Suit,846,True,False
+762,Paradise Beach,Fethiye,2023-07-14,10,Tek Kişilik Standart,1222,True,True
+763,Sahil Resort,Eskişehir,2023-09-14,2,Junior Suit,1478,True,True
+764,Star Hotel,Konya,2023-06-01,14,Junior Suit,1016,False,True
+765,Mountain View,İzmir,2023-04-17,12,Junior Suit,1945,True,True
+766,Sunrise Hotel,Mersin,2023-03-30,11,Balkonlu Oda,4689,True,True
+767,Silver Moon Hotel,Adana,2023-05-07,11,Çift Kişilik Deluxe,3533,False,False
+768,Ocean View,Adana,2023-02-06,7,Executive Suit,979,True,False
+769,Paradise Beach,Kayseri,2023-12-21,14,Deniz Manzaralı Oda,2100,False,True
+770,City Hotel,Isparta,2023-09-12,12,Kral Dairesi,2055,False,True
+771,Blue Bay Resort,İstanbul,2023-06-15,14,Aile Odası,4328,True,False
+772,Grand Otel,Antalya,2023-04-01,13,Deniz Manzaralı Oda,508,True,False
+773,Royal Garden,Çeşme,2023-07-30,14,Aile Odası,4562,True,True
+774,Golden Crown,İzmir,2023-04-13,8,Balkonlu Oda,4929,False,True
+775,Skyline Hotel,Konya,2023-11-20,6,Çift Kişilik Standart,4771,False,True
+776,Sunrise Hotel,Alanya,2023-06-19,5,Aile Odası,3169,False,False
+777,Star Hotel,Bodrum,2023-11-15,2,Deniz Manzaralı Oda,3252,False,True
+778,Golden Crown,Kayseri,2023-07-21,11,Kral Dairesi,1650,False,True
+779,Ocean View,Muğla,2023-04-13,3,Kral Dairesi,1114,False,False
+780,City Hotel,Gaziantep,2023-11-09,5,Executive Suit,4937,True,False
+781,Skyline Hotel,Kayseri,2023-06-24,12,Çift Kişilik Standart,4815,True,False
+782,Emerald Resort,İzmir,2023-06-30,10,Tek Kişilik Standart,3897,False,False
+783,City Hotel,Eskişehir,2023-04-13,3,Balkonlu Oda,4042,True,True
+784,Star Hotel,Adana,2023-09-09,4,Tek Kişilik Standart,1033,False,False
+785,Silver Moon Hotel,Çeşme,2023-08-01,2,Tek Kişilik Deluxe,3778,False,False
+786,Palm Beach,Side,2023-04-30,8,Executive Suit,2191,False,False
+787,Skyline Hotel,Ankara,2023-07-02,2,Balkonlu Oda,3413,False,True
+788,Golden Crown,Isparta,2023-05-23,11,Balkonlu Oda,1810,True,True
+789,Palm Beach,Eskişehir,2023-02-05,13,Junior Suit,2469,False,False
+790,Emerald Resort,Gaziantep,2023-10-08,4,Çift Kişilik Standart,2750,True,False
+791,Palm Beach,Ankara,2023-12-17,1,Aile Odası,2814,False,False
+792,Diamond Hotel,Gaziantep,2023-12-02,13,Balkonlu Oda,2174,False,False
+793,Grand Otel,İzmir,2023-02-21,5,Tek Kişilik Standart,2343,False,True
+794,Grand Otel,Ankara,2023-07-07,11,Aile Odası,3777,True,True
+795,Emerald Resort,İzmir,2023-12-29,8,Aile Odası,894,True,True
+796,Emerald Resort,Kuşadası,2023-02-20,8,Aile Odası,2325,False,True
+797,Emerald Resort,Gaziantep,2023-05-16,1,Kral Dairesi,4597,True,False
+798,Blue Bay Resort,Muğla,2023-02-13,8,Aile Odası,4688,True,False
+799,Blue Bay Resort,Gaziantep,2023-12-12,8,Tek Kişilik Deluxe,3389,True,False
+800,Sunrise Hotel,Çeşme,2023-07-08,9,Aile Odası,3589,True,False
+801,Diamond Hotel,Ankara,2023-01-26,10,Aile Odası,3562,False,True
+802,Golden Crown,Çeşme,2023-06-24,7,Çift Kişilik Deluxe,3695,True,True
+803,Emerald Resort,Adana,2023-12-09,5,Balkonlu Oda,4615,False,True
+804,Sahil Resort,Kuşadası,2023-01-03,4,Junior Suit,3326,False,False
+805,Golden Crown,Isparta,2023-03-02,9,Çift Kişilik Standart,3420,True,True
+806,Golden Crown,Isparta,2023-11-15,5,Tek Kişilik Deluxe,3088,False,False
+807,Emerald Resort,Kaş,2023-07-31,5,Tek Kişilik Deluxe,2642,False,False
+808,Diamond Hotel,Bodrum,2023-04-30,1,Çift Kişilik Standart,3316,True,True
+809,Palm Beach,Isparta,2023-08-17,10,Kral Dairesi,700,True,False
+810,Paradise Beach,Kuşadası,2023-02-21,8,Aile Odası,4084,True,True
+811,Emerald Resort,Bodrum,2023-08-15,2,Balkonlu Oda,3836,True,False
+812,Sahil Resort,İzmir,2023-12-03,12,Tek Kişilik Standart,4441,True,False
+813,City Hotel,Gaziantep,2023-09-26,12,Çift Kişilik Standart,999,False,True
+814,Silver Moon Hotel,Adana,2023-04-22,5,Tek Kişilik Standart,3341,False,False
+815,Sahil Resort,Isparta,2023-04-19,11,Çift Kişilik Standart,3577,True,False
+816,Palm Beach,Gaziantep,2023-01-13,9,Aile Odası,1516,False,True
+817,Diamond Hotel,Kuşadası,2023-07-02,12,Balkonlu Oda,3342,False,False
+818,Sahil Resort,Marmaris,2023-11-06,6,Çift Kişilik Deluxe,1289,False,True
+819,Golden Crown,İzmir,2023-08-20,7,Deniz Manzaralı Oda,3369,False,True
+820,Sahil Resort,Bodrum,2023-10-20,6,Çift Kişilik Deluxe,2245,True,True
+821,Harita Hotel,İzmir,2023-11-09,7,Çift Kişilik Deluxe,2722,True,False
+822,Emerald Resort,Side,2023-03-27,4,Deniz Manzaralı Oda,3898,False,True
+823,Emerald Resort,Gaziantep,2023-11-18,13,Tek Kişilik Deluxe,1423,True,False
+824,Emerald Resort,Alanya,2023-05-30,1,Aile Odası,1574,False,False
+825,Emerald Resort,Side,2023-11-04,11,Executive Suit,3061,False,False
+826,Silver Moon Hotel,Fethiye,2023-03-02,2,Aile Odası,2721,True,True
+827,Palm Beach,Antalya,2023-01-18,7,Çift Kişilik Deluxe,2037,True,True
+828,Star Hotel,Mersin,2023-06-23,4,Kral Dairesi,2651,False,True
+829,Sunrise Hotel,Alanya,2023-02-11,12,Çift Kişilik Deluxe,1317,True,False
+830,Silver Moon Hotel,Bodrum,2023-03-22,6,Tek Kişilik Standart,3856,False,False
+831,Crystal Palace,İstanbul,2023-03-25,1,Tek Kişilik Standart,890,True,False
+832,Grand Otel,Konya,2023-12-26,10,Executive Suit,3726,False,False
+833,Golden Crown,Eskişehir,2023-06-28,9,Kral Dairesi,2632,False,True
+834,Crystal Palace,Çeşme,2023-11-07,4,Tek Kişilik Deluxe,3829,False,False
+835,Palm Beach,Fethiye,2023-08-14,9,Tek Kişilik Deluxe,4507,False,False
+836,Mountain View,Isparta,2023-04-18,14,Çift Kişilik Deluxe,3892,False,True
+837,Royal Garden,Fethiye,2023-02-10,1,Tek Kişilik Deluxe,1575,True,True
+838,Diamond Hotel,Side,2023-07-19,9,Deniz Manzaralı Oda,4820,False,False
+839,Royal Garden,Alanya,2023-12-13,3,Tek Kişilik Standart,2968,False,False
+840,Blue Bay Resort,Eskişehir,2023-11-01,8,Tek Kişilik Deluxe,3242,False,False
+841,Mountain View,Kuşadası,2023-04-20,14,Çift Kişilik Deluxe,2125,True,False
+842,Sahil Resort,Çeşme,2023-02-22,10,Junior Suit,2377,False,True
+843,Blue Bay Resort,Muğla,2023-10-24,7,Çift Kişilik Deluxe,3286,True,True
+844,Paradise Beach,Konya,2023-05-12,6,Tek Kişilik Standart,938,True,False
+845,Grand Otel,Kaş,2023-02-25,2,Aile Odası,3557,False,True
+846,Harita Hotel,Adana,2023-01-09,12,Tek Kişilik Deluxe,742,True,True
+847,Crystal Palace,Side,2023-01-11,6,Aile Odası,3955,True,False
+848,Golden Crown,Adana,2023-05-13,3,Executive Suit,4631,False,True
+849,Harita Hotel,Kuşadası,2023-12-10,8,Deniz Manzaralı Oda,4618,True,True
+850,Sahil Resort,Kaş,2023-09-27,6,Kral Dairesi,4584,True,True
+851,Star Hotel,Isparta,2023-08-19,10,Tek Kişilik Deluxe,4387,False,False
+852,Paradise Beach,Ankara,2023-09-25,11,Çift Kişilik Standart,3272,True,False
+853,Paradise Beach,Ankara,2023-07-15,9,Junior Suit,3158,False,True
+854,Blue Bay Resort,İzmir,2023-08-17,8,Çift Kişilik Standart,1203,True,True
+855,Sunrise Hotel,Kuşadası,2023-06-29,1,Tek Kişilik Deluxe,2040,True,True
+856,Skyline Hotel,Side,2023-04-06,6,Balkonlu Oda,523,True,True
+857,Star Hotel,Kayseri,2023-06-30,13,Balkonlu Oda,983,False,True
+858,Ocean View,Ankara,2023-03-24,4,Kral Dairesi,1216,True,True
+859,Crystal Palace,Antalya,2023-11-22,3,Çift Kişilik Deluxe,1618,False,True
+860,Crystal Palace,Isparta,2023-04-10,4,Aile Odası,1586,False,False
+861,Diamond Hotel,Side,2023-11-28,11,Junior Suit,874,False,False
+862,Diamond Hotel,Kaş,2023-02-21,11,Deniz Manzaralı Oda,2511,True,False
+863,Mountain View,Antalya,2023-05-10,11,Kral Dairesi,4023,False,False
+864,Emerald Resort,Antalya,2023-12-08,2,Aile Odası,3765,True,False
+865,Palm Beach,Gaziantep,2023-01-21,4,Deniz Manzaralı Oda,3340,True,False
+866,Paradise Beach,Antalya,2023-10-03,4,Çift Kişilik Deluxe,2221,False,True
+867,Crystal Palace,Alanya,2023-05-17,13,Balkonlu Oda,773,True,True
+868,Sahil Resort,Kaş,2023-12-02,1,Tek Kişilik Deluxe,2099,True,True
+869,Royal Garden,Side,2023-08-15,4,Executive Suit,4785,True,False
+870,Skyline Hotel,Side,2023-04-12,5,Junior Suit,3392,False,False
+871,Golden Crown,Antalya,2023-12-05,8,Tek Kişilik Deluxe,4215,False,True
+872,City Hotel,Kuşadası,2023-05-10,1,Junior Suit,4314,False,True
+873,City Hotel,Bodrum,2023-06-19,3,Çift Kişilik Standart,3095,False,True
+874,Golden Crown,Çeşme,2023-08-28,10,Kral Dairesi,4742,True,False
+875,Skyline Hotel,Ankara,2023-10-29,6,Tek Kişilik Standart,2532,False,True
+876,Sunrise Hotel,Marmaris,2023-08-26,7,Aile Odası,1788,False,True
+877,Star Hotel,İzmir,2023-05-31,6,Kral Dairesi,4297,True,True
+878,Sahil Resort,Adana,2023-12-18,14,Balkonlu Oda,3518,True,True
+879,Harita Hotel,Marmaris,2023-04-11,11,Tek Kişilik Standart,2931,True,False
+880,Star Hotel,Side,2023-10-11,11,Aile Odası,4055,True,True
+881,Diamond Hotel,Adana,2023-04-09,10,Çift Kişilik Standart,1719,False,True
+882,Harita Hotel,Side,2023-11-14,9,Çift Kişilik Deluxe,2613,True,True
+883,Ocean View,Çeşme,2023-04-05,10,Tek Kişilik Deluxe,3618,False,False
+884,Sunrise Hotel,Alanya,2023-03-03,7,Tek Kişilik Deluxe,548,True,True
+885,Paradise Beach,Kayseri,2023-05-08,1,Tek Kişilik Deluxe,2549,False,False
+886,Crystal Palace,Marmaris,2023-10-31,8,Çift Kişilik Standart,769,True,False
+887,Blue Bay Resort,Side,2023-07-20,5,Çift Kişilik Standart,1887,True,False
+888,Ocean View,Kayseri,2023-04-14,6,Executive Suit,2165,True,True
+889,Sahil Resort,Eskişehir,2023-09-13,4,Tek Kişilik Standart,3106,False,False
+890,Paradise Beach,Konya,2023-08-16,12,Junior Suit,656,False,False
+891,Emerald Resort,İzmir,2023-06-03,14,Balkonlu Oda,4978,True,True
+892,Sahil Resort,Side,2023-01-11,1,Executive Suit,4378,True,False
+893,Emerald Resort,Mersin,2023-06-27,8,Aile Odası,4062,False,True
+894,Emerald Resort,Fethiye,2023-04-01,5,Çift Kişilik Deluxe,3278,True,False
+895,Ocean View,Muğla,2023-04-13,1,Junior Suit,3827,True,True
+896,Diamond Hotel,Gaziantep,2023-11-21,7,Deniz Manzaralı Oda,3082,True,True
+897,Mountain View,Antalya,2023-03-02,13,Çift Kişilik Standart,1461,True,True
+898,Sahil Resort,Muğla,2023-08-21,5,Executive Suit,2079,True,True
+899,Harita Hotel,Adana,2024-01-01,1,Deniz Manzaralı Oda,4162,False,True
+900,Diamond Hotel,Muğla,2023-12-05,6,Tek Kişilik Standart,790,False,False
+901,Grand Otel,Side,2023-06-13,4,Tek Kişilik Deluxe,2286,False,True
+902,Sahil Resort,İstanbul,2023-01-31,12,Junior Suit,2064,False,False
+903,Harita Hotel,Isparta,2023-12-25,7,Aile Odası,1033,True,True
+904,Harita Hotel,Eskişehir,2023-03-02,3,Çift Kişilik Standart,4495,True,True
+905,Emerald Resort,Ankara,2023-02-12,2,Çift Kişilik Deluxe,3149,True,True
+906,Sunrise Hotel,Mersin,2023-09-25,14,Aile Odası,4083,False,False
+907,Sunrise Hotel,Kaş,2023-02-03,11,Aile Odası,1982,False,True
+908,Mountain View,Adana,2023-11-21,13,Tek Kişilik Standart,1468,True,False
+909,Paradise Beach,Ankara,2023-06-05,11,Çift Kişilik Standart,2104,False,False
+910,Grand Otel,Eskişehir,2023-06-01,3,Balkonlu Oda,3546,False,False
+911,Crystal Palace,Alanya,2023-09-04,14,Çift Kişilik Standart,3031,False,True
+912,City Hotel,Fethiye,2023-05-31,7,Executive Suit,3081,False,True
+913,Ocean View,Gaziantep,2023-10-01,7,Aile Odası,2360,True,False
+914,Emerald Resort,Kaş,2023-04-24,11,Tek Kişilik Deluxe,3166,True,False
+915,Paradise Beach,Marmaris,2023-12-11,7,Tek Kişilik Standart,966,False,True
+916,Diamond Hotel,Marmaris,2023-03-23,12,Tek Kişilik Standart,1870,True,False
+917,Mountain View,İstanbul,2023-12-16,8,Deniz Manzaralı Oda,2835,True,False
+918,Emerald Resort,Muğla,2023-02-20,2,Deniz Manzaralı Oda,4094,False,False
+919,Crystal Palace,Isparta,2023-06-01,9,Deniz Manzaralı Oda,3105,False,True
+920,Sunrise Hotel,Gaziantep,2023-03-30,9,Junior Suit,1350,False,False
+921,Sunrise Hotel,Kayseri,2023-04-05,2,Çift Kişilik Deluxe,2333,False,True
+922,Royal Garden,İstanbul,2023-02-13,5,Balkonlu Oda,2716,False,True
+923,Ocean View,Side,2023-12-02,12,Tek Kişilik Deluxe,3361,True,True
+924,Sunrise Hotel,Antalya,2023-11-28,10,Tek Kişilik Deluxe,965,False,True
+925,Royal Garden,Gaziantep,2023-01-21,1,Balkonlu Oda,3372,False,True
+926,Sunrise Hotel,Eskişehir,2023-04-12,4,Kral Dairesi,1756,False,True
+927,Crystal Palace,Konya,2023-09-16,2,Balkonlu Oda,1745,True,False
+928,Star Hotel,Mersin,2023-03-26,12,Aile Odası,1034,False,False
+929,Silver Moon Hotel,Mersin,2023-12-16,1,Çift Kişilik Standart,1625,False,False
+930,Crystal Palace,Antalya,2023-03-24,14,Çift Kişilik Standart,708,True,False
+931,Sunrise Hotel,Fethiye,2023-11-17,1,Tek Kişilik Deluxe,533,False,True
+932,Blue Bay Resort,Isparta,2023-08-28,1,Tek Kişilik Standart,4770,False,True
+933,Emerald Resort,Fethiye,2023-05-28,1,Çift Kişilik Deluxe,2140,True,True
+934,Harita Hotel,Muğla,2023-01-01,13,Tek Kişilik Standart,2115,False,False
+935,Star Hotel,Muğla,2023-11-25,8,Tek Kişilik Deluxe,2516,False,False
+936,Sahil Resort,Konya,2023-10-24,1,Çift Kişilik Deluxe,2946,False,True
+937,Royal Garden,Antalya,2023-08-03,3,Çift Kişilik Standart,4991,False,False
+938,Diamond Hotel,Fethiye,2023-12-22,1,Tek Kişilik Deluxe,4352,False,True
+939,Ocean View,Bodrum,2023-04-02,11,Tek Kişilik Standart,2991,True,False
+940,Sunrise Hotel,Mersin,2023-10-27,8,Balkonlu Oda,3164,False,False
+941,City Hotel,İstanbul,2023-01-10,12,Tek Kişilik Deluxe,4902,False,True
+942,Sunrise Hotel,Adana,2023-08-14,12,Aile Odası,518,True,False
+943,Sahil Resort,Ankara,2023-04-17,6,Aile Odası,2000,False,False
+944,Diamond Hotel,İzmir,2023-05-08,5,Çift Kişilik Deluxe,2416,True,False
+945,Golden Crown,Konya,2023-08-13,10,Çift Kişilik Standart,4912,True,False
+946,Mountain View,Adana,2023-04-01,1,Çift Kişilik Standart,2368,True,False
+947,Crystal Palace,Muğla,2023-07-23,6,Çift Kişilik Standart,1581,False,False
+948,Paradise Beach,Adana,2023-05-03,2,Çift Kişilik Deluxe,638,True,True
+949,Royal Garden,Kuşadası,2023-12-09,4,Çift Kişilik Deluxe,989,False,False
+950,Sahil Resort,Gaziantep,2023-02-24,10,Tek Kişilik Standart,1618,False,False
+951,Silver Moon Hotel,Antalya,2023-03-17,8,Tek Kişilik Standart,1575,False,False
+952,Mountain View,Alanya,2023-06-12,2,Çift Kişilik Standart,4163,True,False
+953,Sahil Resort,Isparta,2023-01-10,2,Tek Kişilik Deluxe,2593,True,False
+954,Star Hotel,Muğla,2023-08-26,7,Aile Odası,1288,False,True
+955,City Hotel,Muğla,2023-04-15,10,Executive Suit,3529,False,True
+956,Emerald Resort,Antalya,2023-02-03,12,Deniz Manzaralı Oda,1167,False,False
+957,Skyline Hotel,Konya,2023-01-29,7,Aile Odası,3859,False,False
+958,Sunrise Hotel,Konya,2023-08-30,6,Çift Kişilik Deluxe,2469,False,True
+959,Skyline Hotel,Kayseri,2023-09-09,6,Executive Suit,4791,True,False
+960,Silver Moon Hotel,Mersin,2023-07-13,5,Executive Suit,4024,False,False
+961,Palm Beach,Kayseri,2023-04-18,6,Çift Kişilik Standart,3166,False,True
+962,City Hotel,İstanbul,2023-10-02,12,Executive Suit,853,True,True
+963,Royal Garden,İzmir,2023-12-12,6,Kral Dairesi,1203,False,True
+964,Paradise Beach,Alanya,2023-09-20,10,Junior Suit,1457,True,False
+965,Diamond Hotel,Muğla,2023-12-09,12,Deniz Manzaralı Oda,4289,True,True
+966,Silver Moon Hotel,Çeşme,2023-05-17,1,Balkonlu Oda,3977,True,True
+967,Diamond Hotel,Isparta,2023-04-09,10,Executive Suit,2987,True,False
+968,Golden Crown,Gaziantep,2023-02-02,11,Çift Kişilik Deluxe,3105,False,False
+969,Ocean View,Adana,2023-02-13,4,Kral Dairesi,1517,True,True
+970,Sahil Resort,İzmir,2023-12-27,2,Executive Suit,3156,False,True
+971,Sahil Resort,İzmir,2023-11-17,12,Tek Kişilik Standart,2059,False,True
+972,Skyline Hotel,Fethiye,2023-04-30,7,Aile Odası,3279,False,True
+973,Ocean View,Kuşadası,2023-12-01,7,Junior Suit,4490,False,False
+974,Diamond Hotel,Ankara,2023-12-25,6,Balkonlu Oda,3718,False,False
+975,Sahil Resort,Fethiye,2023-11-26,7,Balkonlu Oda,2619,False,True
+976,Sahil Resort,Fethiye,2023-12-30,2,Kral Dairesi,3092,True,True
+977,Grand Otel,Kayseri,2023-06-28,12,Tek Kişilik Standart,3513,False,True
+978,Harita Hotel,Marmaris,2023-06-12,2,Çift Kişilik Deluxe,4164,False,True
+979,Harita Hotel,Kuşadası,2023-07-15,1,Çift Kişilik Deluxe,2596,True,False
+980,Grand Otel,Alanya,2023-03-09,12,Executive Suit,1356,True,True
+981,Crystal Palace,Konya,2023-10-20,11,Aile Odası,1232,True,True
+982,Golden Crown,Ankara,2023-07-04,4,Tek Kişilik Deluxe,1793,True,False
+983,Mountain View,Çeşme,2023-05-21,13,Tek Kişilik Standart,3214,False,True
+984,Emerald Resort,Ankara,2023-03-24,12,Aile Odası,2616,False,True
+985,Star Hotel,Side,2023-10-12,2,Balkonlu Oda,3269,True,True
+986,Sahil Resort,Fethiye,2023-12-08,5,Tek Kişilik Deluxe,4582,True,False
+987,Golden Crown,Eskişehir,2023-08-10,2,Aile Odası,3715,False,False
+988,Grand Otel,İzmir,2023-09-09,14,Çift Kişilik Standart,4108,True,False
+989,Ocean View,Konya,2023-11-26,4,Çift Kişilik Standart,530,False,False
+990,Diamond Hotel,İstanbul,2023-02-16,11,Kral Dairesi,3924,True,False
+991,Emerald Resort,Isparta,2023-11-28,8,Tek Kişilik Deluxe,2321,True,False
+992,Ocean View,Çeşme,2023-09-18,14,Çift Kişilik Deluxe,3823,True,False
+993,Palm Beach,Kaş,2023-12-02,12,Aile Odası,2991,False,True
+994,Royal Garden,Muğla,2023-02-17,14,Deniz Manzaralı Oda,2761,True,True
+995,Emerald Resort,Side,2023-02-08,12,Balkonlu Oda,2637,False,True
+996,Ocean View,Adana,2023-05-21,14,Balkonlu Oda,2954,True,True
+997,Mountain View,Bodrum,2023-12-23,1,Deniz Manzaralı Oda,3504,True,False
+998,Paradise Beach,Eskişehir,2023-07-29,10,Kral Dairesi,1743,False,False
+999,City Hotel,Fethiye,2023-10-20,14,Kral Dairesi,3100,True,False
+1000,Harita Hotel,Ankara,2023-03-05,7,Tek Kişilik Standart,4562,False,True

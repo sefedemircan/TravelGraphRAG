@@ -1,0 +1,1001 @@
+yolcu_id,firma,kalkış_şehri,varış_şehri,seyahat_tarihi,koltuk_no,bilet_ücreti,sefer_tipi,tahmini_süre
+1,Tokat Seyahat,İstanbul,Malatya,2023-12-28,4,992,2+2,6 saat
+2,Düzce Güven,Eskişehir,Bursa,2023-03-12,4,1045,2+2,6 saat
+3,Buzlu Turizm,Antalya,İzmir,2023-09-20,8,644,2+1,11 saat
+4,Pamukkale,Mersin,Ordu,2023-02-26,45,246,2+2,7 saat
+5,Ali Osman Ulusoy,İstanbul,Adana,2023-08-12,10,408,2+2,11 saat
+6,Pamukkale,Erzurum,Eskişehir,2023-06-05,11,518,2+2,8 saat
+7,Pamukkale,Bursa,Samsun,2023-11-24,8,883,2+1,7 saat
+8,Buzlu Turizm,Adana,Kayseri,2023-11-07,2,581,2+2,6 saat
+9,Buzlu Turizm,Konya,Erzurum,2023-05-19,1,652,2+1,9 saat
+10,Kamil Koç,Isparta,Konya,2023-10-15,20,1139,2+1,6 saat
+11,Varan Turizm,Diyarbakır,Malatya,2023-10-10,15,1027,2+2,5 saat
+12,Metro Turizm,Ordu,Sivas,2023-03-04,13,1093,2+2,8 saat
+13,Pamukkale,İzmir,Ordu,2023-05-13,31,1093,2+2,7 saat
+14,Pamukkale,Van,Samsun,2023-12-24,14,619,2+1,5 saat
+15,Düzce Güven,Diyarbakır,Konya,2023-01-05,14,767,2+1,6 saat
+16,Varan Turizm,Antalya,Ankara,2023-01-23,2,1107,2+1,12 saat
+17,Pamukkale,Ordu,Isparta,2023-05-23,36,747,2+1,5 saat
+18,Nilüfer,Antalya,Diyarbakır,2023-06-23,4,1190,2+2,5 saat
+19,Has Turizm,Bursa,Adana,2023-11-09,28,959,2+1,5 saat
+20,Has Turizm,Ordu,Gaziantep,2023-03-20,44,706,2+1,4 saat
+21,VIB Turizm,Erzurum,Sivas,2023-10-30,14,1024,2+2,8 saat
+22,Has Turizm,İstanbul,Diyarbakır,2023-11-17,44,537,2+2,7 saat
+23,Düzce Güven,Trabzon,Ordu,2023-10-08,33,795,2+2,11 saat
+24,Lüks Artvin,Mersin,Samsun,2023-05-31,36,523,2+2,12 saat
+25,Düzce Güven,Mersin,Eskişehir,2023-08-11,29,944,2+1,9 saat
+26,VIB Turizm,Ankara,Mersin,2023-07-11,32,1075,2+2,6 saat
+27,Pamukkale,Mersin,Malatya,2023-04-23,33,468,2+1,4 saat
+28,Metro Turizm,Samsun,Eskişehir,2023-09-25,19,419,2+2,12 saat
+29,VIB Turizm,Bursa,Trabzon,2023-08-18,26,404,2+2,7 saat
+30,Varan Turizm,Mersin,İzmir,2023-03-02,16,1125,2+2,9 saat
+31,Düzce Güven,Eskişehir,Antalya,2023-08-04,13,618,2+2,7 saat
+32,Kamil Koç,Malatya,Trabzon,2023-05-09,7,505,2+1,11 saat
+33,VIB Turizm,Gaziantep,Van,2023-06-26,14,323,2+2,7 saat
+34,Ulusoy,Adana,Bursa,2023-03-05,31,1016,2+1,12 saat
+35,Metro Turizm,Diyarbakır,Adana,2023-02-28,25,708,2+2,9 saat
+36,Metro Turizm,Erzurum,Diyarbakır,2023-04-29,36,404,2+1,4 saat
+37,Düzce Güven,Malatya,İzmir,2023-02-22,26,422,2+2,6 saat
+38,VIB Turizm,Van,Trabzon,2023-03-22,33,981,2+1,9 saat
+39,Ali Osman Ulusoy,Trabzon,Samsun,2023-08-30,5,1199,2+2,9 saat
+40,Nilüfer,Erzurum,Isparta,2023-07-12,10,1146,2+2,10 saat
+41,Düzce Güven,Van,Eskişehir,2023-06-18,41,284,2+1,11 saat
+42,Kamil Koç,Adana,Malatya,2023-11-18,12,331,2+2,10 saat
+43,Ali Osman Ulusoy,Kayseri,Konya,2023-01-24,20,261,2+2,6 saat
+44,Has Turizm,Antalya,Gaziantep,2023-04-27,5,1173,2+1,10 saat
+45,Metro Turizm,Isparta,Samsun,2023-01-06,1,403,2+1,12 saat
+46,Nilüfer,Gaziantep,Konya,2023-04-11,35,621,2+1,12 saat
+47,VIB Turizm,Ordu,Malatya,2023-02-28,21,250,2+1,10 saat
+48,Buzlu Turizm,Erzurum,Sivas,2023-12-28,45,270,2+1,12 saat
+49,Düzce Güven,Mersin,Bursa,2023-07-01,26,372,2+2,4 saat
+50,Düzce Güven,Samsun,Gaziantep,2023-01-29,10,1001,2+1,10 saat
+51,Lüks Artvin,Malatya,Van,2023-11-21,15,1102,2+2,8 saat
+52,Metro Turizm,Kayseri,Trabzon,2023-04-14,10,814,2+1,10 saat
+53,Ulusoy,Samsun,Sivas,2023-03-06,33,1009,2+2,8 saat
+54,Buzlu Turizm,Sivas,Trabzon,2023-08-02,32,601,2+2,6 saat
+55,VIB Turizm,Ankara,Sivas,2023-01-22,21,610,2+1,11 saat
+56,Lüks Artvin,İstanbul,Sivas,2023-03-06,13,619,2+2,10 saat
+57,VIB Turizm,Konya,Van,2023-09-08,2,833,2+1,7 saat
+58,VIB Turizm,Mersin,Konya,2023-11-16,42,666,2+1,8 saat
+59,Has Turizm,Ankara,Adana,2023-12-03,41,970,2+1,11 saat
+60,Has Turizm,Bursa,İstanbul,2023-08-01,42,617,2+1,9 saat
+61,Tokat Seyahat,Ordu,Trabzon,2023-03-07,9,545,2+1,6 saat
+62,Ali Osman Ulusoy,Sivas,İzmir,2023-01-25,12,492,2+2,10 saat
+63,Lüks Artvin,Ankara,Kayseri,2023-06-24,14,943,2+1,8 saat
+64,Lüks Artvin,Bursa,İzmir,2023-07-10,34,534,2+2,6 saat
+65,Metro Turizm,Van,Konya,2023-09-04,9,637,2+2,7 saat
+66,Kamil Koç,Trabzon,Antalya,2023-02-19,32,465,2+1,5 saat
+67,Ulusoy,Konya,Kayseri,2023-03-07,26,926,2+2,10 saat
+68,Pamukkale,Van,Kayseri,2023-06-14,44,840,2+1,7 saat
+69,Ali Osman Ulusoy,İstanbul,Antalya,2023-12-20,43,328,2+2,6 saat
+70,Has Turizm,Isparta,İstanbul,2023-07-21,41,708,2+2,9 saat
+71,Düzce Güven,Diyarbakır,Van,2023-11-19,43,606,2+1,12 saat
+72,Lüks Artvin,Van,Ordu,2023-06-05,32,562,2+1,4 saat
+73,Metro Turizm,Adana,Sivas,2023-09-24,12,1185,2+2,11 saat
+74,Buzlu Turizm,Sivas,Van,2023-05-08,28,818,2+1,11 saat
+75,Lüks Artvin,Ankara,Sivas,2023-12-10,12,693,2+2,9 saat
+76,Has Turizm,Samsun,Kayseri,2023-12-30,38,379,2+1,10 saat
+77,Düzce Güven,İzmir,Antalya,2023-12-10,11,388,2+1,9 saat
+78,Ali Osman Ulusoy,Malatya,Isparta,2023-04-19,11,1107,2+1,6 saat
+79,Pamukkale,Kayseri,Mersin,2023-05-06,36,1184,2+2,11 saat
+80,Tokat Seyahat,Mersin,Sivas,2023-08-16,5,362,2+2,5 saat
+81,Varan Turizm,Antalya,Diyarbakır,2023-10-24,1,632,2+2,10 saat
+82,Tokat Seyahat,Kayseri,Eskişehir,2023-04-25,41,371,2+2,5 saat
+83,VIB Turizm,İstanbul,Samsun,2023-07-17,12,595,2+2,7 saat
+84,Varan Turizm,Antalya,Sivas,2023-12-07,19,1164,2+1,6 saat
+85,Ulusoy,Diyarbakır,Gaziantep,2023-03-22,38,379,2+2,11 saat
+86,Ali Osman Ulusoy,Samsun,Van,2023-07-13,20,558,2+1,8 saat
+87,Düzce Güven,Eskişehir,Adana,2023-08-06,27,1116,2+2,9 saat
+88,Nilüfer,Eskişehir,Trabzon,2023-05-12,18,949,2+1,9 saat
+89,Düzce Güven,Kayseri,Adana,2023-02-20,45,951,2+1,4 saat
+90,Düzce Güven,Erzurum,Gaziantep,2023-06-11,22,837,2+2,8 saat
+91,Ali Osman Ulusoy,Gaziantep,Van,2023-11-02,17,1129,2+1,9 saat
+92,Has Turizm,Diyarbakır,Gaziantep,2023-05-01,13,708,2+2,10 saat
+93,Tokat Seyahat,Ordu,Bursa,2023-06-29,21,330,2+1,7 saat
+94,Has Turizm,Samsun,Trabzon,2023-03-27,18,737,2+2,9 saat
+95,Lüks Artvin,Kayseri,Van,2023-11-06,44,752,2+1,6 saat
+96,Varan Turizm,Kayseri,İzmir,2023-12-27,9,586,2+1,4 saat
+97,Nilüfer,Bursa,Kayseri,2023-05-02,41,233,2+2,7 saat
+98,Düzce Güven,Sivas,Bursa,2023-12-18,18,443,2+2,9 saat
+99,Pamukkale,Malatya,Bursa,2023-02-27,37,992,2+1,11 saat
+100,Buzlu Turizm,Kayseri,Ordu,2023-04-04,1,276,2+2,6 saat
+101,Varan Turizm,Samsun,Kayseri,2023-02-23,45,723,2+1,8 saat
+102,Lüks Artvin,Van,Trabzon,2023-08-13,20,962,2+1,8 saat
+103,VIB Turizm,Sivas,Gaziantep,2023-11-27,15,630,2+1,5 saat
+104,Nilüfer,Erzurum,Trabzon,2023-02-23,5,823,2+2,9 saat
+105,Pamukkale,Konya,Eskişehir,2023-10-22,2,814,2+2,4 saat
+106,Nilüfer,Antalya,Samsun,2023-08-11,41,769,2+1,10 saat
+107,Buzlu Turizm,Samsun,Kayseri,2023-01-31,26,272,2+1,7 saat
+108,Kamil Koç,Diyarbakır,Gaziantep,2023-04-26,42,763,2+1,11 saat
+109,Kamil Koç,Bursa,Ordu,2023-08-15,5,213,2+1,4 saat
+110,Ali Osman Ulusoy,Mersin,İstanbul,2023-03-31,35,529,2+1,7 saat
+111,Varan Turizm,Isparta,Ordu,2023-06-26,29,585,2+1,8 saat
+112,Ulusoy,Sivas,Trabzon,2023-01-24,21,537,2+1,5 saat
+113,Kamil Koç,Eskişehir,Erzurum,2023-03-13,3,677,2+1,6 saat
+114,Pamukkale,Eskişehir,Adana,2023-01-15,36,242,2+2,5 saat
+115,Pamukkale,Diyarbakır,İzmir,2023-04-01,28,1175,2+1,8 saat
+116,Kamil Koç,Eskişehir,Ankara,2023-02-18,26,355,2+1,12 saat
+117,Varan Turizm,Kayseri,Sivas,2023-11-07,25,673,2+2,11 saat
+118,Düzce Güven,İzmir,Erzurum,2023-08-13,29,881,2+1,5 saat
+119,Nilüfer,Kayseri,Sivas,2023-01-19,21,258,2+2,8 saat
+120,Pamukkale,Ordu,İstanbul,2023-07-14,23,956,2+2,9 saat
+121,Ali Osman Ulusoy,Eskişehir,Ordu,2023-05-12,37,350,2+2,6 saat
+122,Has Turizm,Gaziantep,Kayseri,2023-07-16,38,235,2+2,10 saat
+123,Nilüfer,Van,Kayseri,2023-02-21,38,1020,2+1,8 saat
+124,Nilüfer,Ankara,Van,2023-01-13,30,1150,2+2,10 saat
+125,Düzce Güven,Samsun,Sivas,2023-09-24,26,968,2+1,6 saat
+126,VIB Turizm,Kayseri,Eskişehir,2023-05-25,11,1046,2+2,4 saat
+127,Ulusoy,Van,Malatya,2023-10-05,29,883,2+1,7 saat
+128,Metro Turizm,Van,Adana,2023-01-20,28,497,2+1,9 saat
+129,Metro Turizm,Konya,Sivas,2023-11-29,11,995,2+1,9 saat
+130,Varan Turizm,Ankara,Sivas,2023-02-23,14,961,2+2,12 saat
+131,Nilüfer,Antalya,Bursa,2023-02-04,24,757,2+2,12 saat
+132,Kamil Koç,Samsun,Trabzon,2023-03-16,8,497,2+1,4 saat
+133,Lüks Artvin,Trabzon,Samsun,2023-01-19,26,1185,2+1,7 saat
+134,VIB Turizm,Ankara,Sivas,2023-03-16,17,1041,2+2,11 saat
+135,Varan Turizm,Malatya,Kayseri,2023-04-23,23,1107,2+1,9 saat
+136,Varan Turizm,Eskişehir,Ordu,2023-03-15,35,784,2+2,12 saat
+137,Pamukkale,Diyarbakır,Van,2023-12-20,17,364,2+2,8 saat
+138,Tokat Seyahat,Gaziantep,Ordu,2023-10-24,29,326,2+2,11 saat
+139,Has Turizm,Ordu,Gaziantep,2023-04-01,2,324,2+2,8 saat
+140,Düzce Güven,Bursa,Samsun,2023-05-25,30,592,2+2,8 saat
+141,VIB Turizm,İstanbul,Samsun,2023-01-29,31,815,2+2,12 saat
+142,Nilüfer,Erzurum,Kayseri,2023-03-28,17,563,2+2,8 saat
+143,Tokat Seyahat,Malatya,Ordu,2023-08-03,4,565,2+2,9 saat
+144,Ulusoy,Sivas,Erzurum,2023-07-04,11,450,2+1,10 saat
+145,Varan Turizm,Bursa,Antalya,2023-01-08,16,978,2+2,10 saat
+146,VIB Turizm,Van,Malatya,2023-12-28,34,459,2+1,8 saat
+147,Kamil Koç,İstanbul,Gaziantep,2023-07-01,18,651,2+2,5 saat
+148,VIB Turizm,Adana,Mersin,2023-12-13,31,266,2+1,7 saat
+149,Pamukkale,İstanbul,Mersin,2023-02-17,32,958,2+1,9 saat
+150,Nilüfer,Mersin,Antalya,2023-08-24,22,816,2+2,8 saat
+151,Nilüfer,Adana,İstanbul,2023-04-07,22,957,2+2,8 saat
+152,Varan Turizm,Eskişehir,Konya,2023-05-30,34,885,2+2,10 saat
+153,Has Turizm,Gaziantep,Ordu,2023-09-05,5,679,2+2,9 saat
+154,Has Turizm,Gaziantep,Kayseri,2023-07-31,39,579,2+1,4 saat
+155,Nilüfer,Mersin,İzmir,2023-03-15,4,221,2+1,9 saat
+156,Metro Turizm,Eskişehir,Mersin,2023-08-28,45,1178,2+2,6 saat
+157,Pamukkale,Kayseri,Trabzon,2023-10-19,13,414,2+2,11 saat
+158,VIB Turizm,İzmir,Mersin,2023-08-21,25,931,2+1,11 saat
+159,Ulusoy,Sivas,Mersin,2023-03-23,35,566,2+2,6 saat
+160,Buzlu Turizm,Konya,Kayseri,2023-03-28,15,316,2+1,7 saat
+161,Düzce Güven,Eskişehir,Adana,2023-10-06,33,887,2+1,5 saat
+162,Tokat Seyahat,Sivas,Ankara,2023-03-20,23,300,2+1,11 saat
+163,Kamil Koç,İzmir,Adana,2023-06-11,14,1064,2+2,6 saat
+164,Buzlu Turizm,Samsun,Ankara,2023-03-14,6,843,2+1,5 saat
+165,Tokat Seyahat,Kayseri,Erzurum,2023-04-05,43,396,2+2,10 saat
+166,Tokat Seyahat,Ankara,Eskişehir,2023-12-05,17,395,2+1,12 saat
+167,Tokat Seyahat,Isparta,İzmir,2023-05-20,4,529,2+1,10 saat
+168,Ulusoy,Diyarbakır,Adana,2023-03-11,33,382,2+1,10 saat
+169,Ulusoy,Ankara,Kayseri,2023-05-06,41,597,2+2,7 saat
+170,Metro Turizm,Ankara,Konya,2023-04-28,21,631,2+1,12 saat
+171,Metro Turizm,Isparta,Samsun,2023-02-24,12,627,2+2,8 saat
+172,Metro Turizm,Mersin,Gaziantep,2023-09-27,13,1175,2+1,12 saat
+173,VIB Turizm,Trabzon,Mersin,2023-03-21,19,1068,2+2,11 saat
+174,Düzce Güven,İzmir,Isparta,2023-09-25,14,832,2+2,9 saat
+175,Ulusoy,Sivas,Antalya,2023-02-20,32,671,2+2,12 saat
+176,VIB Turizm,Isparta,Adana,2023-08-30,6,859,2+1,4 saat
+177,Kamil Koç,Diyarbakır,Ankara,2023-03-27,4,301,2+2,9 saat
+178,Varan Turizm,Gaziantep,Antalya,2023-05-11,35,850,2+2,12 saat
+179,Metro Turizm,Konya,Malatya,2023-03-01,17,819,2+2,11 saat
+180,Buzlu Turizm,Bursa,Isparta,2023-05-07,11,399,2+1,11 saat
+181,Pamukkale,Van,Bursa,2023-05-25,42,928,2+1,5 saat
+182,Ali Osman Ulusoy,Ankara,Gaziantep,2023-03-21,1,824,2+2,11 saat
+183,Buzlu Turizm,Eskişehir,Konya,2023-01-22,32,726,2+1,11 saat
+184,Pamukkale,Samsun,Mersin,2023-07-01,8,1090,2+1,7 saat
+185,VIB Turizm,Ordu,İstanbul,2023-06-03,21,316,2+1,6 saat
+186,Düzce Güven,Bursa,Gaziantep,2023-05-06,41,1190,2+1,4 saat
+187,Ulusoy,Eskişehir,Malatya,2023-11-21,28,1191,2+2,6 saat
+188,Kamil Koç,Kayseri,İzmir,2023-07-08,31,394,2+1,9 saat
+189,Nilüfer,Samsun,Van,2023-02-06,18,432,2+2,4 saat
+190,Pamukkale,Gaziantep,Erzurum,2023-01-30,15,648,2+1,9 saat
+191,Ulusoy,Mersin,Bursa,2023-03-07,7,1055,2+2,6 saat
+192,VIB Turizm,Konya,Bursa,2023-05-11,38,354,2+2,6 saat
+193,Pamukkale,Samsun,İstanbul,2023-09-05,31,555,2+1,6 saat
+194,Varan Turizm,Diyarbakır,Erzurum,2023-05-06,42,590,2+1,10 saat
+195,Pamukkale,Bursa,Kayseri,2023-09-13,27,782,2+2,12 saat
+196,Düzce Güven,Eskişehir,Ordu,2023-01-22,27,240,2+2,5 saat
+197,Pamukkale,Kayseri,Ordu,2023-09-19,10,513,2+1,9 saat
+198,Ali Osman Ulusoy,Malatya,Mersin,2023-09-15,11,779,2+1,12 saat
+199,Lüks Artvin,Bursa,İstanbul,2023-04-30,17,662,2+1,12 saat
+200,Metro Turizm,Bursa,Antalya,2023-06-21,15,323,2+2,6 saat
+201,Pamukkale,Sivas,Ankara,2023-07-09,41,585,2+1,8 saat
+202,Düzce Güven,Ankara,Mersin,2023-02-09,21,477,2+2,9 saat
+203,Ulusoy,Eskişehir,Diyarbakır,2023-12-16,21,572,2+1,5 saat
+204,Has Turizm,Antalya,Erzurum,2023-07-28,38,573,2+2,9 saat
+205,Lüks Artvin,İstanbul,Adana,2023-10-25,15,549,2+2,6 saat
+206,Metro Turizm,Malatya,Samsun,2023-01-28,23,1102,2+1,11 saat
+207,Pamukkale,İzmir,Bursa,2023-06-30,27,1115,2+1,7 saat
+208,Nilüfer,Samsun,Isparta,2023-12-13,24,405,2+1,10 saat
+209,Tokat Seyahat,Gaziantep,Konya,2023-10-18,14,638,2+2,10 saat
+210,Nilüfer,Diyarbakır,Gaziantep,2023-11-13,45,1122,2+1,5 saat
+211,Buzlu Turizm,Kayseri,Ordu,2023-08-09,7,1039,2+1,7 saat
+212,Buzlu Turizm,Adana,Van,2023-07-22,11,559,2+2,11 saat
+213,Buzlu Turizm,Malatya,Isparta,2023-09-08,44,562,2+1,6 saat
+214,Tokat Seyahat,Eskişehir,Adana,2023-09-08,16,801,2+2,12 saat
+215,Metro Turizm,Malatya,Erzurum,2023-09-09,16,818,2+2,12 saat
+216,Lüks Artvin,Isparta,Antalya,2023-07-06,43,923,2+2,12 saat
+217,Buzlu Turizm,İzmir,Eskişehir,2023-05-03,22,327,2+1,8 saat
+218,Lüks Artvin,İzmir,Ordu,2023-03-04,40,668,2+2,6 saat
+219,Buzlu Turizm,İstanbul,Trabzon,2023-12-27,17,715,2+1,9 saat
+220,Nilüfer,Antalya,İstanbul,2023-05-15,7,855,2+2,8 saat
+221,Has Turizm,Konya,Bursa,2023-02-27,14,290,2+1,12 saat
+222,Ali Osman Ulusoy,Eskişehir,Sivas,2023-10-16,21,918,2+1,11 saat
+223,Ulusoy,İstanbul,Isparta,2023-12-06,4,265,2+1,6 saat
+224,Düzce Güven,Diyarbakır,Kayseri,2023-05-18,29,715,2+2,4 saat
+225,Ulusoy,Van,Konya,2023-02-02,20,769,2+1,9 saat
+226,Pamukkale,Trabzon,Eskişehir,2023-05-12,44,1093,2+2,7 saat
+227,Buzlu Turizm,Malatya,Mersin,2023-09-27,26,769,2+2,11 saat
+228,Varan Turizm,Samsun,Ankara,2023-08-06,44,253,2+1,8 saat
+229,Ulusoy,Diyarbakır,Mersin,2023-07-08,34,1018,2+2,5 saat
+230,Varan Turizm,Bursa,Adana,2023-03-25,1,306,2+2,4 saat
+231,Düzce Güven,Erzurum,Mersin,2023-06-21,4,462,2+2,12 saat
+232,Lüks Artvin,Eskişehir,Kayseri,2023-06-10,28,516,2+2,12 saat
+233,Kamil Koç,Mersin,Erzurum,2023-12-03,34,688,2+2,5 saat
+234,Ulusoy,Trabzon,Ordu,2023-03-24,40,446,2+1,6 saat
+235,Lüks Artvin,Antalya,Ankara,2023-11-03,15,319,2+2,10 saat
+236,Ulusoy,Diyarbakır,Van,2023-03-18,17,627,2+1,6 saat
+237,Nilüfer,Samsun,Ordu,2023-09-28,10,658,2+1,12 saat
+238,Buzlu Turizm,İstanbul,Diyarbakır,2023-01-11,18,234,2+2,7 saat
+239,VIB Turizm,Trabzon,Erzurum,2023-12-16,9,554,2+1,4 saat
+240,Ulusoy,Gaziantep,Mersin,2023-09-19,36,948,2+2,4 saat
+241,Tokat Seyahat,İstanbul,İzmir,2023-07-12,3,391,2+1,6 saat
+242,Düzce Güven,Isparta,Mersin,2023-03-09,40,548,2+1,11 saat
+243,Tokat Seyahat,Gaziantep,Bursa,2023-08-15,19,671,2+1,12 saat
+244,Ali Osman Ulusoy,Ordu,Samsun,2023-05-20,10,280,2+2,12 saat
+245,Ulusoy,Mersin,Adana,2023-12-10,23,349,2+2,6 saat
+246,Has Turizm,Bursa,Isparta,2023-05-06,15,1009,2+2,12 saat
+247,Buzlu Turizm,Bursa,Diyarbakır,2023-07-31,21,985,2+2,12 saat
+248,Nilüfer,Isparta,Antalya,2023-03-07,1,778,2+1,8 saat
+249,Buzlu Turizm,Kayseri,Gaziantep,2023-09-29,37,1082,2+1,10 saat
+250,Lüks Artvin,Konya,İzmir,2023-04-27,20,1100,2+2,10 saat
+251,Metro Turizm,Diyarbakır,Samsun,2023-10-30,18,234,2+2,7 saat
+252,Ulusoy,Van,Mersin,2023-01-31,26,512,2+1,7 saat
+253,Varan Turizm,Eskişehir,Gaziantep,2023-07-24,18,511,2+2,6 saat
+254,Lüks Artvin,Gaziantep,Diyarbakır,2023-05-04,27,622,2+2,5 saat
+255,Düzce Güven,Sivas,Gaziantep,2023-12-13,30,1187,2+1,7 saat
+256,Metro Turizm,Samsun,Bursa,2023-05-29,19,1173,2+1,12 saat
+257,Lüks Artvin,Eskişehir,Kayseri,2023-08-09,18,979,2+1,5 saat
+258,Kamil Koç,Erzurum,Mersin,2023-01-02,24,986,2+1,7 saat
+259,Düzce Güven,Antalya,Ankara,2023-12-02,6,495,2+1,10 saat
+260,Buzlu Turizm,Malatya,İzmir,2023-11-04,12,274,2+1,11 saat
+261,Has Turizm,İzmir,Antalya,2023-06-12,26,1098,2+2,10 saat
+262,Buzlu Turizm,Sivas,Kayseri,2023-07-20,36,308,2+1,7 saat
+263,Nilüfer,İzmir,Ordu,2023-05-27,24,419,2+2,8 saat
+264,Buzlu Turizm,Ordu,İzmir,2023-06-05,29,880,2+1,10 saat
+265,VIB Turizm,Ankara,İzmir,2023-12-03,38,739,2+2,9 saat
+266,VIB Turizm,İstanbul,Ankara,2023-12-19,40,825,2+1,5 saat
+267,Düzce Güven,Ordu,Mersin,2023-11-19,24,550,2+2,7 saat
+268,Metro Turizm,Konya,Gaziantep,2023-08-14,21,577,2+1,5 saat
+269,Ulusoy,Malatya,Diyarbakır,2023-02-18,34,518,2+1,12 saat
+270,Varan Turizm,Konya,Mersin,2023-04-30,40,521,2+1,12 saat
+271,Has Turizm,Eskişehir,Ordu,2023-07-05,41,764,2+2,9 saat
+272,Düzce Güven,Malatya,Adana,2023-05-28,19,338,2+1,8 saat
+273,Ulusoy,Mersin,Ankara,2023-08-30,30,609,2+1,8 saat
+274,Varan Turizm,Diyarbakır,Erzurum,2023-04-01,15,392,2+2,12 saat
+275,Metro Turizm,Konya,Antalya,2023-03-28,34,748,2+2,7 saat
+276,Kamil Koç,Erzurum,Gaziantep,2023-08-27,18,932,2+2,10 saat
+277,Pamukkale,Bursa,Gaziantep,2023-12-28,15,705,2+2,6 saat
+278,Buzlu Turizm,İstanbul,Erzurum,2023-10-01,33,379,2+2,7 saat
+279,VIB Turizm,İzmir,Ordu,2023-11-11,44,377,2+2,8 saat
+280,Buzlu Turizm,İzmir,Ankara,2023-09-12,16,1126,2+2,9 saat
+281,VIB Turizm,Trabzon,Sivas,2023-02-16,22,628,2+1,6 saat
+282,Ali Osman Ulusoy,Adana,İstanbul,2023-12-25,6,430,2+2,5 saat
+283,Nilüfer,Ankara,Konya,2023-04-09,17,668,2+1,9 saat
+284,Düzce Güven,Gaziantep,Van,2023-05-15,6,733,2+2,7 saat
+285,Ali Osman Ulusoy,Kayseri,Antalya,2023-12-12,40,324,2+1,8 saat
+286,Has Turizm,Gaziantep,İstanbul,2023-10-19,44,660,2+1,11 saat
+287,Varan Turizm,Eskişehir,Mersin,2023-04-18,5,862,2+2,12 saat
+288,Düzce Güven,Sivas,Antalya,2023-11-28,30,337,2+1,4 saat
+289,Pamukkale,Antalya,Adana,2023-12-03,33,718,2+1,10 saat
+290,Ali Osman Ulusoy,Trabzon,Kayseri,2023-06-05,11,212,2+1,8 saat
+291,Nilüfer,Gaziantep,Adana,2023-12-10,35,577,2+1,6 saat
+292,VIB Turizm,Malatya,Diyarbakır,2023-08-17,42,855,2+2,8 saat
+293,Tokat Seyahat,Trabzon,Sivas,2023-07-03,32,1058,2+2,4 saat
+294,Tokat Seyahat,Mersin,Konya,2023-01-23,38,1149,2+1,4 saat
+295,Pamukkale,İstanbul,Erzurum,2023-03-20,12,701,2+2,7 saat
+296,VIB Turizm,Malatya,Van,2023-12-31,35,833,2+2,9 saat
+297,Pamukkale,Eskişehir,Antalya,2023-12-04,20,754,2+1,5 saat
+298,Has Turizm,Van,Trabzon,2023-01-11,38,708,2+2,4 saat
+299,Buzlu Turizm,Erzurum,Malatya,2023-06-23,2,291,2+1,5 saat
+300,Buzlu Turizm,Trabzon,Kayseri,2023-11-22,11,655,2+2,8 saat
+301,Buzlu Turizm,Gaziantep,İstanbul,2023-04-08,7,604,2+1,4 saat
+302,Kamil Koç,Mersin,Gaziantep,2023-10-25,10,590,2+1,9 saat
+303,Has Turizm,Samsun,Isparta,2023-12-07,18,381,2+1,12 saat
+304,VIB Turizm,Sivas,Gaziantep,2023-01-26,25,375,2+1,12 saat
+305,Düzce Güven,Trabzon,Erzurum,2023-08-12,37,1102,2+2,5 saat
+306,Metro Turizm,Sivas,Diyarbakır,2023-09-02,37,1002,2+1,7 saat
+307,Düzce Güven,Ankara,Mersin,2023-12-15,6,227,2+2,5 saat
+308,Nilüfer,Eskişehir,İzmir,2023-05-04,32,345,2+1,7 saat
+309,Ulusoy,Erzurum,Sivas,2023-09-17,30,233,2+2,7 saat
+310,Ulusoy,İzmir,Bursa,2023-11-13,9,823,2+2,6 saat
+311,Tokat Seyahat,Antalya,Isparta,2023-05-29,16,978,2+2,11 saat
+312,Buzlu Turizm,İstanbul,Eskişehir,2023-12-17,40,1085,2+2,7 saat
+313,Düzce Güven,Trabzon,Konya,2023-05-30,42,552,2+2,8 saat
+314,Tokat Seyahat,Sivas,Samsun,2023-07-24,21,583,2+2,7 saat
+315,Tokat Seyahat,Diyarbakır,Antalya,2023-01-29,41,814,2+1,10 saat
+316,Ulusoy,Adana,İstanbul,2023-08-03,15,1036,2+1,12 saat
+317,VIB Turizm,Sivas,Malatya,2023-05-30,8,209,2+1,11 saat
+318,Nilüfer,Kayseri,Diyarbakır,2023-07-02,29,748,2+1,8 saat
+319,VIB Turizm,Ordu,İstanbul,2023-05-27,39,1011,2+1,5 saat
+320,Kamil Koç,Ankara,Van,2023-03-26,44,256,2+1,10 saat
+321,Düzce Güven,Gaziantep,Diyarbakır,2023-10-31,11,746,2+1,8 saat
+322,Tokat Seyahat,Adana,Mersin,2023-04-08,19,953,2+2,5 saat
+323,Pamukkale,Samsun,Eskişehir,2023-12-30,30,721,2+2,6 saat
+324,Tokat Seyahat,Kayseri,Gaziantep,2023-09-14,38,1144,2+1,6 saat
+325,Düzce Güven,Mersin,Adana,2023-07-16,44,322,2+1,11 saat
+326,Pamukkale,Malatya,Konya,2023-10-21,19,1120,2+2,5 saat
+327,Ulusoy,Konya,Mersin,2023-04-05,23,628,2+1,12 saat
+328,Tokat Seyahat,Antalya,Malatya,2023-12-12,9,713,2+1,7 saat
+329,Metro Turizm,Ankara,Sivas,2023-03-23,6,203,2+2,11 saat
+330,Lüks Artvin,Ankara,Isparta,2023-04-19,35,770,2+2,6 saat
+331,Nilüfer,Sivas,Bursa,2023-01-29,26,260,2+1,10 saat
+332,Buzlu Turizm,Mersin,Erzurum,2023-06-08,25,923,2+1,7 saat
+333,Kamil Koç,Erzurum,Ankara,2023-08-05,27,494,2+1,12 saat
+334,Pamukkale,Mersin,Erzurum,2023-12-26,28,630,2+2,7 saat
+335,Varan Turizm,Bursa,İzmir,2023-05-18,17,1135,2+1,9 saat
+336,Nilüfer,İstanbul,Van,2023-05-23,30,264,2+2,10 saat
+337,Ulusoy,Adana,İstanbul,2023-08-09,42,810,2+1,4 saat
+338,Ulusoy,Sivas,Van,2023-05-13,21,762,2+1,8 saat
+339,Ulusoy,Ordu,Trabzon,2023-07-26,32,347,2+1,7 saat
+340,Ulusoy,Isparta,Antalya,2023-12-22,43,796,2+1,9 saat
+341,Lüks Artvin,Gaziantep,Kayseri,2023-10-03,25,364,2+2,9 saat
+342,Düzce Güven,Adana,Konya,2023-02-10,29,752,2+1,12 saat
+343,VIB Turizm,Van,Adana,2023-02-27,10,349,2+2,4 saat
+344,Tokat Seyahat,Bursa,Ordu,2023-09-29,30,635,2+1,7 saat
+345,Nilüfer,Antalya,Bursa,2023-08-19,15,976,2+1,8 saat
+346,Has Turizm,Mersin,Adana,2023-02-10,43,1070,2+1,7 saat
+347,Has Turizm,Konya,Eskişehir,2023-05-22,25,203,2+1,7 saat
+348,VIB Turizm,Ankara,Van,2023-03-27,21,261,2+2,7 saat
+349,Varan Turizm,Kayseri,Malatya,2023-07-18,31,1047,2+2,8 saat
+350,Tokat Seyahat,Samsun,Mersin,2023-06-03,17,907,2+2,10 saat
+351,Ulusoy,Adana,İzmir,2023-06-23,31,1173,2+1,9 saat
+352,Varan Turizm,Kayseri,Isparta,2023-04-03,31,1046,2+2,9 saat
+353,Nilüfer,Eskişehir,Sivas,2023-11-25,35,607,2+1,12 saat
+354,Has Turizm,Trabzon,Diyarbakır,2023-07-01,13,719,2+2,5 saat
+355,Ulusoy,Malatya,Ordu,2023-12-18,10,1031,2+2,6 saat
+356,Kamil Koç,Kayseri,Diyarbakır,2023-03-15,24,530,2+2,11 saat
+357,VIB Turizm,Samsun,Erzurum,2023-02-12,43,792,2+2,11 saat
+358,Varan Turizm,Van,Mersin,2023-01-19,45,349,2+1,8 saat
+359,Ali Osman Ulusoy,Gaziantep,Ordu,2023-10-27,12,930,2+2,7 saat
+360,Metro Turizm,İzmir,Gaziantep,2023-09-28,24,671,2+2,5 saat
+361,Tokat Seyahat,Gaziantep,Antalya,2023-01-18,40,1143,2+2,7 saat
+362,Kamil Koç,İstanbul,Isparta,2023-01-02,28,284,2+2,11 saat
+363,Lüks Artvin,Trabzon,Isparta,2023-07-08,33,1100,2+1,12 saat
+364,Metro Turizm,İzmir,Isparta,2023-01-04,41,351,2+2,11 saat
+365,Varan Turizm,Ordu,Adana,2023-06-21,20,770,2+2,4 saat
+366,Tokat Seyahat,Konya,Antalya,2023-04-22,12,594,2+2,7 saat
+367,Varan Turizm,Trabzon,Ordu,2023-08-24,44,744,2+2,11 saat
+368,Kamil Koç,İzmir,Antalya,2023-03-28,33,649,2+1,9 saat
+369,Lüks Artvin,Bursa,Van,2023-08-07,42,593,2+2,11 saat
+370,VIB Turizm,Malatya,Adana,2023-01-16,39,835,2+2,12 saat
+371,Lüks Artvin,Malatya,Erzurum,2023-03-20,3,963,2+1,7 saat
+372,Tokat Seyahat,Samsun,Antalya,2023-01-07,26,353,2+2,12 saat
+373,Varan Turizm,Konya,Antalya,2023-11-28,2,885,2+2,5 saat
+374,Metro Turizm,Eskişehir,Mersin,2023-04-06,26,242,2+2,6 saat
+375,Düzce Güven,Malatya,Samsun,2023-02-17,26,262,2+2,5 saat
+376,Tokat Seyahat,Van,Gaziantep,2023-11-16,21,989,2+1,5 saat
+377,Tokat Seyahat,Eskişehir,Van,2023-12-17,18,222,2+1,7 saat
+378,Nilüfer,Eskişehir,Adana,2023-09-28,25,1147,2+2,9 saat
+379,Ulusoy,Isparta,Ankara,2023-04-24,12,900,2+1,5 saat
+380,Düzce Güven,Eskişehir,Konya,2023-09-23,35,845,2+2,5 saat
+381,Nilüfer,Kayseri,Samsun,2023-09-04,39,816,2+1,4 saat
+382,Varan Turizm,Eskişehir,Ordu,2023-03-01,1,208,2+1,8 saat
+383,Pamukkale,Malatya,Konya,2023-05-06,7,624,2+2,5 saat
+384,Pamukkale,Van,Trabzon,2023-11-21,29,1169,2+2,11 saat
+385,Varan Turizm,Ankara,Mersin,2023-12-10,5,237,2+2,12 saat
+386,Metro Turizm,Gaziantep,Ankara,2023-03-13,16,865,2+2,8 saat
+387,Ulusoy,Malatya,İstanbul,2023-09-08,30,578,2+1,12 saat
+388,Pamukkale,Gaziantep,Diyarbakır,2023-03-04,2,280,2+2,9 saat
+389,Nilüfer,Ordu,Ankara,2023-11-21,18,377,2+1,5 saat
+390,Metro Turizm,Trabzon,Gaziantep,2023-09-04,14,310,2+1,11 saat
+391,Metro Turizm,İzmir,Kayseri,2023-08-18,35,375,2+2,11 saat
+392,Düzce Güven,Konya,Bursa,2023-10-23,1,793,2+1,9 saat
+393,Ali Osman Ulusoy,İstanbul,Gaziantep,2023-07-26,44,357,2+2,8 saat
+394,Düzce Güven,Adana,Bursa,2023-08-01,29,319,2+1,11 saat
+395,Pamukkale,Ordu,Eskişehir,2023-10-30,10,457,2+1,5 saat
+396,Metro Turizm,Isparta,Adana,2023-06-12,41,911,2+2,10 saat
+397,Has Turizm,Malatya,Bursa,2023-05-30,33,608,2+2,7 saat
+398,Has Turizm,İzmir,Malatya,2023-10-11,20,1050,2+2,4 saat
+399,Kamil Koç,Bursa,Kayseri,2023-08-30,15,1184,2+2,11 saat
+400,VIB Turizm,Konya,Erzurum,2023-05-11,16,1005,2+1,11 saat
+401,Tokat Seyahat,İstanbul,Malatya,2023-07-03,39,529,2+2,6 saat
+402,Tokat Seyahat,Ordu,Ankara,2023-08-17,34,1066,2+2,5 saat
+403,Pamukkale,İzmir,Diyarbakır,2023-03-16,45,444,2+1,5 saat
+404,Ulusoy,Diyarbakır,Van,2023-07-23,5,644,2+1,4 saat
+405,Lüks Artvin,Diyarbakır,Gaziantep,2023-12-15,26,365,2+1,6 saat
+406,Lüks Artvin,Antalya,Isparta,2023-07-11,38,1017,2+1,10 saat
+407,Metro Turizm,Gaziantep,Ordu,2023-08-17,11,993,2+1,4 saat
+408,Düzce Güven,Konya,İzmir,2023-05-11,14,375,2+2,8 saat
+409,Ali Osman Ulusoy,İzmir,Trabzon,2023-04-29,12,518,2+1,12 saat
+410,Kamil Koç,Malatya,Adana,2023-07-31,21,723,2+2,4 saat
+411,Buzlu Turizm,Gaziantep,Mersin,2023-09-08,19,1063,2+2,9 saat
+412,Ulusoy,Malatya,Ordu,2023-09-27,9,904,2+2,8 saat
+413,Kamil Koç,Erzurum,Ankara,2023-08-05,17,850,2+2,10 saat
+414,Tokat Seyahat,Adana,Ordu,2023-05-05,8,1181,2+1,8 saat
+415,VIB Turizm,Gaziantep,Diyarbakır,2023-03-30,18,1092,2+1,9 saat
+416,Ali Osman Ulusoy,Trabzon,Ordu,2023-10-14,30,751,2+1,8 saat
+417,Has Turizm,Antalya,Bursa,2023-09-19,8,483,2+1,6 saat
+418,Pamukkale,İzmir,Van,2023-02-09,17,331,2+2,11 saat
+419,Tokat Seyahat,Trabzon,Adana,2023-08-02,44,505,2+2,9 saat
+420,Nilüfer,Ankara,Bursa,2023-09-23,5,470,2+2,9 saat
+421,Has Turizm,Malatya,Antalya,2023-09-27,12,1154,2+1,7 saat
+422,Has Turizm,Ordu,Trabzon,2023-01-11,11,632,2+2,9 saat
+423,Lüks Artvin,Antalya,İzmir,2023-11-27,42,610,2+2,4 saat
+424,Nilüfer,Bursa,Adana,2023-07-27,10,999,2+1,11 saat
+425,Ali Osman Ulusoy,Malatya,Konya,2023-06-15,39,728,2+2,7 saat
+426,Pamukkale,Samsun,Adana,2023-06-14,10,1021,2+2,4 saat
+427,Buzlu Turizm,Eskişehir,Gaziantep,2023-03-19,15,201,2+1,7 saat
+428,Kamil Koç,İstanbul,Ordu,2023-10-01,7,241,2+1,5 saat
+429,Has Turizm,İzmir,Konya,2023-04-02,36,787,2+1,8 saat
+430,Düzce Güven,Malatya,Mersin,2023-04-13,21,281,2+2,11 saat
+431,Pamukkale,Malatya,Mersin,2023-09-18,25,301,2+2,9 saat
+432,Ali Osman Ulusoy,Konya,Adana,2023-02-04,6,1089,2+2,12 saat
+433,Düzce Güven,Malatya,Trabzon,2023-01-10,12,833,2+1,11 saat
+434,Buzlu Turizm,İstanbul,Isparta,2023-12-05,6,323,2+1,9 saat
+435,Ulusoy,Diyarbakır,İstanbul,2023-10-26,23,1168,2+1,10 saat
+436,Metro Turizm,Ankara,İstanbul,2023-12-02,31,1022,2+1,6 saat
+437,Buzlu Turizm,İstanbul,Bursa,2023-10-23,33,486,2+1,9 saat
+438,Ulusoy,Eskişehir,Konya,2023-02-24,27,695,2+2,9 saat
+439,Buzlu Turizm,Trabzon,İstanbul,2023-03-14,27,333,2+2,5 saat
+440,Metro Turizm,Eskişehir,Mersin,2023-06-06,15,416,2+2,11 saat
+441,Kamil Koç,Sivas,İzmir,2023-08-24,27,916,2+2,5 saat
+442,Düzce Güven,Adana,Trabzon,2023-05-29,39,686,2+2,10 saat
+443,Has Turizm,Antalya,Malatya,2023-10-29,17,1165,2+1,11 saat
+444,Düzce Güven,İstanbul,İzmir,2023-04-16,3,936,2+2,12 saat
+445,Nilüfer,Bursa,Trabzon,2023-12-03,11,514,2+2,11 saat
+446,Kamil Koç,İstanbul,Diyarbakır,2023-11-13,23,663,2+1,7 saat
+447,Pamukkale,Antalya,Diyarbakır,2023-05-06,29,455,2+2,9 saat
+448,Lüks Artvin,Malatya,Isparta,2023-09-23,42,898,2+1,5 saat
+449,Pamukkale,Eskişehir,Ordu,2023-11-08,44,644,2+1,8 saat
+450,Nilüfer,İzmir,Samsun,2023-11-28,34,840,2+2,11 saat
+451,Düzce Güven,Ankara,Diyarbakır,2023-06-30,5,498,2+2,4 saat
+452,Buzlu Turizm,Antalya,Eskişehir,2023-05-21,19,1131,2+1,4 saat
+453,Ali Osman Ulusoy,Mersin,Antalya,2023-08-04,17,1013,2+1,11 saat
+454,Metro Turizm,İzmir,Diyarbakır,2023-09-07,45,578,2+1,8 saat
+455,Kamil Koç,Ordu,Isparta,2023-10-09,39,346,2+2,7 saat
+456,Nilüfer,Samsun,Bursa,2023-02-13,31,561,2+2,4 saat
+457,Has Turizm,Isparta,Bursa,2023-06-30,43,951,2+1,10 saat
+458,Lüks Artvin,Sivas,Eskişehir,2023-08-16,14,852,2+2,7 saat
+459,Has Turizm,Gaziantep,Erzurum,2023-09-19,2,980,2+2,8 saat
+460,Varan Turizm,Samsun,Adana,2023-03-25,26,688,2+2,9 saat
+461,Ali Osman Ulusoy,Gaziantep,Diyarbakır,2023-07-17,24,279,2+2,12 saat
+462,Düzce Güven,Bursa,Konya,2023-02-12,21,404,2+2,4 saat
+463,VIB Turizm,Kayseri,Erzurum,2023-11-17,43,872,2+2,9 saat
+464,Düzce Güven,Mersin,Diyarbakır,2023-03-20,11,873,2+1,5 saat
+465,Pamukkale,Eskişehir,İstanbul,2023-01-23,31,1004,2+1,11 saat
+466,Pamukkale,Adana,Diyarbakır,2023-08-26,30,416,2+2,7 saat
+467,Pamukkale,Gaziantep,Malatya,2023-08-26,40,1084,2+2,11 saat
+468,Kamil Koç,Ordu,Samsun,2023-06-28,3,558,2+2,11 saat
+469,Nilüfer,İstanbul,Erzurum,2023-04-17,1,462,2+1,11 saat
+470,Has Turizm,Sivas,Gaziantep,2023-09-29,42,762,2+1,6 saat
+471,Ulusoy,Malatya,Konya,2023-04-26,5,880,2+2,6 saat
+472,Buzlu Turizm,Ankara,Eskişehir,2023-07-11,18,542,2+1,5 saat
+473,Ali Osman Ulusoy,Mersin,Ankara,2023-03-30,17,881,2+2,8 saat
+474,Pamukkale,Bursa,Samsun,2023-03-27,5,1094,2+1,6 saat
+475,Lüks Artvin,Samsun,İzmir,2023-05-29,28,961,2+2,5 saat
+476,Ali Osman Ulusoy,Eskişehir,Diyarbakır,2023-12-02,20,791,2+2,11 saat
+477,Pamukkale,Ordu,Ankara,2023-02-06,17,982,2+2,9 saat
+478,Varan Turizm,İstanbul,Kayseri,2023-08-29,26,880,2+2,9 saat
+479,Pamukkale,Diyarbakır,Adana,2023-11-27,2,562,2+2,8 saat
+480,Metro Turizm,Trabzon,Malatya,2023-09-01,34,919,2+2,10 saat
+481,Varan Turizm,Adana,Eskişehir,2023-05-03,28,246,2+1,4 saat
+482,Metro Turizm,Ankara,Mersin,2023-03-31,19,674,2+1,11 saat
+483,Has Turizm,Sivas,Mersin,2023-08-29,16,1087,2+2,6 saat
+484,VIB Turizm,İstanbul,Isparta,2023-04-01,7,518,2+2,11 saat
+485,Pamukkale,Kayseri,Sivas,2023-08-02,16,966,2+1,4 saat
+486,Düzce Güven,Ankara,Trabzon,2023-08-05,29,502,2+1,5 saat
+487,VIB Turizm,Mersin,Adana,2023-04-17,8,481,2+1,7 saat
+488,Kamil Koç,Ankara,Antalya,2023-05-15,35,1138,2+2,7 saat
+489,Pamukkale,Eskişehir,Diyarbakır,2023-05-27,24,236,2+1,11 saat
+490,Varan Turizm,Adana,Isparta,2023-11-08,37,634,2+1,11 saat
+491,VIB Turizm,Kayseri,Adana,2023-08-26,39,903,2+2,5 saat
+492,Lüks Artvin,Ankara,Mersin,2023-11-08,41,301,2+1,10 saat
+493,Düzce Güven,Gaziantep,Konya,2023-12-13,6,1165,2+2,9 saat
+494,Ulusoy,Ordu,İstanbul,2023-02-12,36,1048,2+1,7 saat
+495,Ulusoy,Ankara,Bursa,2023-02-05,7,981,2+2,12 saat
+496,Düzce Güven,İzmir,Malatya,2023-12-04,35,938,2+2,4 saat
+497,Ulusoy,Antalya,Bursa,2023-02-06,26,747,2+1,7 saat
+498,Varan Turizm,Sivas,Ordu,2023-11-02,12,592,2+1,7 saat
+499,Pamukkale,Antalya,Gaziantep,2023-03-30,39,1091,2+2,5 saat
+500,Tokat Seyahat,Isparta,Eskişehir,2023-03-13,2,1170,2+2,8 saat
+501,Lüks Artvin,Kayseri,Erzurum,2023-05-31,3,976,2+2,12 saat
+502,Düzce Güven,Konya,Gaziantep,2023-06-01,42,974,2+1,10 saat
+503,Ulusoy,Ankara,Isparta,2023-04-19,18,485,2+1,9 saat
+504,Has Turizm,Antalya,Gaziantep,2023-05-11,44,201,2+1,8 saat
+505,Has Turizm,Trabzon,Malatya,2023-04-19,26,724,2+2,12 saat
+506,Pamukkale,Erzurum,Malatya,2023-12-17,10,458,2+2,8 saat
+507,Düzce Güven,Mersin,Samsun,2023-12-25,1,1116,2+2,5 saat
+508,Lüks Artvin,Ordu,İstanbul,2023-09-20,30,938,2+2,11 saat
+509,VIB Turizm,Isparta,Ordu,2023-03-06,31,769,2+1,7 saat
+510,Pamukkale,Samsun,Sivas,2023-07-28,12,857,2+2,4 saat
+511,Kamil Koç,Mersin,Van,2023-09-16,28,761,2+1,9 saat
+512,Metro Turizm,Ordu,İstanbul,2023-06-11,43,432,2+2,4 saat
+513,Ulusoy,Gaziantep,Trabzon,2023-08-03,24,215,2+1,4 saat
+514,Ulusoy,Konya,Mersin,2023-03-20,32,247,2+2,10 saat
+515,Düzce Güven,Van,Malatya,2023-06-20,33,298,2+1,11 saat
+516,Metro Turizm,İstanbul,Konya,2023-09-28,20,491,2+1,4 saat
+517,Nilüfer,Samsun,Ordu,2023-04-09,31,256,2+1,10 saat
+518,Ulusoy,Sivas,İzmir,2023-01-31,34,841,2+1,6 saat
+519,Ali Osman Ulusoy,Bursa,İzmir,2023-08-29,29,472,2+1,8 saat
+520,Lüks Artvin,Ankara,Adana,2023-05-07,15,363,2+1,11 saat
+521,Kamil Koç,İzmir,Ordu,2023-04-14,10,512,2+2,8 saat
+522,Has Turizm,Isparta,Konya,2023-05-07,38,784,2+1,9 saat
+523,Ali Osman Ulusoy,Konya,Trabzon,2023-03-08,1,262,2+2,7 saat
+524,Ulusoy,Diyarbakır,Eskişehir,2023-02-07,24,922,2+2,6 saat
+525,Has Turizm,Erzurum,Samsun,2023-08-30,39,1191,2+1,9 saat
+526,Varan Turizm,Adana,Konya,2023-07-26,15,299,2+2,12 saat
+527,Has Turizm,Konya,Mersin,2023-12-02,39,398,2+1,5 saat
+528,VIB Turizm,Konya,İzmir,2023-03-09,19,442,2+1,5 saat
+529,Düzce Güven,Eskişehir,İzmir,2023-04-20,38,1145,2+2,11 saat
+530,Düzce Güven,Mersin,Adana,2023-02-10,25,1139,2+1,8 saat
+531,Tokat Seyahat,Eskişehir,İstanbul,2023-03-29,21,1164,2+1,10 saat
+532,Has Turizm,İstanbul,Ordu,2023-06-20,18,576,2+2,7 saat
+533,Tokat Seyahat,Mersin,Gaziantep,2023-09-07,41,752,2+1,10 saat
+534,Ali Osman Ulusoy,Mersin,Kayseri,2023-10-22,38,972,2+2,12 saat
+535,Pamukkale,İstanbul,Isparta,2023-02-20,14,689,2+2,5 saat
+536,Tokat Seyahat,Mersin,Erzurum,2023-05-31,12,817,2+2,11 saat
+537,Kamil Koç,Erzurum,Sivas,2023-02-07,27,1067,2+1,4 saat
+538,Nilüfer,Gaziantep,Bursa,2023-03-28,45,1159,2+1,12 saat
+539,Buzlu Turizm,Malatya,Isparta,2023-09-21,2,642,2+1,8 saat
+540,Metro Turizm,Bursa,Konya,2023-10-13,32,540,2+1,7 saat
+541,Nilüfer,Malatya,İstanbul,2023-07-31,34,921,2+1,5 saat
+542,Ulusoy,Malatya,Bursa,2023-06-20,35,1171,2+1,12 saat
+543,Varan Turizm,Diyarbakır,Van,2023-02-09,5,1105,2+1,5 saat
+544,Buzlu Turizm,Malatya,Konya,2023-07-01,28,872,2+2,5 saat
+545,Nilüfer,Van,Mersin,2023-12-08,10,1178,2+1,5 saat
+546,Düzce Güven,Ankara,Trabzon,2023-09-19,25,753,2+1,10 saat
+547,Buzlu Turizm,Adana,Isparta,2023-09-12,36,1132,2+1,9 saat
+548,Kamil Koç,Erzurum,Adana,2023-09-13,14,552,2+2,4 saat
+549,Pamukkale,İstanbul,Adana,2023-03-02,33,995,2+2,7 saat
+550,Ali Osman Ulusoy,Erzurum,Antalya,2023-01-13,17,992,2+2,6 saat
+551,Has Turizm,Adana,Eskişehir,2023-09-20,21,785,2+2,9 saat
+552,Lüks Artvin,Erzurum,İstanbul,2023-09-20,31,813,2+2,5 saat
+553,VIB Turizm,Bursa,Eskişehir,2023-09-06,7,1096,2+2,9 saat
+554,Buzlu Turizm,Samsun,Bursa,2023-08-21,42,565,2+2,12 saat
+555,Ulusoy,Konya,Adana,2023-07-23,35,1095,2+1,12 saat
+556,Pamukkale,Bursa,Gaziantep,2023-12-05,40,851,2+2,10 saat
+557,Pamukkale,Adana,Sivas,2023-08-03,34,726,2+2,11 saat
+558,Pamukkale,Gaziantep,Konya,2023-02-25,18,269,2+2,11 saat
+559,Düzce Güven,Adana,Antalya,2023-05-26,43,649,2+2,7 saat
+560,Tokat Seyahat,Eskişehir,Erzurum,2023-01-09,17,956,2+1,10 saat
+561,Ali Osman Ulusoy,Van,Antalya,2023-01-21,35,972,2+1,6 saat
+562,Tokat Seyahat,Isparta,İzmir,2023-09-22,44,1146,2+1,9 saat
+563,Has Turizm,İzmir,Gaziantep,2023-02-15,28,539,2+2,7 saat
+564,Düzce Güven,Mersin,İstanbul,2023-12-08,25,435,2+2,6 saat
+565,Kamil Koç,Ankara,Adana,2023-01-01,25,975,2+1,7 saat
+566,Has Turizm,Gaziantep,Samsun,2023-07-10,37,658,2+2,6 saat
+567,Kamil Koç,Erzurum,İstanbul,2023-12-21,33,334,2+2,11 saat
+568,Düzce Güven,Mersin,Bursa,2023-03-07,15,593,2+2,10 saat
+569,Nilüfer,Malatya,Kayseri,2023-08-20,13,379,2+1,7 saat
+570,Buzlu Turizm,Antalya,Van,2023-09-19,29,1137,2+2,7 saat
+571,Düzce Güven,Eskişehir,Erzurum,2023-07-16,6,1068,2+2,10 saat
+572,Kamil Koç,Kayseri,Eskişehir,2023-09-11,4,460,2+1,9 saat
+573,Metro Turizm,İzmir,Diyarbakır,2023-03-07,6,623,2+1,9 saat
+574,Varan Turizm,Van,Antalya,2023-05-12,28,836,2+2,6 saat
+575,Ulusoy,Eskişehir,Trabzon,2023-03-17,20,1046,2+2,8 saat
+576,Lüks Artvin,Eskişehir,Adana,2023-11-26,43,1133,2+1,4 saat
+577,Lüks Artvin,Konya,Antalya,2023-05-17,39,483,2+2,7 saat
+578,Pamukkale,Samsun,Adana,2023-03-25,29,800,2+1,8 saat
+579,Ali Osman Ulusoy,İstanbul,Samsun,2023-01-20,19,328,2+2,10 saat
+580,Metro Turizm,Antalya,Kayseri,2023-07-02,23,1143,2+2,9 saat
+581,Ulusoy,Isparta,Sivas,2023-11-22,17,1007,2+1,6 saat
+582,Buzlu Turizm,Kayseri,Trabzon,2023-07-26,42,1102,2+1,9 saat
+583,Pamukkale,Trabzon,Van,2023-01-22,17,745,2+2,11 saat
+584,Pamukkale,Isparta,Ankara,2023-10-02,34,533,2+2,8 saat
+585,Nilüfer,Trabzon,Konya,2023-10-26,36,223,2+2,10 saat
+586,Tokat Seyahat,Antalya,Sivas,2023-08-15,40,778,2+2,6 saat
+587,Buzlu Turizm,Van,Sivas,2023-05-31,5,468,2+1,10 saat
+588,Kamil Koç,Gaziantep,İzmir,2023-08-09,26,337,2+1,12 saat
+589,Pamukkale,Isparta,Kayseri,2023-05-17,5,214,2+1,9 saat
+590,Kamil Koç,Sivas,Konya,2023-11-19,32,271,2+1,9 saat
+591,Nilüfer,Samsun,Ordu,2023-09-04,15,657,2+1,8 saat
+592,Kamil Koç,Mersin,Malatya,2023-03-30,13,1134,2+1,4 saat
+593,Tokat Seyahat,Samsun,Gaziantep,2023-07-03,26,1075,2+1,6 saat
+594,Metro Turizm,Sivas,Ordu,2023-12-06,35,202,2+2,4 saat
+595,Nilüfer,Erzurum,Bursa,2023-04-29,31,512,2+2,6 saat
+596,Has Turizm,Diyarbakır,Malatya,2023-09-18,3,397,2+1,6 saat
+597,Ulusoy,Trabzon,Ordu,2023-07-19,15,539,2+1,6 saat
+598,Kamil Koç,Isparta,Eskişehir,2023-12-28,32,690,2+2,9 saat
+599,VIB Turizm,Samsun,Ankara,2023-08-17,42,348,2+1,10 saat
+600,Düzce Güven,Gaziantep,Adana,2023-02-10,3,769,2+1,12 saat
+601,Ulusoy,Mersin,Adana,2023-04-26,36,899,2+2,9 saat
+602,Varan Turizm,Kayseri,Diyarbakır,2023-01-25,19,373,2+1,9 saat
+603,Ali Osman Ulusoy,Erzurum,Isparta,2023-03-05,15,375,2+2,9 saat
+604,Lüks Artvin,Mersin,Adana,2023-10-21,29,216,2+2,6 saat
+605,VIB Turizm,Erzurum,Isparta,2023-01-30,28,659,2+1,6 saat
+606,Düzce Güven,İstanbul,Ordu,2023-11-12,33,270,2+2,6 saat
+607,Pamukkale,Samsun,Trabzon,2023-10-20,8,1181,2+2,10 saat
+608,VIB Turizm,İstanbul,Isparta,2023-12-06,26,253,2+2,9 saat
+609,Nilüfer,Ankara,İzmir,2023-03-07,31,550,2+2,6 saat
+610,Pamukkale,Trabzon,Ordu,2023-04-22,39,1016,2+1,12 saat
+611,Tokat Seyahat,Eskişehir,Van,2023-02-19,37,612,2+2,12 saat
+612,Pamukkale,Mersin,Malatya,2023-03-13,24,679,2+1,12 saat
+613,Lüks Artvin,Mersin,Eskişehir,2023-07-27,27,509,2+1,11 saat
+614,Ali Osman Ulusoy,İstanbul,İzmir,2023-09-26,7,679,2+1,10 saat
+615,VIB Turizm,Kayseri,Konya,2023-07-05,30,963,2+2,6 saat
+616,Düzce Güven,Samsun,Adana,2023-05-10,26,1174,2+2,4 saat
+617,Kamil Koç,Bursa,Kayseri,2023-05-03,9,571,2+1,5 saat
+618,Has Turizm,Bursa,Sivas,2023-12-21,17,278,2+2,7 saat
+619,Düzce Güven,Adana,Malatya,2023-12-17,39,1070,2+1,5 saat
+620,Lüks Artvin,Antalya,Ankara,2023-01-30,24,1115,2+2,4 saat
+621,VIB Turizm,Antalya,İstanbul,2023-03-23,11,600,2+2,4 saat
+622,VIB Turizm,Ankara,Trabzon,2023-08-04,45,431,2+1,10 saat
+623,Kamil Koç,İstanbul,Sivas,2023-11-17,43,585,2+2,6 saat
+624,Düzce Güven,Bursa,Samsun,2023-09-01,4,1021,2+2,9 saat
+625,Pamukkale,Gaziantep,Samsun,2023-10-17,33,293,2+1,8 saat
+626,Ali Osman Ulusoy,Diyarbakır,Adana,2023-12-04,17,460,2+2,11 saat
+627,Ulusoy,Bursa,Diyarbakır,2023-07-11,25,1108,2+2,8 saat
+628,Has Turizm,Gaziantep,Trabzon,2023-03-12,18,966,2+2,8 saat
+629,VIB Turizm,Ordu,Antalya,2023-01-20,9,266,2+2,8 saat
+630,Ali Osman Ulusoy,Diyarbakır,Gaziantep,2023-09-16,13,876,2+1,9 saat
+631,Tokat Seyahat,Mersin,Adana,2023-12-15,18,626,2+1,10 saat
+632,Ali Osman Ulusoy,Erzurum,İzmir,2023-01-25,5,808,2+1,12 saat
+633,Tokat Seyahat,Ankara,Erzurum,2023-01-24,7,791,2+2,10 saat
+634,Tokat Seyahat,Konya,Kayseri,2023-11-15,31,356,2+1,9 saat
+635,Kamil Koç,Malatya,Sivas,2023-02-21,43,269,2+1,11 saat
+636,Ulusoy,Mersin,Erzurum,2023-12-03,42,518,2+1,12 saat
+637,Ali Osman Ulusoy,Adana,Samsun,2023-01-24,31,817,2+2,9 saat
+638,VIB Turizm,Adana,Isparta,2023-05-16,35,632,2+1,8 saat
+639,Düzce Güven,Trabzon,Konya,2023-03-22,39,872,2+2,10 saat
+640,Nilüfer,Samsun,Sivas,2023-08-08,42,216,2+2,5 saat
+641,Pamukkale,Samsun,İstanbul,2023-02-18,23,338,2+2,6 saat
+642,Düzce Güven,İstanbul,Antalya,2023-07-01,41,352,2+2,4 saat
+643,Tokat Seyahat,İstanbul,İzmir,2023-12-24,34,465,2+2,12 saat
+644,Lüks Artvin,Isparta,Ankara,2023-02-08,34,635,2+2,9 saat
+645,Lüks Artvin,Kayseri,Bursa,2023-05-16,43,275,2+2,10 saat
+646,Buzlu Turizm,Kayseri,Adana,2023-05-19,43,571,2+1,8 saat
+647,Nilüfer,Gaziantep,Kayseri,2023-06-18,27,935,2+2,9 saat
+648,Tokat Seyahat,Adana,Diyarbakır,2023-09-29,24,401,2+1,5 saat
+649,Metro Turizm,Van,Mersin,2023-03-03,39,393,2+1,8 saat
+650,Has Turizm,Erzurum,Kayseri,2023-04-06,39,563,2+1,12 saat
+651,Kamil Koç,Konya,Isparta,2023-05-21,18,902,2+2,10 saat
+652,Kamil Koç,İzmir,Ankara,2023-04-03,26,310,2+2,11 saat
+653,Nilüfer,Malatya,Trabzon,2023-04-06,2,865,2+1,11 saat
+654,Has Turizm,Gaziantep,Adana,2023-01-15,15,207,2+1,8 saat
+655,Tokat Seyahat,Kayseri,Gaziantep,2023-12-28,38,344,2+2,8 saat
+656,Varan Turizm,Kayseri,Antalya,2023-03-19,24,973,2+2,4 saat
+657,Buzlu Turizm,İstanbul,Gaziantep,2023-04-02,6,1055,2+2,5 saat
+658,Metro Turizm,Konya,Trabzon,2023-12-03,20,822,2+1,9 saat
+659,Has Turizm,Malatya,İstanbul,2023-07-24,19,795,2+2,7 saat
+660,Metro Turizm,Erzurum,Trabzon,2023-08-06,15,1024,2+2,4 saat
+661,Kamil Koç,Ankara,Isparta,2023-01-02,2,1027,2+2,6 saat
+662,VIB Turizm,Samsun,Bursa,2023-10-13,26,564,2+1,10 saat
+663,Tokat Seyahat,Erzurum,Samsun,2023-01-02,45,483,2+2,8 saat
+664,Has Turizm,Mersin,Van,2023-08-09,15,558,2+2,12 saat
+665,Pamukkale,Van,Sivas,2023-12-21,41,1026,2+1,9 saat
+666,Pamukkale,Bursa,Adana,2023-12-12,25,375,2+1,7 saat
+667,Düzce Güven,Ankara,Adana,2023-02-26,20,302,2+1,4 saat
+668,Lüks Artvin,Trabzon,Samsun,2023-10-21,40,289,2+1,8 saat
+669,Düzce Güven,Antalya,Diyarbakır,2023-05-10,13,334,2+1,11 saat
+670,Ulusoy,Mersin,Adana,2023-04-07,40,1000,2+2,5 saat
+671,Düzce Güven,Bursa,Trabzon,2023-05-10,3,869,2+1,6 saat
+672,Kamil Koç,Konya,Diyarbakır,2023-05-31,1,948,2+1,8 saat
+673,VIB Turizm,Eskişehir,Samsun,2023-02-21,9,270,2+1,4 saat
+674,Kamil Koç,Antalya,Gaziantep,2023-06-10,31,478,2+2,6 saat
+675,Ulusoy,İzmir,Diyarbakır,2023-07-17,29,1048,2+1,10 saat
+676,Ali Osman Ulusoy,Eskişehir,Erzurum,2023-03-01,41,1192,2+2,9 saat
+677,Lüks Artvin,Antalya,İzmir,2023-06-08,8,742,2+1,4 saat
+678,Has Turizm,Kayseri,Diyarbakır,2023-03-21,35,1146,2+2,6 saat
+679,Ulusoy,Gaziantep,İstanbul,2023-08-24,27,244,2+1,4 saat
+680,Ulusoy,Sivas,Mersin,2023-05-01,34,684,2+2,5 saat
+681,Metro Turizm,Sivas,Kayseri,2023-02-27,1,827,2+1,8 saat
+682,Buzlu Turizm,İzmir,Adana,2023-10-24,14,1011,2+1,8 saat
+683,Buzlu Turizm,Erzurum,Van,2023-08-14,22,579,2+1,5 saat
+684,Ali Osman Ulusoy,Malatya,Erzurum,2023-04-10,16,1171,2+1,8 saat
+685,Lüks Artvin,Isparta,Erzurum,2023-08-17,16,615,2+1,12 saat
+686,Pamukkale,Erzurum,Antalya,2023-09-20,33,476,2+2,8 saat
+687,Ulusoy,Antalya,Bursa,2023-02-01,2,536,2+1,8 saat
+688,Has Turizm,Ankara,Mersin,2023-02-07,36,599,2+1,7 saat
+689,Lüks Artvin,Erzurum,Sivas,2023-05-30,20,651,2+2,12 saat
+690,Varan Turizm,Diyarbakır,Malatya,2023-02-28,36,324,2+2,9 saat
+691,Tokat Seyahat,Konya,Antalya,2023-08-04,21,1193,2+1,11 saat
+692,Metro Turizm,Bursa,Antalya,2023-03-24,14,239,2+2,9 saat
+693,VIB Turizm,Erzurum,Diyarbakır,2023-01-15,39,1110,2+2,5 saat
+694,Metro Turizm,Malatya,Diyarbakır,2023-05-15,9,863,2+1,11 saat
+695,Pamukkale,Malatya,Ordu,2023-01-28,20,363,2+1,10 saat
+696,Metro Turizm,Antalya,İstanbul,2023-08-11,6,875,2+1,5 saat
+697,Metro Turizm,Bursa,Kayseri,2023-06-16,1,674,2+1,11 saat
+698,Tokat Seyahat,Kayseri,Eskişehir,2023-06-29,33,765,2+1,12 saat
+699,Kamil Koç,Trabzon,Diyarbakır,2023-07-27,12,955,2+2,8 saat
+700,Nilüfer,İstanbul,Kayseri,2023-05-25,28,1191,2+2,8 saat
+701,Tokat Seyahat,Ankara,Samsun,2023-03-12,41,806,2+2,6 saat
+702,Metro Turizm,Isparta,Erzurum,2023-10-19,22,417,2+1,7 saat
+703,Lüks Artvin,Eskişehir,Ordu,2023-05-19,23,668,2+2,5 saat
+704,Lüks Artvin,Diyarbakır,Kayseri,2023-09-07,44,871,2+1,4 saat
+705,Nilüfer,İzmir,Antalya,2023-06-11,14,449,2+2,11 saat
+706,Pamukkale,Mersin,İzmir,2023-10-20,26,625,2+2,10 saat
+707,Lüks Artvin,Malatya,İzmir,2023-08-04,21,601,2+2,6 saat
+708,Düzce Güven,Sivas,Eskişehir,2023-04-10,42,788,2+2,9 saat
+709,Lüks Artvin,Erzurum,Sivas,2023-10-29,34,783,2+1,8 saat
+710,Kamil Koç,Mersin,Sivas,2023-08-19,28,385,2+2,11 saat
+711,VIB Turizm,Trabzon,Kayseri,2023-07-03,19,560,2+1,12 saat
+712,Buzlu Turizm,Isparta,İzmir,2023-11-06,10,362,2+2,5 saat
+713,Tokat Seyahat,Konya,Gaziantep,2023-02-11,40,988,2+1,10 saat
+714,VIB Turizm,İstanbul,Erzurum,2023-02-17,25,615,2+2,8 saat
+715,Kamil Koç,Isparta,Kayseri,2023-04-28,1,628,2+2,5 saat
+716,Metro Turizm,Adana,Sivas,2023-10-10,22,439,2+2,10 saat
+717,Varan Turizm,Ordu,Ankara,2023-04-20,45,914,2+1,8 saat
+718,Ali Osman Ulusoy,Malatya,Trabzon,2023-06-14,11,555,2+1,4 saat
+719,Buzlu Turizm,Ankara,Mersin,2023-12-10,31,491,2+2,12 saat
+720,Düzce Güven,Trabzon,Antalya,2023-09-27,45,706,2+2,10 saat
+721,VIB Turizm,İzmir,Kayseri,2023-12-12,38,540,2+1,9 saat
+722,Kamil Koç,Sivas,Samsun,2023-07-30,10,748,2+2,10 saat
+723,Has Turizm,Van,Ordu,2023-10-07,8,206,2+2,12 saat
+724,Buzlu Turizm,Adana,Ordu,2023-06-03,13,245,2+2,9 saat
+725,Tokat Seyahat,İzmir,Isparta,2023-08-21,28,1093,2+1,4 saat
+726,Pamukkale,Antalya,Erzurum,2023-04-24,20,1030,2+2,12 saat
+727,VIB Turizm,Van,Eskişehir,2023-11-28,44,713,2+2,9 saat
+728,Tokat Seyahat,İstanbul,Gaziantep,2023-05-01,24,1091,2+1,6 saat
+729,Buzlu Turizm,Samsun,Malatya,2023-11-05,44,715,2+2,5 saat
+730,Nilüfer,Konya,Antalya,2023-03-04,3,512,2+1,11 saat
+731,Düzce Güven,Isparta,Adana,2023-10-26,37,310,2+2,7 saat
+732,Lüks Artvin,Malatya,Samsun,2023-01-21,6,296,2+1,9 saat
+733,Nilüfer,Kayseri,Konya,2023-04-11,43,1024,2+1,8 saat
+734,Ulusoy,Mersin,Isparta,2023-05-20,4,294,2+1,12 saat
+735,Varan Turizm,Mersin,İstanbul,2023-08-29,35,277,2+1,10 saat
+736,Pamukkale,Bursa,Malatya,2023-11-17,38,332,2+1,11 saat
+737,Metro Turizm,Kayseri,Samsun,2023-08-05,4,209,2+2,6 saat
+738,Düzce Güven,Ordu,Eskişehir,2023-11-30,29,406,2+1,12 saat
+739,Düzce Güven,Bursa,Antalya,2023-10-30,9,286,2+2,6 saat
+740,Tokat Seyahat,İstanbul,Samsun,2023-06-30,44,385,2+1,9 saat
+741,Buzlu Turizm,Kayseri,İstanbul,2023-02-09,36,762,2+1,12 saat
+742,Kamil Koç,Erzurum,Trabzon,2023-01-07,1,912,2+2,12 saat
+743,Ali Osman Ulusoy,Mersin,Ordu,2023-06-18,18,381,2+1,7 saat
+744,Tokat Seyahat,Erzurum,Van,2023-01-21,24,422,2+2,12 saat
+745,Varan Turizm,Adana,Bursa,2023-07-30,18,865,2+2,4 saat
+746,Kamil Koç,Diyarbakır,Antalya,2023-07-25,34,638,2+2,11 saat
+747,Buzlu Turizm,Malatya,Samsun,2023-07-02,42,924,2+2,7 saat
+748,VIB Turizm,Erzurum,İstanbul,2023-04-20,21,979,2+1,9 saat
+749,Nilüfer,Van,İzmir,2023-12-19,2,936,2+2,10 saat
+750,Ali Osman Ulusoy,Diyarbakır,İzmir,2023-12-10,8,1089,2+2,11 saat
+751,Tokat Seyahat,Erzurum,Ankara,2023-04-25,34,944,2+2,4 saat
+752,Tokat Seyahat,Isparta,Konya,2023-08-18,4,1152,2+1,9 saat
+753,Varan Turizm,Erzurum,Adana,2023-12-02,10,1164,2+2,4 saat
+754,Kamil Koç,Konya,Isparta,2023-03-30,31,949,2+2,7 saat
+755,Kamil Koç,İzmir,Erzurum,2023-04-21,41,347,2+1,9 saat
+756,Tokat Seyahat,Mersin,Samsun,2023-12-24,27,386,2+1,12 saat
+757,Has Turizm,Ordu,Kayseri,2023-09-11,30,611,2+1,10 saat
+758,VIB Turizm,Gaziantep,İzmir,2023-09-18,43,1083,2+2,12 saat
+759,Düzce Güven,Malatya,Samsun,2023-07-19,40,342,2+1,12 saat
+760,Tokat Seyahat,Malatya,İzmir,2023-01-25,18,1123,2+2,5 saat
+761,Metro Turizm,İstanbul,Adana,2023-05-31,38,570,2+1,5 saat
+762,Kamil Koç,Trabzon,Gaziantep,2023-01-10,26,211,2+2,4 saat
+763,Lüks Artvin,Antalya,Kayseri,2023-10-13,20,504,2+1,7 saat
+764,Pamukkale,Isparta,Kayseri,2023-04-05,34,698,2+2,8 saat
+765,Nilüfer,Erzurum,Sivas,2023-02-27,37,946,2+2,11 saat
+766,Varan Turizm,Sivas,Isparta,2023-09-03,18,942,2+2,6 saat
+767,Lüks Artvin,Erzurum,Adana,2023-01-25,22,639,2+2,7 saat
+768,Ulusoy,Eskişehir,Van,2023-01-10,27,807,2+2,6 saat
+769,Ulusoy,Erzurum,Samsun,2023-10-26,35,1048,2+2,6 saat
+770,Pamukkale,Gaziantep,Van,2023-03-14,22,571,2+2,6 saat
+771,VIB Turizm,Kayseri,İstanbul,2023-03-27,23,566,2+2,10 saat
+772,Kamil Koç,Erzurum,Antalya,2023-12-12,27,1188,2+1,4 saat
+773,Has Turizm,Van,Sivas,2023-10-08,14,421,2+2,10 saat
+774,Kamil Koç,Konya,Ordu,2023-12-03,2,1005,2+2,10 saat
+775,Ulusoy,Erzurum,İzmir,2023-06-07,18,1007,2+1,10 saat
+776,Ulusoy,Van,Eskişehir,2023-11-17,38,522,2+1,9 saat
+777,Ulusoy,İzmir,Erzurum,2023-10-22,39,398,2+2,9 saat
+778,Ulusoy,Diyarbakır,Isparta,2023-03-28,2,472,2+2,11 saat
+779,Tokat Seyahat,Malatya,Isparta,2023-01-10,19,317,2+1,10 saat
+780,Ulusoy,Ankara,İstanbul,2023-08-01,35,264,2+2,10 saat
+781,Lüks Artvin,Kayseri,Trabzon,2023-04-08,12,645,2+2,10 saat
+782,Metro Turizm,Sivas,Kayseri,2023-04-30,10,970,2+2,7 saat
+783,Tokat Seyahat,Malatya,Isparta,2023-07-03,33,669,2+2,5 saat
+784,Düzce Güven,Antalya,Mersin,2023-06-08,4,676,2+1,4 saat
+785,Nilüfer,Van,Ankara,2023-04-03,9,936,2+2,9 saat
+786,Has Turizm,Erzurum,Trabzon,2023-12-07,28,836,2+1,4 saat
+787,VIB Turizm,Trabzon,Ankara,2023-02-21,38,340,2+2,7 saat
+788,Kamil Koç,Eskişehir,Konya,2023-11-27,34,902,2+1,6 saat
+789,Metro Turizm,Sivas,Ankara,2023-01-26,43,697,2+1,9 saat
+790,Has Turizm,Gaziantep,Sivas,2023-04-09,7,417,2+1,12 saat
+791,Pamukkale,Kayseri,İstanbul,2023-06-02,41,648,2+1,8 saat
+792,Tokat Seyahat,İstanbul,Samsun,2023-04-22,30,439,2+2,6 saat
+793,Metro Turizm,Kayseri,İstanbul,2023-08-04,45,872,2+2,4 saat
+794,Düzce Güven,Isparta,Erzurum,2023-06-15,17,286,2+2,10 saat
+795,Metro Turizm,Adana,Mersin,2023-09-13,7,663,2+2,10 saat
+796,Tokat Seyahat,Ordu,İstanbul,2023-06-17,13,625,2+1,10 saat
+797,Varan Turizm,Antalya,Van,2023-03-28,28,267,2+2,7 saat
+798,Düzce Güven,Gaziantep,Isparta,2023-05-06,6,702,2+2,5 saat
+799,Pamukkale,Diyarbakır,İzmir,2023-10-08,37,876,2+1,10 saat
+800,Düzce Güven,İzmir,Ordu,2023-06-04,29,418,2+2,5 saat
+801,Varan Turizm,Kayseri,Gaziantep,2023-10-08,35,444,2+2,11 saat
+802,Kamil Koç,Eskişehir,Adana,2023-10-26,41,887,2+2,8 saat
+803,VIB Turizm,Antalya,Adana,2023-09-02,26,565,2+1,7 saat
+804,Ulusoy,İzmir,Diyarbakır,2023-08-08,41,289,2+2,5 saat
+805,Metro Turizm,Van,Konya,2023-03-07,13,458,2+1,7 saat
+806,Ali Osman Ulusoy,İzmir,Konya,2023-09-09,2,826,2+1,10 saat
+807,Ulusoy,Ordu,Malatya,2023-11-12,27,1184,2+1,11 saat
+808,Metro Turizm,Ankara,Mersin,2023-10-06,26,750,2+1,4 saat
+809,Buzlu Turizm,Adana,Erzurum,2023-11-16,39,785,2+1,6 saat
+810,Pamukkale,Mersin,Eskişehir,2023-10-27,34,221,2+1,8 saat
+811,Nilüfer,Kayseri,Ankara,2023-07-29,31,272,2+2,9 saat
+812,Düzce Güven,Sivas,Trabzon,2023-11-13,44,463,2+1,11 saat
+813,Has Turizm,Erzurum,Isparta,2023-07-22,16,866,2+2,10 saat
+814,Ali Osman Ulusoy,Kayseri,İstanbul,2024-01-01,42,238,2+2,11 saat
+815,Tokat Seyahat,Samsun,Gaziantep,2023-08-16,24,706,2+2,12 saat
+816,Varan Turizm,Kayseri,Van,2023-06-29,5,812,2+1,4 saat
+817,Tokat Seyahat,Kayseri,Mersin,2023-07-18,37,439,2+1,12 saat
+818,VIB Turizm,Mersin,Konya,2023-08-19,2,759,2+1,10 saat
+819,Varan Turizm,Eskişehir,Isparta,2023-05-04,10,1098,2+1,5 saat
+820,Varan Turizm,Van,Bursa,2023-04-07,14,858,2+2,10 saat
+821,Düzce Güven,Ordu,Isparta,2023-08-18,40,890,2+2,5 saat
+822,Pamukkale,Kayseri,Eskişehir,2023-01-08,27,1169,2+1,8 saat
+823,Nilüfer,Malatya,Adana,2023-07-02,27,871,2+1,9 saat
+824,Buzlu Turizm,Kayseri,Van,2023-10-27,40,698,2+2,10 saat
+825,Pamukkale,Ordu,Diyarbakır,2023-07-27,12,366,2+2,8 saat
+826,Nilüfer,Sivas,Ordu,2023-05-26,18,1041,2+1,6 saat
+827,Ali Osman Ulusoy,Van,İstanbul,2023-09-14,29,435,2+1,10 saat
+828,VIB Turizm,Trabzon,Antalya,2023-01-12,37,206,2+1,6 saat
+829,Kamil Koç,Ordu,Adana,2023-05-15,42,315,2+2,7 saat
+830,Varan Turizm,Erzurum,Sivas,2023-07-29,44,251,2+2,10 saat
+831,Lüks Artvin,Sivas,Gaziantep,2023-11-01,36,417,2+1,9 saat
+832,Ali Osman Ulusoy,İzmir,Ordu,2023-06-16,40,538,2+2,11 saat
+833,Pamukkale,Gaziantep,Antalya,2023-01-26,21,270,2+1,10 saat
+834,Ali Osman Ulusoy,Samsun,Trabzon,2023-07-08,7,901,2+1,9 saat
+835,Pamukkale,Eskişehir,Bursa,2023-07-30,41,970,2+1,6 saat
+836,Pamukkale,Kayseri,Diyarbakır,2023-06-05,5,1021,2+2,11 saat
+837,Metro Turizm,Trabzon,Gaziantep,2023-08-27,12,411,2+2,8 saat
+838,Ali Osman Ulusoy,Konya,Adana,2023-09-19,37,1188,2+2,5 saat
+839,Has Turizm,Adana,Ankara,2023-07-16,29,242,2+1,12 saat
+840,Pamukkale,Eskişehir,Van,2023-05-12,41,1077,2+1,7 saat
+841,Lüks Artvin,Sivas,Trabzon,2023-08-08,15,1057,2+2,11 saat
+842,Lüks Artvin,Malatya,Kayseri,2023-07-28,27,528,2+2,8 saat
+843,Düzce Güven,Malatya,Gaziantep,2023-05-24,21,717,2+2,9 saat
+844,Ulusoy,Bursa,İzmir,2023-09-18,32,724,2+1,9 saat
+845,Has Turizm,Ankara,Bursa,2023-10-16,43,1058,2+1,10 saat
+846,Düzce Güven,Sivas,İstanbul,2023-06-23,44,556,2+1,9 saat
+847,Ulusoy,Van,Erzurum,2023-03-21,11,894,2+2,4 saat
+848,Nilüfer,Konya,İzmir,2023-04-05,14,1007,2+2,6 saat
+849,Pamukkale,Kayseri,Ordu,2023-08-08,21,256,2+2,5 saat
+850,Buzlu Turizm,Trabzon,Van,2023-09-29,13,812,2+2,5 saat
+851,Has Turizm,Ankara,Isparta,2023-04-11,33,931,2+2,6 saat
+852,Düzce Güven,Kayseri,Adana,2023-01-20,25,600,2+1,7 saat
+853,Pamukkale,Trabzon,Kayseri,2023-08-07,35,1001,2+2,4 saat
+854,Ali Osman Ulusoy,Van,İzmir,2023-01-12,23,1109,2+1,11 saat
+855,Tokat Seyahat,Erzurum,Trabzon,2023-01-22,36,728,2+1,4 saat
+856,Varan Turizm,Sivas,Eskişehir,2023-10-21,6,1076,2+1,12 saat
+857,Tokat Seyahat,Eskişehir,Samsun,2023-02-24,13,1160,2+2,11 saat
+858,Ali Osman Ulusoy,Adana,Diyarbakır,2023-04-17,16,772,2+1,7 saat
+859,Tokat Seyahat,Konya,Samsun,2023-05-20,45,699,2+2,9 saat
+860,Has Turizm,Erzurum,Malatya,2023-06-20,38,1194,2+2,6 saat
+861,Ulusoy,Antalya,Erzurum,2023-08-28,35,1186,2+1,12 saat
+862,Tokat Seyahat,Ordu,Isparta,2023-07-31,44,257,2+2,10 saat
+863,Metro Turizm,Trabzon,İstanbul,2023-04-08,6,808,2+1,5 saat
+864,Lüks Artvin,Diyarbakır,Malatya,2023-12-05,24,429,2+2,6 saat
+865,Nilüfer,Ordu,İzmir,2023-02-24,31,253,2+1,10 saat
+866,Ali Osman Ulusoy,Eskişehir,Van,2023-11-05,27,855,2+1,9 saat
+867,Düzce Güven,İzmir,Antalya,2023-05-03,15,765,2+2,9 saat
+868,Metro Turizm,Antalya,Mersin,2023-11-29,12,421,2+1,5 saat
+869,Kamil Koç,İstanbul,Mersin,2023-12-21,14,878,2+1,12 saat
+870,Has Turizm,Kayseri,İstanbul,2023-11-07,35,985,2+2,10 saat
+871,Pamukkale,Malatya,Isparta,2023-06-26,23,344,2+1,4 saat
+872,Nilüfer,Ordu,Sivas,2023-07-04,20,278,2+2,6 saat
+873,Tokat Seyahat,Mersin,Ordu,2023-12-11,40,580,2+1,5 saat
+874,Tokat Seyahat,İzmir,Ankara,2023-10-09,4,1051,2+2,10 saat
+875,Metro Turizm,Antalya,Malatya,2023-08-07,42,642,2+1,10 saat
+876,Varan Turizm,Eskişehir,Adana,2023-06-04,7,337,2+2,11 saat
+877,Lüks Artvin,Trabzon,Bursa,2023-10-18,3,330,2+2,10 saat
+878,Has Turizm,Isparta,Erzurum,2023-12-14,2,378,2+2,4 saat
+879,Pamukkale,Samsun,Isparta,2023-10-22,17,671,2+2,8 saat
+880,Lüks Artvin,Diyarbakır,Sivas,2023-09-20,34,384,2+1,10 saat
+881,Düzce Güven,Kayseri,Adana,2023-03-05,31,672,2+1,7 saat
+882,Metro Turizm,Diyarbakır,Van,2023-02-19,34,346,2+1,11 saat
+883,Pamukkale,İstanbul,Sivas,2023-10-02,15,1072,2+2,8 saat
+884,Nilüfer,Antalya,Samsun,2023-09-19,15,1192,2+1,7 saat
+885,VIB Turizm,Isparta,Trabzon,2023-10-06,17,1120,2+1,10 saat
+886,Ulusoy,Eskişehir,Kayseri,2023-07-02,39,1091,2+2,11 saat
+887,Pamukkale,Trabzon,Gaziantep,2023-05-14,28,803,2+2,9 saat
+888,Kamil Koç,Gaziantep,Erzurum,2023-07-20,31,568,2+2,8 saat
+889,VIB Turizm,Diyarbakır,Konya,2023-02-17,37,562,2+1,6 saat
+890,Ali Osman Ulusoy,İstanbul,İzmir,2023-01-21,3,955,2+1,6 saat
+891,Kamil Koç,Bursa,Adana,2023-03-13,24,459,2+1,6 saat
+892,Tokat Seyahat,Eskişehir,Diyarbakır,2023-09-21,29,744,2+1,8 saat
+893,Pamukkale,Adana,Erzurum,2023-12-16,38,1085,2+2,5 saat
+894,Varan Turizm,Van,Eskişehir,2023-06-20,5,728,2+1,7 saat
+895,Düzce Güven,Erzurum,Van,2023-02-12,16,367,2+2,5 saat
+896,Ulusoy,İstanbul,İzmir,2023-06-09,11,1157,2+2,12 saat
+897,Nilüfer,İstanbul,Isparta,2023-07-15,23,589,2+1,10 saat
+898,Kamil Koç,Malatya,Samsun,2023-06-08,23,260,2+1,9 saat
+899,Nilüfer,Kayseri,Diyarbakır,2023-07-06,35,1132,2+2,6 saat
+900,VIB Turizm,İzmir,Ordu,2023-01-06,37,1168,2+1,7 saat
+901,Pamukkale,Antalya,Diyarbakır,2023-11-16,9,873,2+1,4 saat
+902,Düzce Güven,İstanbul,Gaziantep,2023-07-02,26,451,2+2,8 saat
+903,Pamukkale,Kayseri,Eskişehir,2023-09-06,17,338,2+1,4 saat
+904,Ulusoy,Konya,Samsun,2023-08-13,14,754,2+2,4 saat
+905,Tokat Seyahat,Samsun,Bursa,2023-05-09,38,988,2+2,12 saat
+906,Has Turizm,Malatya,Samsun,2023-09-02,37,306,2+2,9 saat
+907,Has Turizm,Diyarbakır,Isparta,2023-10-17,13,988,2+1,8 saat
+908,VIB Turizm,İstanbul,Samsun,2023-10-05,18,628,2+2,4 saat
+909,VIB Turizm,Diyarbakır,Sivas,2023-02-21,25,667,2+2,12 saat
+910,Düzce Güven,Kayseri,Eskişehir,2023-12-25,35,1031,2+1,9 saat
+911,Nilüfer,Van,Mersin,2023-02-14,37,1095,2+2,10 saat
+912,Buzlu Turizm,Malatya,Diyarbakır,2023-06-06,42,325,2+1,4 saat
+913,Has Turizm,Antalya,Samsun,2023-07-15,36,1104,2+1,11 saat
+914,VIB Turizm,Sivas,Erzurum,2023-03-31,24,349,2+1,11 saat
+915,Metro Turizm,Mersin,Gaziantep,2023-05-24,27,281,2+2,7 saat
+916,Tokat Seyahat,Kayseri,Ankara,2023-02-16,20,895,2+1,10 saat
+917,Has Turizm,Van,Mersin,2023-07-16,44,432,2+2,11 saat
+918,Varan Turizm,Erzurum,İstanbul,2023-12-26,38,1175,2+2,4 saat
+919,Has Turizm,Eskişehir,Samsun,2023-05-07,40,466,2+2,4 saat
+920,Tokat Seyahat,İzmir,Eskişehir,2023-06-13,32,807,2+2,8 saat
+921,VIB Turizm,İzmir,Sivas,2023-03-25,7,890,2+1,4 saat
+922,Varan Turizm,Samsun,İstanbul,2023-02-19,3,277,2+1,12 saat
+923,Has Turizm,Ankara,İzmir,2023-07-23,4,384,2+2,7 saat
+924,Kamil Koç,Ankara,İstanbul,2023-06-28,45,711,2+2,5 saat
+925,Pamukkale,Antalya,Van,2023-02-14,42,915,2+1,5 saat
+926,Düzce Güven,Van,Samsun,2023-04-02,25,490,2+2,12 saat
+927,Ulusoy,Kayseri,Antalya,2023-11-01,33,853,2+1,6 saat
+928,VIB Turizm,Isparta,Adana,2023-06-28,12,759,2+1,12 saat
+929,Tokat Seyahat,Antalya,Konya,2023-11-01,29,753,2+2,8 saat
+930,Varan Turizm,Malatya,Isparta,2023-03-06,25,412,2+2,6 saat
+931,Metro Turizm,Malatya,Ankara,2023-12-27,33,384,2+2,12 saat
+932,Tokat Seyahat,Erzurum,Eskişehir,2023-10-10,4,767,2+1,4 saat
+933,VIB Turizm,Konya,Isparta,2023-01-13,8,511,2+1,7 saat
+934,Nilüfer,Erzurum,Gaziantep,2023-03-03,39,1118,2+1,9 saat
+935,Pamukkale,Antalya,Ordu,2023-10-14,25,674,2+1,11 saat
+936,Has Turizm,Ankara,İstanbul,2023-02-18,6,566,2+1,4 saat
+937,Tokat Seyahat,Antalya,İstanbul,2023-05-08,19,437,2+1,11 saat
+938,Buzlu Turizm,Samsun,İzmir,2023-03-07,24,901,2+1,6 saat
+939,Düzce Güven,Gaziantep,Van,2023-01-28,13,1025,2+2,12 saat
+940,Ali Osman Ulusoy,Trabzon,Bursa,2023-03-29,43,885,2+1,10 saat
+941,Tokat Seyahat,İstanbul,İzmir,2023-05-02,36,1115,2+2,5 saat
+942,Tokat Seyahat,Ankara,Adana,2023-05-31,35,658,2+2,11 saat
+943,Varan Turizm,Isparta,Ankara,2023-06-18,31,1089,2+1,9 saat
+944,Ali Osman Ulusoy,Gaziantep,Samsun,2023-02-19,6,496,2+1,10 saat
+945,Nilüfer,Gaziantep,İstanbul,2023-11-03,11,665,2+2,12 saat
+946,Nilüfer,Eskişehir,Gaziantep,2023-12-31,39,275,2+2,11 saat
+947,Ulusoy,Isparta,Samsun,2023-08-22,28,845,2+2,8 saat
+948,Metro Turizm,Antalya,İzmir,2023-10-07,11,413,2+1,6 saat
+949,VIB Turizm,Gaziantep,Ankara,2023-08-28,28,738,2+1,8 saat
+950,Buzlu Turizm,Isparta,İstanbul,2023-08-05,28,411,2+1,9 saat
+951,Metro Turizm,Malatya,Van,2023-01-07,37,452,2+1,4 saat
+952,Metro Turizm,Kayseri,Adana,2023-05-19,44,436,2+2,7 saat
+953,Nilüfer,Eskişehir,Ordu,2023-08-29,11,211,2+2,9 saat
+954,Kamil Koç,Malatya,Trabzon,2023-11-15,27,648,2+2,7 saat
+955,Kamil Koç,Erzurum,Bursa,2023-12-16,28,253,2+1,11 saat
+956,Varan Turizm,Sivas,Isparta,2023-12-16,38,1040,2+1,10 saat
+957,Buzlu Turizm,Sivas,İzmir,2023-11-05,8,707,2+2,6 saat
+958,Düzce Güven,Kayseri,Isparta,2023-01-01,38,1071,2+1,6 saat
+959,Ali Osman Ulusoy,Isparta,Diyarbakır,2023-11-09,7,240,2+1,4 saat
+960,Metro Turizm,Eskişehir,Isparta,2023-02-09,24,1141,2+1,10 saat
+961,Has Turizm,Eskişehir,Mersin,2023-12-22,31,1139,2+1,8 saat
+962,Kamil Koç,Malatya,Ordu,2023-06-30,16,735,2+1,12 saat
+963,Tokat Seyahat,Bursa,Erzurum,2023-07-04,1,560,2+1,6 saat
+964,Has Turizm,Konya,Mersin,2023-04-28,25,461,2+2,8 saat
+965,Lüks Artvin,Kayseri,Adana,2023-07-21,37,1133,2+2,4 saat
+966,Ali Osman Ulusoy,İzmir,Samsun,2023-09-23,5,233,2+2,9 saat
+967,Nilüfer,Ankara,Konya,2023-04-24,33,570,2+2,12 saat
+968,Metro Turizm,Bursa,Diyarbakır,2023-08-07,5,1075,2+1,5 saat
+969,Has Turizm,Kayseri,İstanbul,2023-11-18,24,590,2+1,10 saat
+970,Lüks Artvin,Kayseri,Ankara,2023-01-30,14,889,2+1,10 saat
+971,Pamukkale,Malatya,Trabzon,2023-05-06,16,994,2+2,7 saat
+972,Varan Turizm,İstanbul,Sivas,2023-09-03,12,860,2+1,12 saat
+973,Varan Turizm,Eskişehir,Bursa,2023-12-10,43,957,2+1,6 saat
+974,Nilüfer,Ordu,İstanbul,2023-12-27,7,1150,2+2,12 saat
+975,Lüks Artvin,Adana,Diyarbakır,2023-03-10,7,848,2+2,9 saat
+976,Metro Turizm,Sivas,İstanbul,2023-04-18,44,302,2+1,10 saat
+977,Tokat Seyahat,Ankara,Adana,2023-08-11,19,508,2+1,12 saat
+978,Lüks Artvin,Kayseri,Sivas,2023-03-31,1,818,2+1,6 saat
+979,Lüks Artvin,Ankara,Samsun,2023-02-11,20,256,2+2,9 saat
+980,Varan Turizm,Antalya,Ankara,2023-01-05,16,767,2+2,5 saat
+981,Pamukkale,Eskişehir,Ankara,2023-10-13,25,417,2+1,12 saat
+982,Tokat Seyahat,Adana,Samsun,2023-08-31,17,261,2+1,5 saat
+983,Varan Turizm,Diyarbakır,İzmir,2023-10-16,4,963,2+1,8 saat
+984,Lüks Artvin,Trabzon,Antalya,2024-01-01,31,458,2+2,11 saat
+985,Pamukkale,Gaziantep,Erzurum,2023-07-28,10,669,2+1,9 saat
+986,Ali Osman Ulusoy,Gaziantep,Trabzon,2023-10-31,9,641,2+2,6 saat
+987,Pamukkale,Malatya,İzmir,2023-04-07,2,1084,2+1,6 saat
+988,Kamil Koç,İzmir,Ordu,2023-08-25,26,369,2+2,4 saat
+989,Düzce Güven,Samsun,İzmir,2023-04-26,24,1178,2+2,12 saat
+990,Pamukkale,Konya,Eskişehir,2023-06-07,21,498,2+1,10 saat
+991,Varan Turizm,Bursa,Malatya,2023-10-21,33,318,2+2,8 saat
+992,Nilüfer,Antalya,Erzurum,2023-09-03,23,315,2+2,9 saat
+993,VIB Turizm,Eskişehir,Ordu,2023-08-09,25,978,2+2,12 saat
+994,Lüks Artvin,Adana,Mersin,2023-08-29,32,1090,2+1,4 saat
+995,Ali Osman Ulusoy,İstanbul,Sivas,2023-02-16,1,300,2+2,9 saat
+996,VIB Turizm,Adana,Sivas,2023-05-13,26,1035,2+1,8 saat
+997,Ali Osman Ulusoy,Diyarbakır,Antalya,2023-07-24,4,846,2+2,11 saat
+998,Lüks Artvin,Antalya,İstanbul,2023-06-29,38,978,2+2,11 saat
+999,Has Turizm,Mersin,Ankara,2023-06-05,8,550,2+2,12 saat
+1000,Kamil Koç,Adana,Mersin,2023-10-26,19,654,2+2,4 saat
