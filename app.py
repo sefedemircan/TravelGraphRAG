@@ -5,12 +5,17 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.prompts.prompt import PromptTemplate
 import pandas as pd
 import gradio as gr
+from dotenv import load_dotenv
+import os
+
+# .env dosyasını yükle
+load_dotenv()
 
 # API anahtarları ve bağlantı bilgileri
-OPENAI_API_KEY = "your-openai-api-key"
-NEO4J_URI = "your-neo4j-uri"
-NEO4J_USERNAME = "your-username"
-NEO4J_PASSWORD = "your-password"
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+NEO4J_URI = os.getenv("NEO4J_URI")
+NEO4J_USERNAME = os.getenv("NEO4J_USERNAME")
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 
 # Hugging Face model
 embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
